@@ -7,6 +7,8 @@ import CandidateWildcardArgs as arg_script
 ####
 #    given a raw sentence, export
 #    [arg1, tac_rel, arg2, doc_info, s1_str, e1_str, s2_str, e2_str, sentence]
+#    or
+#    arg1 \t arg2 \t relation \t 1
 ####
 
 
@@ -40,6 +42,7 @@ def replace_by_sentence(line,vocab,rel_extr):
        res=[]
     return res
 def define_relations(s1,e1,s2,e2,sentence):
+    #bring into entity1 \t entity2 \t relation \t 1
     if s1 < s2:
         arg1_str = '$ARG1'
         arg2_str = '$ARG2'
@@ -57,12 +60,6 @@ def define_relations(s1,e1,s2,e2,sentence):
 
     return wild_card_sentence
     
-    #bring into entity1 \t entity2 \t relation \t 1
-
-#def define_relations(in_file):
-    #data = [arg_script.process_line(line, True) for line in open(in_file, 'r')]
-    #return data
-             
 
 def main(argv):
     in_file = ''
@@ -103,3 +100,4 @@ def main(argv):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
+
