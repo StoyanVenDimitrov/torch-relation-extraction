@@ -14,19 +14,26 @@ import CandidateWildcardArgs as arg_script
 
 def replace_by_sentence(line,vocab,rel_extr):
     cand_row=[]
-    sen=line.translate(None, string.punctuation)
+    sen=line.translate(None, string.punctuation).lower()
     for v in vocab:
+            #only one occurence of v! Note: v could be a phrase
         if (sen.find(v) != -1):
    	   tokenized_sen=sen.split()
            v_tokens=v.split()
-           start_pos=tokenized_sen.index(v_tokens[0])
-           end_pos=tokenized_sen.index(v_tokens[-1])+1
-           cand_row.append([v,(start_pos),(end_pos),line])
+           try:
+               start_pos=tokenized_sen.index(v_tokens[0])
+               end_pos=tokenized_sen.index(v_tokens[-1])+1
+               cand_row.append([v,start_pos,end_pos,line])
+           except (ValueError):
+               pass
     #check on overlaps, e.g. "register"vs."commercial register"
+    to_remove=[]
     for i in cand_row:
         for j in cand_row:
             if (i[1]==j[1] and i[2]<j[2]) or (i[1]>j[1] and i[2]==j[2]):
-                cand_row.remove(i)
+                to_remove.append(i)
+    cand_row=[x for x in cand_row if x not in to_remove]
+
     if len(cand_row)>1:
         #[arg1, tac_rel, arg2, doc_info, s1_str, e1_str, s2_str, e2_str, sentence]
         res=['\t'.join([cand_row[i][0],'raw text',cand_row[i+1][0],'doc',str(cand_row[i][1]),
@@ -35,12 +42,14 @@ def replace_by_sentence(line,vocab,rel_extr):
         #[arg1,arg2,rel,1]
         if rel_extr:
             res=['\t'.join([cand_row[i][0],cand_row[i+1][0],define_relations(cand_row[i][1],
-                            cand_row[i][2],cand_row[i+1][1],cand_row[i+1][2],cand_row[i][3]),'1'])
+                            cand_row[i][2],cand_row[i+1][1],cand_row[i+1][2],cand_row[i][3]),'1','\n'])
                             for i in range(len(cand_row)-1)]
-
     else:
        res=[]
+
     return res
+
+
 def define_relations(s1,e1,s2,e2,sentence):
     #bring into entity1 \t entity2 \t relation \t 1
     if s1 < s2:
@@ -88,16 +97,17 @@ def main(argv):
 
     with open(voc_file,"rb") as saved_vocabulary:
         vocab=saved_vocabulary.read().splitlines()
+    #clean up duplications
+    vocab=list(set(vocab))
     print 'Processing lines from ' + in_file
     data = [replace_by_sentence(line, vocab, extract) for line in open(in_file, 'r')]
 
     print 'Exporting lines to ' + out_file 
     out = open(out_file, 'w')
-    [[out.write(units + '\n') for units in line] for line in data]
+    [[out.write(units) for units in line] for line in data]
     out.close()
 
     
 
 if __name__ == "__main__":
     main(sys.argv[1:])
-

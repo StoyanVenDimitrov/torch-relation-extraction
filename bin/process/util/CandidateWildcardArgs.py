@@ -41,11 +41,11 @@ def main(argv):
     try:
         opts, args = getopt.getopt(argv, "hi:o:x", ["inFile=", "outFile="])
     except getopt.GetoptError:
-        print help_msg
+        print (help_msg)
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
-            print help_msg
+            print (help_msg)
             sys.exit()
         elif opt in ("-i", "--inFile"):
             in_file = arg
@@ -54,15 +54,15 @@ def main(argv):
         elif opt in ("-x", "--extract"):
             extract = True
 
-    print 'Processing lines from ' + in_file
+    print ('Processing lines from ' + in_file)
     data = [process_line(line, extract) for line in open(in_file, 'r')]
 
-    print 'Exporting lines to ' + out_file
+    print ('Exporting lines to ' + out_file)
     out = open(out_file, 'w')
     [out.write(line + '\n') for line in data]
     out.close()
 
-    print 'Done'
+    print ('Done')
 
 
 if __name__ == "__main__":
