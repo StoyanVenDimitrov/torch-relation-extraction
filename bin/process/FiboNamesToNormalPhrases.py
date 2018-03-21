@@ -18,16 +18,19 @@ def readFromTSV(read_line):
    e2 = re.search('vocabulary#(.+?)>', ent2)
    if e2:
       ent2 = e2.group(1)
-      ent2 = re.findall('[A-Z][^A-Z]*', ent2)
+      ent2 = re.findall(r'([A-Z]{2,}(?=[A-Z]|$)|[A-Z][a-z]*)', ent2)
       ent2 = ' '.join(ent2).lower()
-   return '\t'.join((ent1,rel,ent2))
+   triple = '\t'.join((ent1,rel,ent2))
+   vocabulary_entity = ent1
+   return triple,vocabulary_entity
 
 
 def main(argv):
    inputfile = ''
    outputfile = ''
+   vocabfile = ''
    try:
-      opts, args = getopt.getopt(argv,"hi:o:",["ifile=","ofile="])
+      opts, args = getopt.getopt(argv,"hi:o:v:",["ifile=","ofile=","vfile="])
    except getopt.GetoptError:
       print ('test.py -i <inputfile> -o <outputfile>')
       sys.exit(2)
@@ -39,13 +42,27 @@ def main(argv):
          inputfile = arg
       elif opt in ("-o", "--ofile"):
          outputfile = arg
+      elif opt in ("-v", "--vfile"):
+         vocabfile = arg
 
+   
    print ('Processing lines from ' + inputfile)
-   data = [readFromTSV(line) for line in open(inputfile, 'r')]
+   vocab=[]
+   triples=[]
+   for line in open(inputfile, 'r'):
+      t,v=readFromTSV(line)
+      triples.append(t)
+      vocab.append(v)
+   vocab=list(set(vocab))
 
-   print ('Exporting lines to ' + outputfile )
+   print ('Creating vocabulary to ' + vocabfile )
+   out = open(vocabfile, 'w+')
+   [out.write(line + '\n') for line in vocab]
+   out.close()
+
+   print ('Exporting triples to ' + outputfile )
    out = open(outputfile, 'w+')
-   [out.write(line) for line in data]
+   [out.write(line) for line in triples]
    out.close()
 
 if __name__ == "__main__":
