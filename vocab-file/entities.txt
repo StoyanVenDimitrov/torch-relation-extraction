@@ -1,0 +1,4196 @@
+ordinary share yield	1
+timed percentage	2
+yield calculation method	3
+yield	4
+organization	5
+memorandum	6
+legally capable person	7
+independent party	8
+stock corporation	9
+credit index constituent	10
+percentage value	11
+investment credit rating	12
+credit watch outlook	13
+credit watch direction	14
+mortgage instrument weighted average remaining maturity	15
+timed duration specification	16
+instrument weighted average loan age	17
+weighted average coupon	18
+vwop	19
+timed monetary amount	20
+vwap	21
+vostro account	22
+account provider	23
+identity document	24
+physical address	25
+supply transaction	26
+vendor	27
+contract	28
+contractually conferred commitment	29
+conditions precedent	30
+contractual obligation	31
+dated past value	32
+date	33
+past value	34
+date time	35
+fund investment restrictions set	36
+pvbp	37
+price volatility specification	38
+debt convexity analytic	39
+timed numeric amount	40
+property valuation historical information	41
+monetary amount	42
+price spread specification	43
+dated balance	44
+dated monetary amount	45
+cds cash settlement	46
+time of day	47
+cds cash settlement valuation method	48
+net asset value calculation method	49
+frequency	50
+last price	51
+bond exchange last price	52
+potential agency mbs issuer	53
+validate conformance	54
+simple yield calculation method	55
+dirty price	56
+russian yield calculation method	57
+russian yield formula	58
+us treasury yield calculation method	59
+icma yield formula	60
+wall street yield calculation method	61
+yield calculation formula	62
+us corporate bond yield calculation method	63
+credit risk assessment	64
+combined ltv ratio percent	65
+borrower monthly income	66
+total debt expense ratio	67
+all borrowers monthly income	68
+price model specification	69
+pricing model	70
+debt published point in time price	71
+locally derived price	72
+credit index	73
+debt offer issue	74
+debt issue underwriter	75
+securities underwriting issuance process	76
+potential muni underwriter	77
+offer issue	78
+security underwriter	79
+underwriter	80
+securities offering	81
+underwriter takedown for debt	82
+contingent obligation	83
+obligor	84
+equity valuation	85
+equity valuation calculation agent	86
+undertaking	87
+undertaking party	88
+underlying valuation	89
+calculation agent	90
+inflation factor expression	91
+inflation factor underlying	92
+bond option underlying transaction	93
+foreign currency option	94
+fx option underlying	95
+bond option	96
+bond option underlying	97
+option contract on futures	98
+option on futures underlying	99
+interest rate option	100
+ir option underlying	101
+commodities option	102
+commodities option underlying	103
+equity index option otc contract	104
+equity index observable	105
+equity basket option otc contract	106
+equity basket observable	107
+exchange traded equity index option	108
+equity index option underlying	109
+equity option otc contract	110
+equity observable	111
+share option otc contract	112
+single share observable	113
+ultimate beneficial owner	114
+person	115
+transaction business event	116
+accounts ledger entry	117
+revaluation	118
+undertaking event	119
+discharging event	120
+transaction party	121
+transaction principal	122
+transaction counterparty	123
+commodities spot contract	124
+negotiable commodity	125
+economic transaction	126
+economic agreement	127
+economic contract terms set	128
+synthetic cdo tranche	129
+cdo tranche seniority selection	130
+credit facility loan tranche	131
+loan purpose selection	132
+market opening price	133
+exchange trading session	134
+official closing price	135
+bond exchange closing price	136
+equity exchange published price	137
+corporation	138
+business site	139
+operating business address relation	140
+formally constituted organization	141
+investment strategy	142
+investment goal	143
+business strategy	144
+business goal	145
+autonomous agent	146
+future instrument	147
+standardized futures terms	148
+cross default provisions	149
+economic commitment	150
+term deposit	151
+duration	152
+timed value	153
+tense	154
+projected value	155
+future	156
+current value	157
+present	158
+past	159
+temporal thing	160
+temporal thing expression	161
+temporal entity	162
+temporal entity definition	163
+timed parameter	164
+spread	165
+numerical parameter	166
+value	167
+parametric reference entity	168
+monetary reference	169
+currency	170
+quantity reference	171
+quantity referent	172
+pac class	173
+legal proceeding	174
+jurisdiction	175
+quantified resource	176
+numeric amount	177
+average life	178
+prepayment speed	179
+collateralized guaranty	180
+collateral	181
+bricks and mortar holding	182
+real estate	183
+loan property collateral	184
+property asset	185
+debt collateral	186
+financial asset	187
+equity	188
+capital	189
+asset	190
+underwriter takedown	191
+muni issue underwriter	192
+underwriting	193
+syndicate member	194
+fund subscription terms	195
+fee	196
+loan collateral	197
+collateralized secured loan	198
+planned amortization class bond	199
+bundle of resources	200
+supplier	201
+product	202
+fund	203
+fund supervisory authority	204
+otc transaction confirmation	205
+otc instrument	206
+swap confirmation	207
+suite	208
+building sub unit address fragment	209
+trade	210
+trade lifecycle stage occurrence	211
+trade lifecycle event occurrence	212
+trade lifecycle event	213
+trade lifecycle stage	214
+floating lookback formula expression	215
+observable final value	216
+fixed lookback strike formula expression	217
+fixed strike amount	218
+observable best value	219
+fund processing form	220
+rights distribution	221
+date period	222
+issue subscription information	223
+subscriber	224
+securities issuance process	225
+cash asset backed security instrument	226
+cdo note	227
+submitter	228
+report	229
+formula subject	230
+formula argument	231
+fx spot transaction	232
+negotiable cash	233
+spot transaction	234
+economic resource	235
+financial securities secondary market transaction	236
+security	237
+student loan active status	238
+student loan active status selection	239
+cashflow cdo	240
+cashflow structure	241
+cdo deal	242
+cdo cashflow treatment structure	243
+market value cdo	244
+market value structure	245
+index option exercise terms set	246
+percentage strike price specification	247
+absolute price strike specification	248
+stock option exercise terms set	249
+price	250
+future options exercise terms set	251
+currency option exercise terms set	252
+fixed strike terms	253
+option strike terms	254
+swap strike terms	255
+street	256
+street address text	257
+fund portfolio	258
+portfolio investment strategy	259
+investment portfolio	260
+shareholder equity	261
+fund investment policy	262
+benchmark	263
+debt underwriting issuance process	264
+debt offering	265
+geopolitical entity	266
+statute law	267
+status	268
+current status	269
+past status	270
+security lifecycle status	271
+legal proceeding status	272
+legal proceedings status selection	273
+fund prospectus	274
+fund investment objective	275
+tax rule code	276
+tax rule	277
+rule code	278
+rule	279
+standards setter	280
+technical standard	281
+standards body	282
+standardized exercise terms set	283
+exercise dates convention	284
+special purpose vehicle	285
+pool	286
+loan floating interest payment terms	287
+spot delivery	288
+legal person	289
+price parameter specification	290
+non agency jump tranche	291
+jump trigger event	292
+agency jump tranche	293
+step event	294
+debt fixed coupon terms set	295
+single coupon terms set	296
+bond coupon interest terms	297
+bond coupon structure type	298
+coupon conditional term	299
+jump trigger event reversal	300
+credit protection contingent leg terms	301
+reference obligation	302
+index linked principal determination terms set	303
+inflation rate	304
+asian exercise terms set	305
+european exercise convention	306
+derivatives delivery type	307
+cds cash settlement dealer	308
+inflation bond	309
+inflation bond variable coupon	310
+conversion terms	311
+debt conversion terms	312
+publicly traded share	313
+equity conversion terms	314
+equity basket option annex	315
+equities single name basket	316
+debt variable coupon terms set	317
+market rate	318
+index linked coupon terms set	319
+economic indicator	320
+cds credit event	321
+otc master agreement right to termination following default event	322
+defaulting party	323
+coupon schedule	324
+tac tranche	325
+tac tranche amortization schedule	326
+cds contingent transaction	327
+interest rate swap leg	328
+notional step change event	329
+interest rate stream event	330
+swap stream interest calculation	331
+swap stream interest payment	332
+nic registry entry	333
+institution type	334
+loan product	335
+mortgage product	336
+current population survey	337
+civilian non institutional population	338
+single currency interest rate swap	339
+floating interest rate leg	340
+swap stream interest rate fixing	341
+swap stream interest rate reset	342
+notional step schedule	343
+notional step amount	344
+inflation index underlying	345
+inflation index fall back bond	346
+non defaulting party	347
+financial instrument	348
+statistical program	349
+statistical universe	350
+cross currency interest rate swap	351
+cds physical settlement	352
+deliverable obligation	353
+pac tranche amortization schedule	354
+option barrier feature terms	355
+option barrier feature event	356
+option feature	357
+forward valuation terms set	358
+loan contract	359
+loan retained amount	360
+best of assets plus cash payout commitment	361
+payoff assets list	362
+specified temporal thing	363
+temporal thing specification	364
+specified temporal entity	365
+temporal entity specification	366
+offer price	367
+bid price	368
+cds fee leg stream	369
+synthetic pool asset	370
+credit default swap contract	371
+fx forward transaction	372
+forward cash settlement terms set	373
+equity forward transaction	374
+security forward delivery	375
+forward contract	376
+forward delivery terms set	377
+commodity forward transaction	378
+commodity forward delivery	379
+forward cash delivery	380
+equity forward cash settlement	381
+potential share underwriter	382
+share price	383
+option strip contract	384
+duration description in calendar temporal unit	385
+spot cash settlement terms	386
+personal loan contract	387
+personal loan	388
+marine finance contract	389
+marine finance	390
+fund bond class unit	391
+fund debt	392
+auto loan contract	393
+auto loan	394
+tradable debt instrument	395
+publicly issued debt	396
+student loan contract	397
+student loan	398
+mortgage loan contract	399
+mortgage loan	400
+variable principal bond	401
+variable debt principal	402
+loan drawdown	403
+funds processing passport	404
+fund processing terms	405
+contractual commitment	406
+contractual right	407
+organization covering agreement	408
+liability apportionment terms set	409
+inflation bond principal repayment terms set	410
+inflation factor formula	411
+equity apportionment terms set	412
+contractual economic commitment	413
+credit facility agreement	414
+committed credit facility	415
+home equity line of credit contract	416
+home equity line of credit tranche	417
+revolving credit contract	418
+revolving line of credit tranche	419
+construction loan contract	420
+construction loan credit facility tranche	421
+otc master agreement obligations terms	422
+otc derivatives master agreement obligation	423
+netting terms	424
+obligation in respect of netting	425
+early exercise commitment	426
+tax treatment	427
+equity voting rights terms	428
+voting right	429
+asian exercise commitment	430
+articles of incorporation	431
+company equity terms set	432
+option payout terms	433
+option payout commitment	434
+date determination terms set	435
+contractual date specification	436
+option conditional payout terms	437
+conditional payout commitment	438
+option binary payout terms	439
+binary payout commitment	440
+linear payout terms	441
+linear payout commitment	442
+master agreement early termination provisions	443
+otc master agreement early termination right	444
+base rate authority	445
+base rate	446
+interest rate authority	447
+reference interest rate	448
+policy	449
+restriction	450
+interbank rate authority	451
+interbank rate	452
+servicer	453
+loan servicer	454
+credit event notice	455
+notifying party	456
+senior mbs tranche	457
+mezzanine mbs tranche	458
+subordinated mbs tranche	459
+senior equity	460
+senior	461
+seller	462
+buyer	463
+otc currency option	464
+fx spot contract	465
+foreign exchange option transaction	466
+foreign exchange option seller	467
+sovereign debt issuer	468
+national government	469
+government debt issuer	470
+government	471
+municipal debt issuer	472
+municipal government	473
+debenture	474
+debenture securitization conditions	475
+contract section	476
+contract clause	477
+call schedule listing	478
+call of issue	479
+debt american call exercise type	480
+mandatory sinking fund schedule listing	481
+debt european call exercise type	482
+parametric call schedule	483
+regular schedule	484
+scheduled event	485
+tradable debt instrument redemption provision	486
+share coupon schedule specification	487
+equity dividend payment	488
+coupon schedule specification	489
+coupon payment	490
+modify convention roll rule	491
+date roll rule direction	492
+contract for difference	493
+loan standardization documentation	494
+loan document risk level	495
+agency regular jump	496
+non agency regular jump tranche	497
+close deal	498
+remittance report	499
+monetary valuation procedure	500
+measured value	501
+identify underwriter	502
+potential pass through issuance underwriter	503
+finalize prospectus	504
+tranched mbs deal prospectus	505
+define notes parameters	506
+draft tranche notes parameters	507
+property valuation	508
+property purchase and sale	509
+purchase price	510
+measurement procedure	511
+unitary value	512
+potential tranched issue underwriter	513
+tranched mbs deal transaction	514
+paying agent	515
+payment	516
+personal loan borrower assessment information	517
+floater tranche	518
+day month value	519
+make securities available in market	520
+draw up tranche termsheets	521
+non agency mortgage pool	522
+offering	523
+offering document	524
+underwriting issuance requestor	525
+request	526
+requesting party	527
+repurchase agreement	528
+repo borrower	529
+repo lender	530
+cash balance	531
+amount of money	532
+fund equity	533
+partnership equity	534
+partnership	535
+formal organization	536
+pool equity	537
+managed investment	538
+instrument pool	539
+cash currency	540
+stock balance	541
+stock amount	542
+appoint advisors	543
+reporting accountant	544
+report document	545
+repaid loan	546
+relative date	547
+published price as treasury rate spread	548
+treasury bill reference rate	549
+relative date period	550
+relative time	551
+instant	552
+formula	553
+relation	554
+fund unit	555
+issued security issue information	556
+coupon strip	557
+bond	558
+corporate action	559
+consent solicitation	560
+share	561
+change of security trading status event	562
+security trading status	563
+bonus issue	564
+bond put redemption	565
+bond default event	566
+tender offer	567
+stock split	568
+reverse stock split	569
+remarketing agreement initiated	570
+perpetual floating rate note	571
+exchange offer	572
+debt redenomination	573
+bankruptcy event	574
+securities combination or detachment	575
+personal dated facts	576
+employment status	577
+fund reinvestment policy	578
+monetary authority	579
+loan regulatory requirement	580
+coupon periodic date series	581
+coupon regular period	582
+appoint registrar	583
+registrar	584
+national numbering agency	585
+national securities identifying number	586
+business registration authority	587
+registration identifier	588
+local operating unit	589
+legal entity identifier	590
+registration	591
+economic value	592
+transaction event	593
+loan application borrower assessment information	594
+individual credit rating	595
+algo debt credit spread	596
+maturity	597
+market price	598
+composite market	599
+securities issuance context	600
+securities underwriting issuance	601
+issuer credit rating	602
+equities statistical price	603
+bid ask spread	604
+modified duration analytic	605
+mac caulays duration analytic	606
+identify conforming mortgage	607
+mid price	608
+options vega	609
+option theoretical value	610
+equivalent life analytic	611
+bond with partial call	612
+debt margin spread	613
+debt security offer price	614
+debt underwriting closing	615
+funds	616
+public record	617
+account	618
+swap stream interest calculation schedule	619
+duration analytic	620
+debt instrument yield	621
+options theta	622
+underwriting issuance closing	623
+pool conformance criteria	624
+credit event	625
+debt security bid price	626
+inflation bond factor	627
+spot settlement commitment	628
+settlement convention	629
+credit spread	630
+reference debt instrument	631
+better or worse of assets payout commitment	632
+commodity forward contract	633
+reference factor	634
+date determination	635
+date determination reference rule	636
+fund redemption terms	637
+redemption payment	638
+current equity status	639
+country	640
+duration description	641
+measure	642
+option put transaction	643
+settlement terms	644
+option call transaction	645
+spot receiver	646
+credit report	647
+credit report product	648
+loan offer	649
+variance leg terms	650
+property owner	651
+raw material	652
+quantified raw material	653
+rating	654
+instrument credit rating	655
+issue credit rating	656
+organization credit rating	657
+senior cdo tranche	658
+tranche rating at issue	659
+mezzanine cdo tranche	660
+cds cash settlement quotation method	661
+material amount	662
+put feature	663
+business function referent	664
+acquire mortgage	665
+subscription right	666
+purchase right	667
+market data provider	668
+financial information publisher	669
+published financial information	670
+publisher	671
+publication	672
+published information	673
+economic indicator publisher	674
+economic news release	675
+convention	676
+service provider	677
+service	678
+facility	679
+securities exchange	680
+exchange and listing service	681
+agency cmo	682
+fund depositary	683
+tranched mbs instrument	684
+financial instrument analytical parameter	685
+debt instrument analytical parameter	686
+clearing house	687
+clearing service	688
+registration authority	689
+registration service	690
+financial service provider	691
+financial service	692
+regulatory agency	693
+regulatory service	694
+financial institution	695
+reporting party	696
+security listing	697
+capability	698
+credit provider	699
+credit extension	700
+payment institution	701
+payment service	702
+fund order desk	703
+property collateral valuation	704
+avm provider	705
+property lenders valuation type selection	706
+fund promoter	707
+bond variable coupon	708
+projected coupon payment value	709
+producer	710
+underwriting process details	711
+traded instrument issuance process information	712
+investment advisor	713
+fund data provider	714
+fund administrator	715
+funds processing party	716
+unit issuer	717
+fund manager	718
+fund management company	719
+risk	720
+probability	721
+credit risk	722
+probability of default	723
+seniority	724
+issuance printer	725
+securities transaction principal	726
+market transaction	727
+standardized options terms	728
+derivatives price determination method	729
+payment speed	730
+debt security price	731
+premium price per option expression	732
+closing price determination method	733
+loan ongoing prepayment terms	734
+dated percentage	735
+loan early prepayment terms	736
+ledger account	737
+accounting party	738
+swaption premium	739
+bond call terms set	740
+security settlement convention	741
+preference share	742
+ordinary share	743
+payment arrangement terms	744
+post code area	745
+postal code	746
+loan pool	747
+auto loan pool	748
+auto loan purpose	749
+basis points value	750
+time based plot	751
+collateral provider	752
+physical asset	753
+discrete physical thing	754
+offering document information	755
+entity credit event	756
+cds credit event reference	757
+bond amortization payment terms	758
+performance determination method	759
+premium percentage of notional expression	760
+equities basket constituent	761
+penalty interest balance applicability	762
+ordinary share dividend	763
+market transaction payment terms	764
+failure to pay	765
+payment obligation	766
+payment place specification method	767
+option premium	768
+loan payment	769
+spot payer	770
+borrower	771
+debt contract terms set	772
+lender	773
+participating preference share	774
+correspondent	775
+dtcc member	776
+muni issuance process participant	777
+shareholder	778
+debtor	779
+debt	780
+monies owing	781
+creditor	782
+consumer credit requirement	783
+consumer protection agency	784
+cdo portfolio	785
+cdo portfolio trustee	786
+other seniority equity	787
+other seniority	788
+otc bond option	789
+bond underlying	790
+otc bond market price	791
+debt securities market maker	792
+written information	793
+cdo origination objective	794
+loan originator	795
+uncrossing price	796
+option type selection	797
+exchange traded option contract	798
+option exercise time terms set	799
+option instrument exercise terms	800
+market opening price type	801
+notice	802
+bond issue information	803
+security offering type	804
+announcement	805
+potential issuer	806
+known date	807
+step date	808
+scheduled coupon payment	809
+scheduled coupon payment date	810
+call date	811
+next call	812
+next call date	813
+redemption payment date	814
+contractual obligor	815
+contractual beneficiary	816
+beneficiary	817
+price exchange specification	818
+unit price monetary specification	819
+price barter specification	820
+price ratio specification	821
+current share status	822
+allotment right	823
+allotment right formula	824
+synthetic cdo portfolio	825
+synthetic cdo portfolio constituent	826
+interest rate future	827
+commodity future	828
+equity forward contract	829
+equity future	830
+nostro account	831
+account holder	832
+board of directors	833
+corporate officer	834
+party in role	835
+de facto controlling interest party	836
+board member	837
+current ordinary share dividend	838
+municipal area	839
+geographical area	840
+business agent	841
+mortgage loan purpose	842
+fund processing general terms	843
+securities quantity	844
+fund portfolio investment limitations	845
+known calendar duration	846
+portfolio benchmark	847
+tranche notes parameters	848
+construction loan milestone terms set	849
+bullion	850
+bullion measurement unit	851
+measurable asset	852
+escrow agent	853
+tranched offering memorandum	854
+regulatory rule	855
+operational rule	856
+extraordinary voting right	857
+reference material	858
+unit	859
+swap	860
+swap execution facility	861
+market	862
+registered security	863
+loan application	864
+mortgage loan application	865
+loan applicant	866
+loan borrower	867
+cosigner	868
+pool trustee	869
+tranched mbs issue underwriter	870
+loan lender	871
+sponsor	872
+corporate broker	873
+fund order desk physical form document	874
+trading participant	875
+derivatives broker	876
+loan guarantor	877
+listing authority	878
+exchange	879
+structured finance instrument	880
+amortizing security	881
+issue over allotment terms	882
+debt issue over allotment terms	883
+revolving line of credit	884
+dated duration specification	885
+participating share	886
+explicit duration	887
+currency specification term	888
+futures listing	889
+bond with mandatory sinking fund	890
+mandatory sinking fund terms set	891
+lending commitment	892
+master agreement	893
+master agreement obligation	894
+registry	895
+cdo portfolio manager	896
+relationship manager	897
+national securities identifying number registry	898
+business registry	899
+legal entity identifier registry	900
+static cdo	901
+static management style	902
+managed cdo	903
+managed management style	904
+cdo management style	905
+portfolio manager	906
+make whole call	907
+analytical information	908
+synthetic debt instrument pool	909
+instrument internal rate of return	910
+dissemination underwriter	911
+dissemination	912
+option buyer commitment	913
+option underlying buyer	914
+forward delivery commitment	915
+option underlying seller	916
+application information	917
+applicant	918
+lookback strike terms	919
+loan arrears status	920
+disbursed loan	921
+loan status	922
+loan prepayment status	923
+loan performance status	924
+loan performance status selection	925
+loan maturity	926
+loan interest payment terms set	927
+loan interest rate	928
+loan identifier	929
+loan default proceeding	930
+default proceeding type selection	931
+loan balance	932
+construction loan snapshot	933
+redemption schedule listing	934
+explicit coupon schedule listing	935
+ad hoc schedule	936
+explicitly scheduled event	937
+step schedule listing	938
+listed security	939
+approve for flotation	940
+register with regulatory authority	941
+formal approval for listing and trading	942
+listing	943
+completed debts pool	944
+in issuance	945
+in issuance non agency mortgage pool	946
+issued and securitized pool of individual debts	947
+issued	948
+not yet issued debts pool	949
+not yet issued	950
+in assembly debts pool	951
+in assembly	952
+in issuance agency mortgage pool	953
+issued and securitized non agency mortgage pool	954
+not yet issued non agency mortgage pool	955
+in assembly mortgage pool	956
+not yet issued agency mortgage pool	957
+pool of individual debts	958
+pool lifecycle state selection	959
+issued and securitized agency mortage pool	960
+in assembly agency mortgage pool	961
+lien guaranty	962
+known time offset	963
+known duration	964
+known date offset	965
+known date duration	966
+interval	967
+time offset	968
+periodic time series	969
+legal restriction	970
+appoint sponsor	971
+tax law	972
+debt security interest payment terms	973
+junior equity	974
+junior	975
+total controlling interest company	976
+volatility	977
+fx spot volatility	978
+exchange rate	979
+nostro or vostro	980
+premium payer	981
+option buyer	982
+fund investor	983
+trustee	984
+occurrence based date	985
+occurrence kind	986
+pool backed security instrument	987
+cash structured finance instrument	988
+securitized debt pool	989
+exchange traded security	990
+reporting obligation	991
+regulatory entity	992
+statutory reporting obligation	993
+statutory regulator	994
+legally deliverable location	995
+issued equity	996
+mtn offer program	997
+mtn issue	998
+synthetic cdo	999
+synthetic balance sheet cdo	1000
+government issued license	1001
+offeror	1002
+cash cdo	1003
+cash cdo tranche	1004
+arbitrage synthetic cdo	1005
+formal controlled document	1006
+security issuer	1007
+issuer	1008
+international depositary receipt	1009
+depositary receipt issuer	1010
+syndicated loan participation note	1011
+lead manager	1012
+warrant	1013
+warrant issuer	1014
+participation note	1015
+participation note issuer	1016
+stockholders rights instrument	1017
+stockholders rights instrument issuer	1018
+cdo issuing party	1019
+debt instrument issue information	1020
+certificate	1021
+license	1022
+licensor	1023
+cash issuer	1024
+individual person credit rating	1025
+credit rating issuer	1026
+letter of credit	1027
+letter of credit issuer	1028
+pool backed security issuer	1029
+mortgage backed security instrument	1030
+mbs issuer	1031
+abs issuer	1032
+construction loan	1033
+credit facility securities tranche	1034
+unsubscribed debt	1035
+credit facility tranche	1036
+hmda report	1037
+issuance settlement	1038
+strip	1039
+security credit status	1040
+loan default proceeding status	1041
+trade lifecycle occurrence	1042
+product lifecycle stage occurrence	1043
+product lifecycle occurrence	1044
+product lifecycle stage	1045
+product lifecycle	1046
+trade lifecycle	1047
+lifecycle stage	1048
+lifecycle	1049
+lifecycle stage occurrence	1050
+lifecycle occurrence	1051
+security note	1052
+site	1053
+spv purpose	1054
+debt spv	1055
+debt securities issuance	1056
+securities issuance spv	1057
+securities issuance	1058
+funds spv	1059
+funds creation	1060
+credit report response	1061
+credit report request	1062
+credit inquiry	1063
+financial commitment counterparty	1064
+contract party	1065
+risk state transition	1066
+securities transaction option	1067
+optional underlying transaction	1068
+security retirement	1069
+occurrence	1070
+supranational entity	1071
+government body	1072
+tribal entity	1073
+tribal government	1074
+regional sovereignty	1075
+regional government	1076
+polity	1077
+municipal entity	1078
+sovereign state	1079
+swap stream interest fixing relative date	1080
+swap stream calculation relative date	1081
+swap stream interest rate reset schedule	1082
+swap stream reset relative date	1083
+regulated market	1084
+regulated commodity	1085
+listed security identifier	1086
+exchange specific securities registry	1087
+registry identifier	1088
+business register identifier	1089
+registered multilateral trading facility	1090
+business license	1091
+insurance backed guaranty	1092
+securities guaranty insurance policy	1093
+contractual product	1094
+mortgage indemnity guaranty	1095
+mortgage indemnity insurance policy	1096
+letter of credit guaranty	1097
+rate	1098
+cash	1099
+stock in trade	1100
+purchase mortgage into pool	1101
+financial product	1102
+investment account	1103
+bank account	1104
+bank	1105
+banking service	1106
+depository institution	1107
+banking product	1108
+deposit account	1109
+financial service account	1110
+credit reporting agency	1111
+principal	1112
+currency forward rate	1113
+quoted exchange rate	1114
+clo	1115
+property inspection	1116
+percentage monetary amount	1117
+agreement	1118
+security agreement	1119
+international securities identification number	1120
+portfolio holding	1121
+portfolio	1122
+organizational sub unit	1123
+entity owner	1124
+bijuridicial jurisdiction	1125
+civil law system	1126
+common law system	1127
+legal system	1128
+measured thing	1129
+owner	1130
+ownership	1131
+sole proprietorship	1132
+temporal unit	1133
+legal entity	1134
+open ended or closed	1135
+curve convexity	1136
+lookback strike observable	1137
+payer	1138
+non payment	1139
+code element	1140
+code set	1141
+company statutory obligation	1142
+company law	1143
+contractual restriction	1144
+instrumentality	1145
+legal requirement	1146
+consumer credit protection law	1147
+statutory responsibility	1148
+legal obligation	1149
+managed interest rate	1150
+organized trading facility	1151
+government department	1152
+government minister	1153
+government agency	1154
+government appointee	1155
+trust fund trust	1156
+trust fund manager	1157
+multilateral trading facility	1158
+household	1159
+housing unit	1160
+location	1161
+physical site	1162
+physical location	1163
+listed bond	1164
+bond listing	1165
+issuer counsel	1166
+tranched mbs deal	1167
+issue securities	1168
+national identification number	1169
+regulation	1170
+commercial paper	1171
+commercial paper issuer	1172
+security issuance guarantor	1173
+interest	1174
+geopolitical group	1175
+securities regulation	1176
+securities restriction	1177
+address	1178
+control	1179
+thing in role	1180
+controlled thing	1181
+registry entry	1182
+packaged financial product	1183
+financial product catalog	1184
+credit trade line	1185
+rea claim	1186
+legal construct	1187
+trade identifier	1188
+catalog	1189
+identifier	1190
+account identifier	1191
+lei eligible entity	1192
+exchange identifier	1193
+lei registered entity	1194
+network location	1195
+market identifier	1196
+swap lifecycle event	1197
+swap lifecycle event identifier	1198
+statistical area	1199
+statistical area identifier	1200
+universal loan identifier	1201
+security holding	1202
+security holder	1203
+stockholders rights instrument holder	1204
+public shareholder	1205
+joint guaranty	1206
+guarantor	1207
+guaranty	1208
+loan mig provider	1209
+government guaranty	1210
+state guarantor	1211
+loan guaranty	1212
+covered transaction	1213
+body incorporated with guarantee	1214
+body limited by guarantee principals agreement	1215
+governmental constitution	1216
+religious law jurisdiction	1217
+religious law system	1218
+partnership agreement	1219
+civil law jurisdiction	1220
+board agreement	1221
+instrument of incorporation	1222
+sharia law jurisdiction	1223
+sharia law system	1224
+trust	1225
+trust agreement	1226
+board capacity	1227
+common law jurisdiction	1228
+balance sheet entry	1229
+credit support default event	1230
+credit support agreement	1231
+trader	1232
+contract document	1233
+written contract	1234
+transaction confirmation	1235
+public offering	1236
+prospectus	1237
+legal document	1238
+private offering	1239
+private placement memorandum	1240
+ratio value	1241
+ratio expression	1242
+quantity value	1243
+expression	1244
+shareholding	1245
+voting shareholding	1246
+voting shareholder	1247
+investment equity	1248
+investor	1249
+rights issue	1250
+credit score	1251
+credit score model	1252
+derived quantity	1253
+base quantity	1254
+credit score number	1255
+derived unit	1256
+base unit	1257
+define pool characteristics	1258
+define mortgage pool	1259
+multi dimensional property	1260
+coherent system of units	1261
+native yield calculation method	1262
+equivalent yield calculation method	1263
+bond market	1264
+issuance crediting participant	1265
+asset pool creation process	1266
+retail asset pool creation process	1267
+conversion action	1268
+controlling party	1269
+entity controlling party	1270
+law	1271
+constitution	1272
+establishment	1273
+enterprise	1274
+exchange specific securities registry entry	1275
+loan pool constituent	1276
+national securities identifying number registry entry	1277
+power of attorney	1278
+natural person	1279
+conferred social construct	1280
+authority	1281
+corporate officer capacity	1282
+constitutional right	1283
+court appointed control	1284
+court of law	1285
+constitutional contractual control	1286
+issued debt	1287
+debt instrument	1288
+contractual economic agreement	1289
+contractual agreement	1290
+shareholder precedence right	1291
+contractual control	1292
+legal right	1293
+issuance program	1294
+credit agreement	1295
+underwriting automation	1296
+lender lien position	1297
+credit report category	1298
+construction type	1299
+dwelling capacity	1300
+manufactured home legal classification	1301
+public record category	1302
+hmda covered loan contract	1303
+how submitted	1304
+industry sector classifier	1305
+contact information	1306
+contact purpose	1307
+financial instrument classifier	1308
+loan market category	1309
+exchange specific security identification scheme	1310
+merchant	1311
+commerce	1312
+business	1313
+commercial activity	1314
+national security identification scheme	1315
+legal capacity	1316
+allotment right holder	1317
+subscription right holder	1318
+property buyer	1319
+bond counsel	1320
+yield spread	1321
+share price spread	1322
+comparison	1323
+price spread	1324
+monetary price	1325
+investment based de facto control	1326
+automated underwriting system	1327
+equity reference index	1328
+basket of equities	1329
+floating interest rate	1330
+basket of credit risks	1331
+index linked security	1332
+balance	1333
+account payable balance	1334
+account payable	1335
+account receivable balance	1336
+account receivable	1337
+assess pool suitability for issuance	1338
+classify mortgage	1339
+purposive amount	1340
+debt issuance program	1341
+bond issuance program	1342
+bond offer issue	1343
+continuous physical stuff	1344
+amortization	1345
+debt finance	1346
+private label mbs deal	1347
+pass through mbs deal	1348
+agency mbs deal	1349
+instrument aggregate loan analytic	1350
+loan pool analytic	1351
+issuance agent	1352
+county court judgment	1353
+collateral dated facts	1354
+corporate loan borrower assessment information	1355
+corporate borrower	1356
+personal loan borrower	1357
+mortgage loan borrower assessment information	1358
+delinquency borrower facts	1359
+delinquent loan	1360
+mtn registration	1361
+loan product representations	1362
+borrower ongoing dated facts	1363
+trading status message	1364
+traded options counterparty	1365
+traded option principal	1366
+internal rate of return	1367
+business agent context	1368
+system of quantities	1369
+payment event	1370
+entity ownership context	1371
+otc master agreement right to termination following termination event	1372
+otc master agreement termination event	1373
+investment capital	1374
+investment purpose	1375
+price interpolation specification	1376
+traded security published price	1377
+non tradable debt interest terms	1378
+treasury bill interest rate value	1379
+fixed interest expression	1380
+the present	1381
+information	1382
+loan snapshot or status	1383
+industry model convention	1384
+industry association	1385
+in default loan	1386
+fee payable	1387
+funds tax	1388
+contractually capable entity	1389
+appreciation	1390
+body of law	1391
+statutory authority	1392
+income verification method selection	1393
+registered security issuance process	1394
+strike price specification	1395
+interest rate option strike terms set	1396
+share option strike terms set	1397
+equity index option strike terms set	1398
+preferred coupon payment term set	1399
+share coupon schedule	1400
+debt bermudan call exercise type	1401
+call schedule	1402
+individual tranche definitions	1403
+tranche structure and termsheet	1404
+pass through offering memorandum	1405
+pass through mbs final termsheet	1406
+zero coupon and oid bond call terms set	1407
+zero coupon bond call	1408
+analytics calculation model	1409
+personal assessment facts at approval	1410
+sinking fund amortization terms set	1411
+redemption schedule	1412
+arrears payment history	1413
+loan pool prepayment model	1414
+loan prepayment formula	1415
+mandatory sinking fund schedule	1416
+fund share class unit	1417
+contingent right	1418
+organization context	1419
+synechdocal thing	1420
+relationship context	1421
+fund portfolio investment policy	1422
+operational risk consequence	1423
+corporate goal	1424
+impact	1425
+project risk consequence	1426
+project goal	1427
+financial risk consequence	1428
+financial transaction risk	1429
+transaction failure	1430
+project risk	1431
+financial risk	1432
+operational risk	1433
+loss given default	1434
+money market future underlying	1435
+money market debt instrument	1436
+interest rate future debt underlying	1437
+bond future underlying	1438
+currency spot buy rate	1439
+futures trading account provider	1440
+derivatives exchange	1441
+equity option underlying	1442
+futures index underlying	1443
+lookback observable value at maturity	1444
+lookback observable value during lookback period	1445
+futures commodity underlying	1446
+equity future share underlying	1447
+county court actor	1448
+county court	1449
+agency mbs issuer	1450
+government mortgage agency	1451
+juridical person	1452
+credit event underlying	1453
+exchange rate underlying	1454
+futures contract underlying	1455
+support tranche	1456
+po box number	1457
+post box	1458
+geolocation coordinates	1459
+geophysical location	1460
+country name	1461
+building sub unit	1462
+building	1463
+asset class strategy	1464
+jurisdiction strategy	1465
+regulation identifier	1466
+security identifier	1467
+routing transit number	1468
+issuer identification number	1469
+product identifier	1470
+organization part identifier	1471
+securities transaction identifier	1472
+securities transaction	1473
+registration authority code	1474
+federal reserve district identifier	1475
+federal reserve district	1476
+local operating unit identifier	1477
+unique swap identifier	1478
+business calendar code	1479
+funds identifier	1480
+currency identifier	1481
+research statistics supervision discount identifier	1482
+customer identifier	1483
+customer	1484
+organization identifier	1485
+client identifier	1486
+client	1487
+financial instrument identifier	1488
+proprietary security identifier	1489
+fdic certificate number	1490
+license identifier	1491
+primary identifier issuer	1492
+stake in fund	1493
+underlying issuer	1494
+depositary bank	1495
+control document	1496
+document	1497
+draft document	1498
+draft document part	1499
+secured loan	1500
+loan securitization method	1501
+guaranteed loan	1502
+secured by guaranty	1503
+secured by collateral	1504
+equity price quotation method	1505
+constitutional owner	1506
+stockholders equity	1507
+party holding some option for control	1508
+de jure controlling interest	1509
+de jure controlling interest party	1510
+contractual controlling party	1511
+controlling leverage party	1512
+receiver	1513
+investment based de facto controlling interest party	1514
+equity based de jure control	1515
+controlling interest party	1516
+controlling capacity	1517
+de facto control	1518
+mbs instrument slice	1519
+synthetic debt spv	1520
+synthetic debt instrument pool funding asset	1521
+managed cdo portfolio	1522
+business entity	1523
+futures trading margin	1524
+futures trading account holder	1525
+primary business address relation	1526
+zero coupon bond	1527
+zero coupon terms set	1528
+covered warrant	1529
+underlier	1530
+company warrant	1531
+commodity warrant	1532
+legally delegated authority	1533
+delegated legal authority	1534
+municipal bond	1535
+dimension	1536
+dimension vector	1537
+master confirmation valuation time terms set	1538
+option	1539
+option valuation terms	1540
+legal entity identifier registry entry	1541
+line item	1542
+agency mbs pool	1543
+cdo squared deal	1544
+cdo pool	1545
+esoteric abs	1546
+promised cash flow asset	1547
+auto loan abs	1548
+credit card abs	1549
+credit card pool	1550
+synthetic structured finance instrument	1551
+equity option	1552
+otc contract on future	1553
+pool backed securities deal	1554
+mbs deal	1555
+securitized mortgage pool	1556
+underlying on option	1557
+economic rate based derivative instrument	1558
+economic rate observable	1559
+inflation swap contract	1560
+correlation leg terms	1561
+underlying on future	1562
+interest rate derivative instrument	1563
+interest rate observable	1564
+commodity derivative contract	1565
+commodity underlying	1566
+equity dividend swap	1567
+equity derivative contract	1568
+dividend stream	1569
+equity correlation swap contract	1570
+equity return swap contract	1571
+equity variance swap contract	1572
+debt derivative contract	1573
+debt observable	1574
+dispersion swap index leg terms	1575
+derivative instrument	1576
+credit derivative contract	1577
+dispersion swap index constituents leg terms	1578
+set of equity index constituents observable	1579
+rate based derivative instrument	1580
+rate based observable	1581
+asset derivative contract	1582
+asset underlier	1583
+up to one year	1584
+typical duration	1585
+fund transfer agent	1586
+transfer agent	1587
+option transaction party	1588
+tranche type	1589
+credit facility type selection	1590
+credit facility guaranty tranche	1591
+super senior cdo tranche	1592
+subordinated cdo equity	1593
+credit facility	1594
+total owner	1595
+calendar specified interval	1596
+time direction	1597
+statistical population	1598
+explicit date period	1599
+contract third party	1600
+contractually defined numerical parameter	1601
+contractual definition	1602
+bond redemption payment	1603
+bond principal repayment terms set	1604
+lpn terms	1605
+amortizing redemption payment	1606
+bullet redemption payment	1607
+bond bullet principal repayment terms set	1608
+otc derivative transaction master agreement	1609
+otc master agreement element	1610
+swap leg	1611
+conditional coupon terms set	1612
+time sensitive information	1613
+security tax treatment	1614
+financial instrument tax treatment	1615
+loan participation note facility	1616
+loan participation note syndicate member	1617
+subsidiary	1618
+issuer corporate action notification message	1619
+issuer corporate action	1620
+inflation factor subject	1621
+umbrella fund	1622
+sub fund	1623
+coupon stub period	1624
+schedule stub	1625
+security structured name	1626
+otc interest rate option	1627
+cap or floor determination	1628
+otc interest rate floor option contract	1629
+floor determination	1630
+exchange security trading status	1631
+loan payment status	1632
+document status	1633
+explicit date	1634
+calculation period	1635
+pass through mbs securitization process	1636
+pass through issuance start	1637
+mandatory corporate event process	1638
+mandatory event start	1639
+ipo process	1640
+ipo process start	1641
+agency mortgage pool creation process	1642
+agency mortgage pool creation start	1643
+transaction undertaking	1644
+municipality	1645
+financial securities actor	1646
+dividend leg dividend period	1647
+dividend period	1648
+significant controlling interest party	1649
+significant shareholding company	1650
+signatory	1651
+deliver cash	1652
+cds contingent transaction settlement	1653
+periodic date series	1654
+real property appraisal	1655
+option writing party	1656
+protection seller	1657
+call option contract	1658
+call option writing party	1659
+forward contract seller	1660
+foreign exchange option	1661
+put option contract	1662
+put option writing party	1663
+deliverable obligation seller	1664
+equity forward seller	1665
+scheduled payment	1666
+stepped coupon terms set	1667
+step schedule	1668
+floating lookback strike schedule	1669
+security offering sale method	1670
+direction	1671
+japanese compound yield calculation method	1672
+down	1673
+japanese simple yield calculation method	1674
+role	1675
+commodity swap transaction	1676
+commodity return leg	1677
+return swap transaction	1678
+return leg	1679
+restructuring	1680
+restructuring type code	1681
+responsible party	1682
+duty	1683
+get commitment from investors	1684
+market issue to primary investors	1685
+market issue	1686
+pass through mbs draft prospectus	1687
+option strip reset schedule	1688
+resetable strike terms	1689
+option strike reset schedule	1690
+pre approval request	1691
+reference index	1692
+numeric index	1693
+bullet bond	1694
+principal repayment terms	1695
+remarketing agent	1696
+municipal security	1697
+municipal debt remarketing agent	1698
+non tradable debt instrument	1699
+relative price	1700
+business registry entry	1701
+registration status	1702
+registration requirement	1703
+registered address	1704
+debt instrument reference rate	1705
+reference sovereign bill	1706
+average earnings	1707
+explicit recurrence interval	1708
+business recurrence interval	1709
+debt asset interest return stream	1710
+asset return stream	1711
+non tradable debt redemption provision	1712
+redemption provision	1713
+parametric schedule	1714
+periodic scheduled event date	1715
+recurrence interval	1716
+swap receiving party	1717
+premium receiver	1718
+daily average market rate	1719
+quoted price	1720
+end of day market rate	1721
+monetary measure	1722
+quantity	1723
+quantity kind	1724
+interest rate	1725
+purposive thing	1726
+purpose	1727
+measurement instrument	1728
+measurement purpose	1729
+us producer price index	1730
+american statistics publisher	1731
+urban consumer price index	1732
+bond with published sinking fund	1733
+termination provisions	1734
+otc master agreement termination provisions	1735
+loan termination provisions	1736
+security term sheet	1737
+terms sheet terms set	1738
+credit support provider	1739
+security final prospectus	1740
+prospectus terms set	1741
+priority level	1742
+junior equity priority terms set	1743
+equity priority terms	1744
+senior equity priority terms set	1745
+other equity priority terms set	1746
+loan principal repayment terms	1747
+index amortizing bond	1748
+non agency mbs issuer	1749
+registration address	1750
+amortization type	1751
+controlled amortization bond	1752
+controlled amortization structure	1753
+contract principal	1754
+cfd counterparty	1755
+primary investor	1756
+primary federal regulator	1757
+fund price	1758
+published price	1759
+loan prepayment terms set	1760
+option premium payment arrangement	1761
+swaption contract	1762
+loan precedent conditions	1763
+tranche non payment	1764
+fund share class unit dividend	1765
+fund dividend policy	1766
+fund bond unit coupon	1767
+fund coupon policy	1768
+transaction event aspect	1769
+fund unit performance	1770
+degree of control	1771
+percentage	1772
+partial call allocation	1773
+limited partnership unit	1774
+security payment status	1775
+swap stream interest payment schedule	1776
+fixed payment leg	1777
+payment schedule	1778
+loan payment schedule	1779
+swap paying party	1780
+underwriting arrangement	1781
+trustor	1782
+trust beneficiary	1783
+commitment to pay	1784
+payee	1785
+offeree	1786
+fund unit holder	1787
+partner	1788
+third party agent	1789
+swap party	1790
+vostro balance	1791
+nostro balance	1792
+account servicing	1793
+tribal area	1794
+fx forward outright	1795
+fx swap	1796
+owners equity	1797
+capital surplus	1798
+judiciary	1799
+fx spot	1800
+branch of government	1801
+term structure	1802
+fixed interest amount	1803
+current yield calculation method	1804
+clean price	1805
+position	1806
+holding	1807
+schedule	1808
+payment history	1809
+underwriting decision	1810
+debt yield to worst	1811
+worst call	1812
+debt yield to maturity	1813
+debt yield to next call	1814
+yield to next put	1815
+next put	1816
+debt yield to average life	1817
+debt yield to equivalent life	1818
+quote price	1819
+best offer	1820
+listed securities composite market	1821
+best bid	1822
+organization member	1823
+option type	1824
+call option type	1825
+put option type	1826
+option guarantor	1827
+operator	1828
+market spread	1829
+base	1830
+reference	1831
+referent	1832
+strategy	1833
+goal	1834
+objective	1835
+non governmental organization	1836
+public purpose	1837
+religious corporation	1838
+religious objective	1839
+profit objective	1840
+not for profit organization	1841
+not for profit objective	1842
+business objective	1843
+for profit corporation	1844
+incorporation guarantee	1845
+debt call terms	1846
+call notification provision	1847
+closed end loan contract	1848
+pass through mbs instrument	1849
+pass through mbs instrument note	1850
+mbs tranche note	1851
+non binding terms	1852
+municipal debt funds usage	1853
+municipal trustee	1854
+municipal debt obligor	1855
+municipal bond refund terms	1856
+municipal bond capital type	1857
+forward contract adjustment method	1858
+partnership with natural person limited partners	1859
+natural person limited partner	1860
+partnership with corporate limited partners	1861
+corporate limited partner	1862
+partnership with general partners	1863
+general partner	1864
+establishment population	1865
+canadian households consumers universe	1866
+consumer	1867
+urban consumers universe	1868
+legally incorporated partnership	1869
+legally incorporated partnership member	1870
+enterprise population	1871
+illegal cartel	1872
+group	1873
+partnership with limited partners	1874
+limited partner	1875
+measurement unit	1876
+interest calculation expression	1877
+margin	1878
+wholly owned subsidiary	1879
+majority controlling party	1880
+over fifty percent controlling interest company	1881
+built property	1882
+loan third party	1883
+loan phase	1884
+repayment phase	1885
+loan paid in full	1886
+active loan status	1887
+loan application at disbursement stage	1888
+loan lifecycle status	1889
+loan application status	1890
+trading registered security	1891
+exchange traded warrant	1892
+warrant listing	1893
+options listing	1894
+equity listing	1895
+liquidity	1896
+limited guaranty	1897
+coupon stub period duration	1898
+stub length	1899
+mortgage lender	1900
+fund legal form	1901
+entity legal form	1902
+dispersion swap transaction	1903
+dispersion leg	1904
+foreign exchange option leg	1905
+inflation swap transaction	1906
+inflation leg	1907
+fixed interest rate leg	1908
+federal reserve district bank	1909
+central bank	1910
+equity instrument issue information	1911
+debt security interest amount	1912
+interest payment terms	1913
+pre approval contract	1914
+treasury bill	1915
+inflation bond interest payment terms set	1916
+risk level	1917
+inflation bond variable coupon terms set	1918
+civilian labor force participation rate	1919
+producer price index	1920
+consumer price index	1921
+unemployment rate	1922
+productivity	1923
+establishment employment	1924
+total	1925
+employment population ratio	1926
+spot contract	1927
+commodities spot transaction	1928
+sole proprietor	1929
+examiner	1930
+derivative contract party	1931
+agreement corporation	1932
+credit rating agency	1933
+securities basket constituent	1934
+otc transaction party	1935
+publishing house	1936
+guarantee providing member	1937
+functional entity	1938
+joint controlling party	1939
+controlling alliance	1940
+statistical information publisher	1941
+corporate bond issuer	1942
+credit union	1943
+not for profit corporation	1944
+executive	1945
+individual investor	1946
+commercial bank	1947
+voting shareholding company	1948
+agent in role	1949
+government official	1950
+legally capable adult	1951
+bank holding company	1952
+self regulating organization	1953
+controlled company	1954
+equity asset	1955
+clearing corporation	1956
+edge corporation	1957
+qualified investor restriction	1958
+oil commodity	1959
+oil grade	1960
+floating lookback strike terms	1961
+floating lookback strike formula	1962
+variable interest calculation formula	1963
+principal payment calculation formula	1964
+interest calculation formula	1965
+calculated price	1966
+calculation formula	1967
+fixed lookback strike terms	1968
+fixed lookback strike formula	1969
+fixed interest calculation formula	1970
+parametric cashflow terms	1971
+cashflow formula	1972
+issuance financial advisor	1973
+credit default swap transaction	1974
+fee payment leg	1975
+debt pool	1976
+pool factor	1977
+bond extraordinary redemption	1978
+extraordinary redemption method	1979
+extension provision	1980
+formula expression	1981
+cashflow expression	1982
+principal payment formula expression	1983
+covered warrant exercise terms	1984
+warrant exercise terms set	1985
+company warrant exercise terms set	1986
+commodity warrant exercise terms	1987
+swaption exercise procedrure	1988
+scheduled event date	1989
+entire or partial call choice	1990
+pass through issuance end	1991
+ipo process end	1992
+agency mortgage pool creation end	1993
+weighted average time to receipt of cashflows	1994
+term certificate of deposit	1995
+duration of more than one year	1996
+calculation period length	1997
+security draft prospectus	1998
+security offering distribution method	1999
+fund unit distribution policy	2000
+fund unit distribution method	2001
+dividend terms	2002
+dividends distribution method	2003
+up or down	2004
+cds contingent delivery side	2005
+security delivery type	2006
+security identification scheme	2007
+date returned by trading date rule	2008
+trading date rule	2009
+restructuring type scheme	2010
+financial instrument classification scheme	2011
+legal entity identifier scheme	2012
+registration identifier scheme	2013
+addressing scheme	2014
+date returned by settlement date rule	2015
+settlement date rule	2016
+classifier	2017
+classification scheme	2018
+identification scheme	2019
+credit rating scheme	2020
+tax rule scheme	2021
+system of units	2022
+organization identification scheme	2023
+industry sector classification scheme	2024
+service agreement	2025
+index	2026
+indexing scheme	2027
+proprietary security identification scheme	2028
+fund units settlement terms convention	2029
+default rate	2030
+debt issuance process information	2031
+debt issuance purpose	2032
+municipal bond issuance process information	2033
+application	2034
+put notification provision	2035
+put window	2036
+fixed basket	2037
+call window	2038
+borrowing capacity	2039
+ad hoc schedule entry	2040
+calculated date	2041
+publicly issued equity	2042
+open end loan contract	2043
+reverse mortgage loan contract	2044
+floating rate note	2045
+frn terms set	2046
+index based coupon bond	2047
+variable coupon bond	2048
+step up bond	2049
+fixed coupon bond	2050
+licensee	2051
+contract counterparty	2052
+cfd holder	2053
+corporate filing obligation	2054
+convertible share	2055
+convertible bond	2056
+credit agreement terms	2057
+term deposit settlement terms	2058
+economic contract	2059
+contractual element	2060
+cds fee payment commitment	2061
+credit protection commitment	2062
+swap terms	2063
+derivative transaction terms	2064
+debt terms	2065
+convertible security	2066
+account specific service agreement	2067
+mutual contractual agreement	2068
+agency agreement	2069
+registered agent	2070
+re po party	2071
+long term equity option	2072
+point of purchase survey	2073
+consumer expenditure survey	2074
+employment situation establishment survey	2075
+employment situation household survey	2076
+tranched mbs prospectus outline	2077
+draft tranche termsheet	2078
+draft tranche structure	2079
+individual contact information	2080
+organization contact information	2081
+home equity line of credit pool	2082
+home equity line of credit pool constituent	2083
+basket of securities	2084
+pooled fund	2085
+fixed basket constituent	2086
+basket of equity indices	2087
+equities basket index constituent	2088
+securities pool	2089
+securities pool constituent	2090
+basket of indices	2091
+basket of indices constituent	2092
+auto loan pool constituent	2093
+pool constituent	2094
+basket	2095
+basket constituent	2096
+dividend conditions	2097
+loan conditions	2098
+special dividend leg term	2099
+collection	2100
+constituent	2101
+master credit facility	2102
+exchange traded security price	2103
+balance sheet cdo	2104
+balance sheet cdo objective	2105
+arbitrage cdo	2106
+arbitrage cdo objective	2107
+city	2108
+liability capacity	2109
+partial call	2110
+rate basis type	2111
+call feature	2112
+callable bond	2113
+partial call feature	2114
+calendar period	2115
+duration description in calendar days	2116
+calendar day	2117
+calendar temporal unit	2118
+cp typical duration description	2119
+cash settled forward contract	2120
+commodity forward calculation agent	2121
+protection buyer	2122
+call option buyer	2123
+forward contract buyer	2124
+put option buyer	2125
+deliverable obligation buyer	2126
+equity forward buyer	2127
+day count convention	2128
+business recurrence interval convention	2129
+business day adjustment	2130
+business day convention	2131
+floating rate note date	2132
+floating rate note date rule	2133
+us treasury bill date	2134
+us treasury bill auction date rule	2135
+business center	2136
+mortgage borrower	2137
+bond maturity registrar	2138
+credit support beneficiary	2139
+ledger balance	2140
+fund auditor	2141
+civilian labor force	2142
+canadian consumer price index	2143
+price structure	2144
+constant	2145
+variable	2146
+unemployed population	2147
+value added producer price index	2148
+output producer price index	2149
+input producer price index	2150
+fixed rate interest calculation	2151
+fixed interest rate	2152
+employed population	2153
+floating rate interest calculation	2154
+floating rate fixing value	2155
+bond exchange high price	2156
+bond exchange low price	2157
+exchange traded bond price	2158
+statistical measure	2159
+debt pool analytical parameter	2160
+affiliate	2161
+ad valorem tax provision	2162
+refer to fund order desk	2163
+other investment fund information	2164
+fund reporting terms	2165
+reporting frequency policy	2166
+fund accountant	2167
+instrument weighted average remaining maturity	2168
+credit score factor	2169
+postal address	2170
+commitment to repay	2171
+novated option contract	2172
+novated option contract principal	2173
+product disclosure requirement	2174
+good faith estimate	2175
+borrower data protection requirement	2176
+consumer credit reference agency	2177
+securities transaction contract	2178
+payment process	2179
+borrower disclosure requirement	2180
+contractual relationship	2181
+otc transaction	2182
+company bylaw	2183
+otc derivative contract	2184
+otc derivative transaction	2185
+supply transaction terms	2186
+loan principal repayment commitment	2187
+loan interest payment commitment	2188
+mutual commitment	2189
+holder response to choice	2190
+holder response message	2191
+loan rate determination	2192
+contractual undertaking	2193
+fund structure	2194
+fx forward outright contract	2195
+formal statement	2196
+regulatory requirement	2197
+financial primary market transaction	2198
+settlement process	2199
+tranched mbs primary deal transaction settlement process	2200
+debt securitization process	2201
+pool backed security securitization process	2202
+holder initated action start	2203
+holder initiated action initiation	2204
+non agency pool creation end	2205
+mbs securitization start	2206
+floor	2207
+variable interest expression	2208
+finalize pool content	2209
+extendable maturity redemption terms	2210
+partially paid issuance schedule	2211
+exchange options price	2212
+et option premium	2213
+option premium expression	2214
+bermuda exercise convention	2215
+american exercise convention	2216
+lifecycle event occurrence	2217
+lifecycle event	2218
+product lifecycle event occurrence	2219
+product lifecycle event	2220
+post merger securities exchange	2221
+float float interest rate swap	2222
+interest rate swap	2223
+fx forward contract	2224
+time instant	2225
+The Battle of Hastings was on '14 October 1066'. (This gives the Julian date of the battle at a granularity of 'day'. If desired, the battle could be given more precisely as a time period within that calendar day.)	2226
+the duty of a borrower to repay a loan, and the legal right of a lender to enforce payment	2227
+financial exposure	2228
+Examples in banking include the total amount of unsecured loans, the amount of loans advanced to a single borrower, group, industry, or country, and the probability of loss from devaluation, revaluation, or foreign exchange fluctuations.	2229
+A settlement date, defined as T+3: three days after the trade date.  The 'hasRelativeDuration' property is set to '3D'.	2230
+institutional investor	2231
+Example institutional investors include banks, insurance companies, mutual funds, pension funds, and other similar large funds.	2232
+common interest development corporation	2233
+http://www.dre.ca.gov/files/pdf/re39.pdf	2234
+The International System of Quantities (ISQ) comprises these base quantities (with their SI base measurement units): length (meter), mass (kilogram), duration (second), electric current (ampere), thermodynamic temperature (kelvin), amount of substance (mole), and luminous intensity (candela).  These base quantities are not mutually comparable.  All quantities of any one of these kinds are, however, mutually comparable.	2235
+An investment club pools the funds of its members, giving them the opportunity to share in a portfolio offering greater diversification and the hope of a better return on their money than they could get individually.	2236
+chartered legal person	2237
+Anything with 'Royal Institute' in the name. Also universities are generally set up by royal charter in a monarchy or principality, (often pre-dating any Privy Council i.e. directly be the monarch in the case of older universities). The Bank of England and the British Broadcasting Council (BBC) are also incorporated through Royal Charter.	2238
+Minister of Finance, Secretary of State, Attorney General of California	2239
+a call notification or coupon payment as a part of a bond lifecycle	2240
+Example indicators include the average work week, weekly claims for unemployment insurance, new orders, vendor performance, stock prices, and changes in the money supply.	2241
+This is typically a bank, central bank in the case of the publication of bank interest rates, or the committee responsible for publishing interbank rates, such as LIBOR.	2242
+The exchange rate between the U.S. dollar and British pound is distinct from the exchange rate between the U.S. dollar and the euro.	2243
+A statistical universe can be a group of actually existing objects (e.g. the set of all stars within the Milky Way galaxy) or a hypothetical and potentially infinite group of objects conceived as a generalization from experience (e.g. the set of all possible hands in a game of poker).	2244
+currency instrument	2245
+Example currencies include UK pounds, US dollars, Euro.  An example currency instrument is spot currency instrument.	2246
+Examples include the North American Industry Classification System (NAICS), and older Standardized Industry Classification (SIC), which is still used today by the US Securities and Exchange Commission (SEC), developed by government to classify industries, and commercial classification schemes, such as the Global Industry Standard Classification (GICS) developed jointly by Morgan Stanley Capital International (MSCI) and Standard and Poor's, or competing schemes including the Industry Classification Benchmark (ICB) system, maintained by Dow Jones and London's FTSE Group, among others.	2247
+Certain revolving credit, such as credit-card related debt, may adjust after a specified period of time to an absolute rate stated in the agreement (variable but not floating) rather than based on a benchmark rate (variable, floating).	2248
+a central bank, the executive branch of a government, a central bank for several nations, a currency board	2249
+Financial market rates include, but are not limited to reference rates, foreign exchange rates, lending rates, bankers' acceptance rates, and so forth.	2250
+Examples include equity instrument, debt instrument, option, future, etc. per the the ISO 10962 CFI (Classification of Financial Instruments) standard, as cash instruments or derivative instruments per the Financial Accounting Standards Board (FASB) and International Accounting Standards Board (IASB) accounting standards, and so forth.	2251
+tax withholding liability	2252
+Example text: Liability. If:- (1) X is required by any applicable law, as modified by the practice of any relevant governmental revenue authority, to make any deduction or withholding in respect of which X would not be required to pay an additional amount to Y under Section 2(d)(i)(4); (2) X does not so deduct or withhold; and (3) a liability resulting from such Tax is assessed directly against X, then, except to the extent Y has satisfied or then satisfies the liability resulting from such Tax, Y will promptly pay to X the amount of such liability (including any related liability for interest, but including any related liability for penalties only if Y has failed to comply with or perform any agreement contained in Section 4(a)(i), 4(a)(iii) or 4(d)).	2253
+A country may be divided into provinces, which, in turn, are divided into counties, which, in turn, may be divided in whole or in part into municipalities; and so on.	2254
+The International System of Units (SI) is a system of units.	2255
+See http://www.finra.org/AboutFINRA/ for an example describing a regulatory agency.	2256
+master agreement account change notification obligation	2257
+"Example text: \""Either party may change its account for receiving a payment or delivery by giving notice to the other party at least five Local Business Days prior to the scheduled date for the payment or delivery to which such change applies unless such other party gives timely notice of a reasonable objection to such change.\"" Note that the notice period is given as a fact about the general kind of obligation which is Master Agreement Change notification Obligation."	2258
+exposure	2259
+Examples include financial exposure, credit exposure, legal exposure, credit rating exposure, reputational exposure, and so forth.	2260
+Low-risk instruments such as savings bonds are examples of nonnegotiable debt instruments.	2261
+The product life cycle describes the period of time over which an item is developed, brought to market and eventually removed from the market. The cycle is broken into four stages: introduction, growth, maturity and decline. The idea of the product life cycle is used in marketing to decide when it is appropriate to advertise, reduce prices, explore new markets or create new packaging.	2262
+merchant service	2263
+Example merchant services include credit and debit card processing, check guarantee and conversion services, point of sale (PoS) systems, gift card and loyalty programs, online transaction processing, etc.	2264
+default interest obligation	2265
+"Example text: Default Interest; Other Amounts. Prior to the occurrence or effective designation of an Early Termination Date in respect of the relevant Transaction, a party that defaults in the performance of any payment obligation will, to the extent permitted by law and subject to Section 6(c), be required to pay interest (before as well as after judgment) on the overdue amount to the other party on demand in the same currency as such overdue amount, for the period from (and including) the original due date for payment to (but excluding) the date of actual payment, at the Default Rate. Such interest will be calculated on the basis of daily compounding and the actual number of days elapsed. If, prior to the occurrence or effective designation of an Early Termination Date in respect of the relevant Transaction, a party defaults in the performance of any obligation required to be settled by delivery, it will compensate the other party on demand if and to the extent provided for in the relevant Confirmation or elsewhere in this Agreement. \"" Note that this last sentence relates to a separate Obligation, labeled as Other Amount Obligation."	2266
+particular quantity	2267
+The weight of a given person, the mass of the Earth, the speed of light, and the distance between and are said to be “particular quantities.”	2268
+For example, certain equities derivatives have an underlying basket which is a basket of more than one index, not a basket of securities.	2269
+a research and development phase of a product lifecycle, the introduction phase in a marketing lifecycle, a growth stage in an economic lifecycle, or the origination phase in the lifecycle of a loan	2270
+electronic funds transfer service	2271
+EFT services include transfers through automated teller machines, point-of-sale terminals, automated clearinghouse systems, telephone bill-payment plans in which periodic or recurring transfers are contemplated, and remote banking programs.	2272
+second, kilogram, joule, meter. These are quantities in a general sense, which is what is meant here by quantity.	2273
+duration, mass, energy, length	2274
+exempt transaction	2275
+Examples include non-issuer transactions in outstanding securities, other isolated non-issuer transactions, certain unsolicited  / de minimis transactions, fiduciary transactions, transactions with financial institutions, private placement transactions that meet certain conditions, and so forth.	2276
+velocity (length/time), mass density (mass/length3)	2277
+record	2278
+Records include accounts, agreements, books, drawings, letters, magnetic/optical disks, memos, micrographics, etc.	2279
+Services include intangible products, such as accounting, banking, cleaning, consultancy, education, insurance, expertise, medical treatment, or transportation services.	2280
+Deposit accounts include savings accounts, money market accounts, and transactional accounts, such as demand deposit accounts, among others.	2281
+2 days, 3.5 hours, 150 lb, 45.5 miles	2282
+The 15th day of each calendar month.	2283
+The last day of each quarter, specified as RelativeDay 1, and TimeDirection set to FromEnd.	2284
+Examples of financial instruments include: cash, evidence of an ownership interest in an entity, or a contractual right to receive (or deliver) cash, or another financial instrument.	2285
+This may be a business entity or a government, international or not-for-profit, or other unincorporated social organization.	2286
+The three major categories of derivatives are (1) forward and future contracts, (2) options contracts, and (3) swaps. The most common underlying assets include stocks, bonds, commodities, currencies, interest rates and market indexes.	2287
+The trade life cycle describes the period of time over which a trade is initiated, typically as a part of a broader deal, consumated, processed and executed, settled or closed for other reasons, and reported.	2288
+licensed agent	2289
+Insurance agents, realtors, financial advisors, certain attorneys, and brokers are examples of legal agents.	2290
+week, day, hour, minute, second, kilogram, joule, meter	2291
+tax withholding grossup obligation	2292
+"Example Text Gross-Up. All payments under this Agreement will be made without any deduction or withholding for or on account of any Tax unless such deduction or withholding is required by any applicable law, as modified by the practice of any relevant governmental revenue authority, then in effect. If a party is so required to deduct or withhold, then that party (\""X\"") will:- (1) promptly notify the other party (\""Y\"") of such requirement; (2) pay to the relevant authorities the full amount required to be deducted or withheld (including the full amount required to be deducted or withheld from any additional amount paid by X to Y under this Section 2(d)) promptly upon the earlier of determining that such deduction or withholding is required or receiving notice that such amount has been assessed against Y; (3) promptly forward to Y an official receipt (or a certified copy), or other documentation reasonably acceptable to Y, evidencing such payment to such authorities; and (4) if such Tax is an Indemnifiable Tax, pay to Y, in addition to the payment to which Y is otherwise entitled under this Agreement, such additional amount as is necessary to ensure that the net amount actually received by Y (free and clear of Indemnifiable Taxes, whether assessed against X or Y) will equal the full amount Y would have received had no such deduction or withholding been required. However, X will not be required to pay any additional amount to Y to the extent that it would not be required to be paid but for:- (A) the failure by Y to comply with or perform any agreement contained in Section 4(a)(i), 4(a)(iii) or 4(d); or (B) the failure of a representation made by Y pursuant to Section 3(f) to be accurate and true unless such failure would not have occurred but for (I) any action taken by a taxing authority, or brought in a court of competent jurisdiction, on or after the date on which a Transaction is entered into (regardless of whether such action is taken or brought with respect to a party to this Agreement) or (II) a Change in Tax Law."	2293
+A 30 year mortgage calls for monthly payments on the first day of each month, according to a RegularSchedule.  If the mortgage does not start on the first day of a calendar month, then an initial ScheduleStub specifies the payment due for the DatePeriod up to the first day of the next calendar month.  Similarly, a final ScheduleStub specifies the last payment due for the DatePeriod after the end of the last full calendar month.	2294
+otc master agreement conditions precedent	2295
+"Example text: \""Each obligation of each party under Section 2(a)(i) is subject to (1) the condition precedent that no Event of Default or Potential Event of Default with respect to the other party has occurred and is continuing, (2) the condition precedent that no Early Termination Date in respect of the relevant Transaction has occurred or been effectively designated and (3) each other applicable condition precedent specified in this Agreement. \"" In the above, the Obligations defined under Section 2(a)(i) of the Master Agrement is the obligation to make each payment or delivery defined in a Confirmation for a transaction carried out under this Master Agreement."	2296
+A municipality can be any political jurisdiction from a sovereign state, such as the Principality of Monaco, or a small village, such as West Hampton Dunes, New York.	2297
+Examples of eligible legal entities include, without limitation:\n-   all financial intermediaries;\n-   banks and finance companies;\n-   all entities that issue equity, debt or other securities for other capital structures;\n-   all entities listed on an exchange;\n-   all entities that trade stock or debt, investment vehicles, including mutual funds, pension funds and alternative investment vehicles constituted as corporate entities or collective investment agreements (including umbrella funds as well as funds under an umbrella structure, hedge funds, private equity funds, etc.);\n-   all entities under the purview of a financial regulator and their affiliates, subsidiaries and holding companies;\n-   counterparties to financial transactions.	2298
+Examples include organization member, issuer, owner, partner in a partnership, shareholder, etc.	2299
+Warrants are equity convertible securities. They give the owner the option to buy newly issued shares at a determined exercise price and date.	2300
+Convertible securities may be convertible bonds or preferred stocks that pay regular interest and can be converted into shares of common stock (sometimes conditioned on the stock price appreciating to a predetermined level).	2301
+1 minute = 60 seconds	2302
+Trade settlement	2303
+Loan origination	2304
+A corporate bond pays interest for 10 years starting on the first day of 2015.  Interest payments are due 15 days after the expiration of each 6 month period: on July 15 and January 16.\n\nThe payment schedule is a RegularSchedule, with these properties:\n\n* comprises: identifies the interest payment details\n* overall DatePeriod starting date is '2015-01-01', ending date is '2025-01-15', and duration is 'P10Y15D'\n* hasCount is 20 (2 payments per year for 10 years)\n* hasRecurrenceInterval is 'P6M'\n* hasRecurrenceStartDate is '2015-01-15'	2305
+A 30 year mortgage is payable monthly on the 10th of the month, starting July 2015. The mortgage is issued on June 15, 2015 so the first payment is for the period June 15-June 30, and the last payment is for June 1-14 2045.\n\nThe payment schedule is a RegularSchedule with these properties:\n\n* comprises: regular payment OccurrenceKind (with payment details)  (see the 'comprises' property of the Occurrences ontology)\n* hasInitialStub: June 15-30, 2015 for initial payment\n* hasFinalStub: June 1-14, 2045 for final payment\n* hasCount: 358\n* hasOverallPeriod starting Date: June 15, 2015 with a duration of 30 years\n* hasRecurrenceInterval: specifies 10th day of each calendar month\n* hasRecurrenceStartDate: July 1, 2015	2306
+a silent partner, i.e. where someone has made a large investment, which is bilateral (not part of the constitutional framework of the company)	2307
+time interval	2308
+the lifetime of Henry V	2309
+the day whose Gregorian calendar date is September 11, 2001	2310
+Examples of American statistical information publishers include the Department of Commerce, Bureau of Economic Analysis (Commerce), Census Bureau (Commerce), Bureau of Labor Statistics (Labor), Department of the Treasury, and the Federal Reserve Board, among others.	2311
+exempt issuer	2312
+In general, these include governments and issuers of tax exempt securities such as municipalities, banks and depository institutions, and authorized insurance companies, railroads and public utilities, and certain non-profit organizations.	2313
+consequence	2314
+debt independently evaluated price	2315
+debt price independent evaluator	2316
+forward cash delivery commitment	2317
+fx spot settlement commitment	2318
+equity forward delivery commitment	2319
+fx call option contract	2320
+forward cash conditional delivery commitment	2321
+contingent transaction commitment	2322
+forward cash settlement commitment	2323
+delivery terms	2324
+cash call option	2325
+cds contingent delivery terms	2326
+cds contingent delivery commitment	2327
+cds contingent settlement commitment	2328
+preference share coupon	2329
+ordinary dividend terms	2330
+swaption transaction	2331
+forward transaction	2332
+fx forward forward swap	2333
+asset return commitment	2334
+fund legal contract	2335
+fund legal form documentation	2336
+otc option contract	2337
+information action	2338
+commercial loan	2339
+commercial loan borrower	2340
+federal state	2341
+tranched draft prospectus	2342
+loan standarization document type	2343
+current monetary amount	2344
+dividend adjustment period	2345
+fund distributor	2346
+accrued interest amount	2347
+loan determiner	2348
+early termination date determining agent	2349
+early termination date	2350
+date determining agent	2351
+agency determined date	2352
+mortgage lending	2353
+original ltv	2354
+native yield	2355
+relatively defined debt instrument yield	2356
+relative yield calculation method	2357
+bond equivalent yield	2358
+worst call date	2359
+price yield spread specification	2360
+absolute prepayment rate	2361
+absolate prepayment rate formula	2362
+worst call date determination	2363
+calculated time offset	2364
+duration determination	2365
+determined temporal thing	2366
+temporal thing determination method	2367
+determined temporal entity	2368
+temporal entity determination	2369
+unknown duration	2370
+up to one year description	2371
+more then one year description	2372
+allotment information	2373
+worthless	2374
+year based duration description	2375
+year	2376
+coupon regular period length	2377
+debt issue prospectus	2378
+bond issue prospectus	2379
+known temporal entity	2380
+temporal entity description	2381
+known temporal thing	2382
+temporal measure	2383
+partial calls estimation model	2384
+outlay	2385
+pool paydown rate	2386
+pool weighted average remaining maturity	2387
+price analytic	2388
+pool weighted average loan age	2389
+loan age	2390
+coinage	2391
+commodity physical delivery	2392
+collateralized debt	2393
+mortgage debt	2394
+investor contract	2395
+security contract terms	2396
+equity stake in fund	2397
+note stake in fund	2398
+debt stake in fund	2399
+cds periodic payment schedule	2400
+equity otc option transaction	2401
+exchange traded option transaction	2402
+commodity otc option contract	2403
+commodity otc option transaction	2404
+funds processing account	2405
+financial instrument identification scheme	2406
+registration scheme	2407
+limited partnership unit restriction	2408
+regulation identification scheme	2409
+rule scheme	2410
+fund classification scheme	2411
+fund classification	2412
+international securities identification numbering scheme	2413
+rating scheme	2414
+accounting reporting party	2415
+organization strategy	2416
+process role business entity	2417
+settlement entity	2418
+settlement	2419
+business day	2420
+asset repurchase agreement	2421
+liability repurchase agreement	2422
+standardized futures listing terms set	2423
+realized variable leg	2424
+realized variable swap side terms	2425
+dispersion leg terms	2426
+obligation default	2427
+obligation acceleration	2428
+repudiation or moratorium	2429
+depreciation	2430
+tranched mbs deal settlement	2431
+day type	2432
+date time description	2433
+date description	2434
+currency strategy	2435
+loan collateral agreement	2436
+securities transaction counterparty	2437
+corporate action holder response	2438
+take no action notification message	2439
+take no action response	2440
+holder initiated instruction	2441
+holder initiated action	2442
+disbursement response message	2443
+disbursement response	2444
+convertible preference share	2445
+contractual transaction party	2446
+contractually determined date	2447
+credit events descriptive terms	2448
+control related contract	2449
+claim	2450
+standardized currency option terms set	2451
+secondary market bond dealing	2452
+secondary market trading context	2453
+offering document terms	2454
+equity fund	2455
+equity portfolio	2456
+mortgage pool	2457
+mortgage pool constituent	2458
+fund unit holding	2459
+privately held share	2460
+private equity	2461
+non voting share	2462
+single voting share	2463
+multiple voting share	2464
+controlling equity	2465
+de jure control	2466
+legal swap option	2467
+voting share	2468
+consumer right	2469
+loan product disclosure right	2470
+commitment to report	2471
+mutual agreement	2472
+commitment	2473
+consumer credit equal treatment requirement	2474
+equal treatment right	2475
+general partner equity	2476
+constitutional de jure control	2477
+commitment to fund	2478
+unilateral contract	2479
+unilateral commitment	2480
+credit message	2481
+private equity holding	2482
+abaiin registry entry	2483
+put schedule	2484
+put event	2485
+fdic registry entry	2486
+email address	2487
+phone number	2488
+subscription closing information	2489
+combined statistical area	2490
+call event	2491
+credit institution register entry	2492
+credit institution	2493
+abartn registry entry	2494
+event notification	2495
+broker dealer	2496
+draft contract	2497
+cash closeout	2498
+commodity contract cash closeout	2499
+contract term	2500
+ethnicity	2501
+asset class	2502
+race	2503
+populated place	2504
+creditworthiness selection	2505
+property valuer	2506
+clearing participant	2507
+foreign exchange option buyer	2508
+bullion physical delivery	2509
+bullion type selection	2510
+commercial mbs	2511
+investment or deposit account	2512
+jpy tibor tibm	2513
+traditional warrant	2514
+day of month	2515
+currency business day type	2516
+other income	2517
+gross income	2518
+eur euribor basis swap euribor icap	2519
+instalment default	2520
+default event	2521
+mxn tiie banxico	2522
+option closing price	2523
+investment company	2524
+non depository institution	2525
+sek annual swap rate seswfi	2526
+vnd semi annual swap rate reference banks	2527
+contingent leg	2528
+determined date	2529
+usd federal funds reference dealers	2530
+dutch auction	2531
+third party corporate action	2532
+joint venture partner	2533
+basket option strike terms	2534
+equity option exercise terms set	2535
+hmda disposition	2536
+business requirement	2537
+requirement	2538
+body incorporated through agreement	2539
+government issued debt security	2540
+savings and loan holding company	2541
+international electronic funds transfer service	2542
+foreign exchange service	2543
+chf isdafix swap rate	2544
+usd cms reuters	2545
+minor	2546
+issuance process activity	2547
+warranties section	2548
+contract part	2549
+derivatives clearing	2550
+derivatives listing	2551
+draw up termsheet	2552
+usd treasury rate swap marker	2553
+issuers option call	2554
+gbp libor swap eurex lch icap bloomberg	2555
+share value increase action	2556
+share value change action	2557
+regular floater tranche	2558
+aud semi swap rate icap	2559
+distribution by security	2560
+fund cash distribution policy	2561
+usd libor swap cme lch icap	2562
+sek sior ois compound	2563
+futures closing price	2564
+exchange futures price	2565
+pass through issue prospectus part	2566
+prospectus part	2567
+loan identification scheme	2568
+filing for bankruptcy	2569
+indication of interest	2570
+failure to pay interest	2571
+obligation credit event	2572
+mbs securitization process	2573
+property related activity	2574
+inr semi annual swap rate non tullett prebon	2575
+cashflow commitment	2576
+contractually defined benefit	2577
+remarketing purpose	2578
+personal consumption expenditures	2579
+rea transaction right	2580
+founders share	2581
+equity option put transaction	2582
+us bank holding company	2583
+equity instrument	2584
+unlimited tax general obligation bond	2585
+general obligation municipal bond	2586
+instrument	2587
+formally constituted organization member	2588
+oette	2589
+agency io tranche	2590
+loan at application stage	2591
+equity option call transaction	2592
+securities trade	2593
+financial industry context	2594
+numerical variable	2595
+conversion notification	2596
+notification message	2597
+historical information	2598
+average life at issue	2599
+primary borrower	2600
+draft pass through termsheet	2601
+muni debt offering	2602
+combined cash and securities response message	2603
+usd municipal swap rate icap	2604
+usd federal funds	2605
+cad tbill telerate	2606
+jpy ois tradition	2607
+zar quarterly swap rate tradition	2608
+allocate primary identifier	2609
+investment management	2610
+pool backed security securitization process actor	2611
+securitization process actor	2612
+voluntary distribution	2613
+security action	2614
+short sale locate	2615
+pre trade	2616
+eur tmm cdc compound	2617
+sgd semi annual swap rate tradition	2618
+registered shareholder	2619
+fnma pool	2620
+agency mortgage pool	2621
+international money market australian dollar trading date rule	2622
+aud semi annual swap rate icap reference banks	2623
+wealth management service	2624
+sgd semi annual swap rate tullett prebon	2625
+numbering agency	2626
+securities issuance process actor	2627
+transferable contract	2628
+frs state member bank	2629
+state chartered bank	2630
+frs member bank	2631
+futures vega	2632
+futures greek	2633
+otc interest rate cap option contract	2634
+jpy libor bba bloomberg	2635
+gross sales income	2636
+security interest dated facts	2637
+jpy isda swap rate	2638
+usd libor swap cme lch icap bloomberg	2639
+non physical underlier	2640
+frs non member bank	2641
+odd lot sale instruction	2642
+maturity extension	2643
+bond action	2644
+contractual transaction	2645
+international money market settlement date rule	2646
+rub annual swap rate reference banks	2647
+interbank mid rate	2648
+potential underwriter	2649
+currency spot sell rate	2650
+currency spot rate	2651
+us bank	2652
+chf libor swap cme lch icap	2653
+cad ba reuters	2654
+chf libor isda	2655
+securities trades matching	2656
+securities post trade	2657
+discounted instrument yield	2658
+credit evaluation product	2659
+chf libor swap eurex lch icap	2660
+consent denied message	2661
+voting response message	2662
+sgd semi annual swap rate icap reference banks	2663
+aud quarterly swap rate icap reference banks	2664
+cdo securitization process	2665
+statutory body	2666
+structured collection	2667
+aspect viewing party	2668
+jpy libor bba	2669
+vnd semi annual swap rate bgcantor	2670
+non participating preference share	2671
+non participating share	2672
+pool analytical parameter	2673
+cds fee payment schedule specification	2674
+promissory note	2675
+certificate of deposit	2676
+assess ratings	2677
+equity issuance process information	2678
+dividend distribution notification	2679
+finite population	2680
+high price	2681
+overnight libor	2682
+london interbank offered rate	2683
+overnight rate	2684
+static cdo portfolio	2685
+specified date	2686
+published price as rate spread	2687
+postal address element	2688
+failure to pay principal	2689
+life analytic	2690
+plz wibor reference banks	2691
+usd sibor sibo	2692
+dkk cibor dkna	2693
+option premium variability	2694
+gbp libor swap cme lch icap bloomberg	2695
+energy flows delivery	2696
+energy physical delivery	2697
+semi annual reporting policy	2698
+mxn tiie banxico bloomberg	2699
+return swap contract	2700
+redemption event	2701
+personal mortgage loan borrower assessment information	2702
+sicaf	2703
+functional business entity	2704
+jpy quoting banks libor	2705
+capital labor multifactor productivity value added	2706
+transferable contract holder	2707
+currency spot mid rate	2708
+value changing activity	2709
+commodity trading advisor	2710
+collateralized obligation instrument	2711
+product disclosure right	2712
+information right	2713
+trading restriction	2714
+interest payment action	2715
+interest payment	2716
+fully amortizing bond	2717
+gnma platinum pool	2718
+key rate duration	2719
+nzd bbr bid	2720
+cad ba telerate	2721
+legal holding restriction	2722
+calendar day type	2723
+european economic area branch	2724
+valuation time type	2725
+rule determined date	2726
+warrant exercise action	2727
+in default	2728
+issuance trust agreement	2729
+securities issuance agreement	2730
+interbank bid rate	2731
+cashflow terms	2732
+futures contract delivery	2733
+underlying security delivery	2734
+nok nibor nibr reference banks	2735
+futures theta	2736
+date roll rule	2737
+debt security delivery	2738
+information event	2739
+option terms	2740
+pro rata call	2741
+difference	2742
+derivatives delivery physical	2743
+coupon strip notification	2744
+debt issuer corporate action notification	2745
+eur euronia ois compound	2746
+when issued trading	2747
+primary market	2748
+eur euribor swap eurex lch icap bloomberg	2749
+brl cdi	2750
+observable underlier	2751
+interest rate adjustment	2752
+debt security action	2753
+ffiec down prepay speed	2754
+tax withholding obligation	2755
+business rule	2756
+skk bribor reference banks	2757
+put action	2758
+exercise action	2759
+redemption by bond number	2760
+option theoretical value specification	2761
+isk reibor reference banks	2762
+eur tec cno	2763
+remortgage with equity release	2764
+remortgage	2765
+broker	2766
+tender offer notification	2767
+third party formal offer notification	2768
+cds party	2769
+bank qualified tax exemption	2770
+idr semi annual swap rate bgcantor	2771
+land parcel	2772
+reference document	2773
+application for shares	2774
+neighborhood subdivision	2775
+usd libor bba	2776
+sgd semi annual currency basis swap rate tullett prebon	2777
+method	2778
+document information	2779
+otc derivative master agreement representation	2780
+representations section	2781
+index linked coupon	2782
+otc product	2783
+domestic ultimate parent	2784
+aud bbr aubbsw	2785
+organization name change	2786
+organization modification event	2787
+numeric ratio value	2788
+share value increase notification	2789
+share value change notification	2790
+calculation agent adjustment method	2791
+financial holding company	2792
+rub ruonia ois compound	2793
+eur annual swap rate	2794
+strike formula	2795
+agricultural product	2796
+contractual capability	2797
+best efforts offering	2798
+regulatory reporting requirement	2799
+investment bank	2800
+equity future standardized terms set	2801
+financial future standardized terms set	2802
+aud bbr isdc	2803
+mbs deal prospectus	2804
+pool backed deal prospectus	2805
+mbs pool	2806
+signatory capacity	2807
+entity status	2808
+abs deal	2809
+credit curve to use	2810
+curve to use	2811
+central counterparty clearing house	2812
+structured finance instrument pool	2813
+interest strip	2814
+unit of mass	2815
+informal organization	2816
+oil delivery	2817
+one vote per holder	2818
+restricted voting right	2819
+eur isda euribor swap rate	2820
+net balance sheet income	2821
+net income	2822
+true ps objective	2823
+annualized performance determination method	2824
+non rolling date	2825
+ownership interest type	2826
+mxn tiie banxico reference banks	2827
+try tryibor reuters	2828
+apartment	2829
+capitalization issue	2830
+super floater tranche	2831
+simple return stream	2832
+active	2833
+options exchange participant	2834
+idr sbi reuters	2835
+inverse floater tranche	2836
+abs deal prospectus	2837
+thb thbfix reuters	2838
+cash dividend notification	2839
+hkd hibor hkab	2840
+cdo squared instrument	2841
+mathematical curve	2842
+mathematical surface	2843
+exchange offer notification	2844
+issuer formal offer notification	2845
+deferred loan	2846
+variable interest rate	2847
+capital distribution notification	2848
+principal only	2849
+usd cmt	2850
+hkd hibor reference banks	2851
+partial exercise event	2852
+cash instrument	2853
+sgd semi annual swap rate icap	2854
+draft	2855
+mathematical model	2856
+usd treasury rate icap broker tec	2857
+eur euribor swap eurex lch icap	2858
+bond insurance	2859
+committed credit facility tranche	2860
+option volatility	2861
+date specification	2862
+institutional unit	2863
+skk bribor brbo	2864
+gbp semi annual swap rate reference banks	2865
+federal funds rate	2866
+hkd honix ois compound	2867
+swap dealer	2868
+dealer	2869
+sgd semi annual swap rate bgcantor	2870
+idr idma bloomberg	2871
+secondary borrower	2872
+debt drawing notification	2873
+derivatives close time	2874
+pretrade reference data provision	2875
+equity ipo process	2876
+partial defeasance action	2877
+written communication	2878
+usd isdafix swap rate	2879
+usd tbill secondary market	2880
+branch	2881
+non negotiable security	2882
+usd cms reference banks icap swap px	2883
+lookback observable value	2884
+all or none choice corporate action	2885
+mandatory with choice corporate action	2886
+security market price	2887
+thb semi annual swap rate bgcantor	2888
+prepayment	2889
+gas delivery	2890
+agency tranche	2891
+zar deposit reference banks	2892
+retained income	2893
+income	2894
+mathematical quantity	2895
+parametric thing	2896
+market transaction invoicing terms	2897
+formal document	2898
+mathematical expression	2899
+borrower right	2900
+regulatory call	2901
+entire call	2902
+twd taibor bloomberg	2903
+meeting	2904
+management action	2905
+mortgage collateral	2906
+loan borrower commitment	2907
+jpy tsr reference banks	2908
+investors domicile restriction	2909
+usd ois bgcantor	2910
+call action	2911
+hkd quarterly annual swap rate tradition	2912
+date calculation	2913
+usd cof fhlbsf	2914
+financial future	2915
+fully paid	2916
+aud semi annual swap rate bgcantor reference banks	2917
+cbo instrument	2918
+interpolated price	2919
+derived price	2920
+reporting policy	2921
+agricultural products delivery	2922
+off the shelf product	2923
+loan variable interest payment terms	2924
+basis swap	2925
+responsibility	2926
+equity claim	2927
+eur tec reference banks	2928
+jpy tibor dtibor	2929
+consent denied	2930
+voting response	2931
+eur eonia ois icap	2932
+series declaration	2933
+declaration	2934
+securities issuance communication	2935
+rub annual swap rate tradition	2936
+full exercise action	2937
+fcp	2938
+geometric mean	2939
+mean	2940
+entitlement rights instrument	2941
+rub annual swap rate bgcantor	2942
+jpy tibor tibm all banks	2943
+fund capital gains distribution	2944
+shares premium dividend payment	2945
+dividend distribution	2946
+non agency tranche	2947
+option party	2948
+employment situation survey	2949
+current employment statistics	2950
+cmo deal	2951
+collateralized obligation deal	2952
+detachment notification message	2953
+attachment or detachment notification message	2954
+exempt offering	2955
+intra day price	2956
+security price	2957
+fx swap contract	2958
+foreign exchange derivative contract	2959
+date time stamp	2960
+crime syndicate	2961
+illegal organization	2962
+corporate event	2963
+hkd quarterly annual swap rate bgcantor	2964
+ratio	2965
+drivers license	2966
+eur euribor telerate	2967
+sgd sor reuters	2968
+full call	2969
+financial instrument global identifier registry entry	2970
+nzd swap rate icap	2971
+jpy annual swap rate tradition	2972
+asset or nothing payout commitment	2973
+thrift institution	2974
+savings association	2975
+contract originator	2976
+exercise exchange option	2977
+student loan purpose	2978
+credit rating	2979
+institutional person	2980
+registration information	2981
+common law	2982
+base metals delivery	2983
+trading status suspended message	2984
+aud quarterly swap rate icap	2985
+single settlement swap	2986
+distribution by reinvestment	2987
+pass through mbs deal prospectus	2988
+php semi annual swap rate reference banks	2989
+when distributed	2990
+standardized index option terms set	2991
+global ultimate parent	2992
+standardized terms set	2993
+distressed ratings downgrade	2994
+portfolio management	2995
+serial number call	2996
+security issue ordinance	2997
+ordinance	2998
+eur annual swap rate month	2999
+stockholm interbank offered rate	3000
+interbank offered rate	3001
+put premium	3002
+mutual savings bank	3003
+savings bank	3004
+options greek	3005
+transaction processing goal	3006
+jpy bbsf bloomberg	3007
+home equity line of credit	3008
+share buyback offer	3009
+issuer formal offer	3010
+structured name	3011
+name	3012
+delta	3013
+cumulative preference share	3014
+tranched mbs issue prospectus part	3015
+nmlsr id	3016
+capital labor energy materials multifactor productivity	3017
+stable outlook	3018
+loan pool creation process	3019
+twd taibor reuters	3020
+php phiref bap	3021
+credit card receivable purpose	3022
+stock dividend	3023
+precedence right	3024
+force	3025
+hkd hibor hibor	3026
+securities trades reporting	3027
+hkd quarterly quarterly swap rate reference banks	3028
+hkd hibor isdc	3029
+usd cof telerate	3030
+insurance policy	3031
+adult	3032
+property usage	3033
+net asset value	3034
+float float cross currency interest rate swap	3035
+myr quarterly swap rate tradition reference banks	3036
+loan early prepayment soft penalty terms	3037
+spanish yield calculation method	3038
+meat commodity	3039
+convertible participating preference share	3040
+brokerage account	3041
+eur tam cdc	3042
+jpy libor isda	3043
+federal government	3044
+capital distribution	3045
+myr quarterly swap rate tradition	3046
+government bond	3047
+usd annual swap rate bgcantor	3048
+arrangement	3049
+vote against management message	3050
+cl clicp bloomberg	3051
+gbp semi annual swap rate	3052
+issuance closing	3053
+non incorporated partnership	3054
+numeric value	3055
+current principal balance applicability	3056
+aud swap rate reuters	3057
+average weekly earnings	3058
+eur eonia ois compound bloomberg	3059
+otc fx product	3060
+neighborhood	3061
+principal plus interest	3062
+edm council convention	3063
+integer value	3064
+principal underwriter	3065
+option writer commitment	3066
+cash and securities response	3067
+home equity loan purpose	3068
+total liabilities	3069
+balance sheet total	3070
+vote against management	3071
+jpy ltpr mhcb	3072
+right	3073
+security modification event	3074
+corporate modification event	3075
+cny quarterly repo non deliverable swap rate tradition	3076
+bylaw	3077
+non agency sticky jump tranche	3078
+issue payment schedule specification	3079
+credit watch downgrade	3080
+loan appraiser	3081
+gbp sonia ois tradition	3082
+provisional terms description	3083
+eur annual swap rate tradition	3084
+legislature	3085
+jpy libor reference banks	3086
+nok nibor nibr	3087
+usd cms reference banks	3088
+instruction message	3089
+corporate event or action communication	3090
+agency sticky jump	3091
+security cashflow status	3092
+population not in labor force	3093
+funds processing	3094
+accrual	3095
+eur eonia ois bgcantor	3096
+expenditure	3097
+relative cashflow	3098
+mean price determination	3099
+clearing bank	3100
+contractual option	3101
+master agreement change notification obligation	3102
+new money purpose	3103
+mandatory corporate action	3104
+base metal	3105
+jpy tibor tibm banks	3106
+idr sor reuters	3107
+commodity swap contract	3108
+register security	3109
+mortgage loan borrower information	3110
+construction loan purpose	3111
+observable value	3112
+day of week	3113
+regulatory registration requirement	3114
+virtual address	3115
+listing status delisting message	3116
+ipo settlement details	3117
+corporate event process	3118
+agent for service of process	3119
+instant specification	3120
+legal agent	3121
+valuation	3122
+rights issue notification	3123
+capitalization issue notification	3124
+eur annual swap rate reference banks	3125
+simple guaranty	3126
+trading status active message	3127
+commercial finance company	3128
+finance company	3129
+certificate of participation	3130
+holding right	3131
+contractual template product	3132
+firm commitment offering	3133
+variance	3134
+debt consolidation	3135
+partnership incorporated by equity	3136
+offering memorandum	3137
+securities issue memorandum	3138
+corporate action payment obligation	3139
+corporate action obligation	3140
+cny pbocb reuters	3141
+draw up offering memorandum	3142
+inr cmt	3143
+twd twcpba	3144
+money weighted rate of return performance determination method	3145
+bankers acceptance	3146
+plz wibor wibo	3147
+equity demutualization process	3148
+optional put	3149
+voluntary corporate action	3150
+chf libor swap eurex lch icap bloomberg	3151
+eur tec cno swap marker	3152
+security delivery response	3153
+web page	3154
+gross domestic product	3155
+company incorporated by guarantee	3156
+tax jurisdiction	3157
+bond fixed coupon	3158
+bond coupon	3159
+trigger event	3160
+notional place	3161
+hybrid cdo	3162
+data protection requirement	3163
+disclosure requirement	3164
+php phiref bloomberg	3165
+aud libor reference banks	3166
+jpy tibor	3167
+published end of day price	3168
+derivative spread	3169
+czk annual swap rate bgcantor	3170
+non issuer corporate action announcer	3171
+corporate action announcer	3172
+bond future standardized terms set	3173
+interest rate future standardized terms set	3174
+sgd sor telerate	3175
+bonus share plan distribution	3176
+inr mitor ois compound	3177
+incapacitated adult	3178
+weekday	3179
+nok nibor oibor	3180
+holder disclosure	3181
+designated contract market	3182
+usd libor libo	3183
+sek stibor bloomberg	3184
+canadian producer price index	3185
+pass through mbs final prospectus	3186
+swiss franc libor	3187
+otc master agreement contractual commitment	3188
+conditional right	3189
+chf annual swap rate	3190
+claw back call	3191
+rub annual swap rate tradition reference banks	3192
+share option entitlement	3193
+equity option entitlement	3194
+preferred share in fund	3195
+dividend reinvestment	3196
+unit investment trust	3197
+aud libor bba bloomberg	3198
+wac bond coupon	3199
+price specification	3200
+instant determination	3201
+underwriting process activity	3202
+partnership with general and limited partners	3203
+exclusive	3204
+option premium fixed	3205
+insurance company	3206
+eur eonia average	3207
+second home loan	3208
+usd annual swap rate tradition	3209
+interest payment in kind	3210
+pacpo tranche	3211
+agency po tranche	3212
+bond default notification	3213
+ex post notification	3214
+usd overnight bank funding rate	3215
+grd athibor reference banks	3216
+limited partner equity	3217
+adjustment method	3218
+home equity line of credit pool creation process	3219
+corporate officer duty	3220
+price rate spread specification	3221
+auction date rule	3222
+derivatives clearing organization	3223
+terms sheet	3224
+thb sor reuters	3225
+reference entity	3226
+inr semi annual swap rate reference banks	3227
+sovereign debt instrument	3228
+make whole feature	3229
+message	3230
+pass through mbs issue underwriter	3231
+length	3232
+jpy tsr telerate	3233
+clearing	3234
+clearing and settlement	3235
+jpy tibor tibm reference banks	3236
+money market deposit	3237
+accumulating share class	3238
+clo deal	3239
+gbp libor bba	3240
+formula part	3241
+mathematical thing	3242
+eur libor reference banks	3243
+working capital purpose	3244
+calculated date offset	3245
+probability distribution	3246
+cad tbill reuters	3247
+bank for international settlements	3248
+conditional obligation	3249
+non agency io tranche	3250
+option intrinsic value	3251
+value in use	3252
+crd credit institution	3253
+skk bribor nbsk	3254
+hkd isda swap rate	3255
+discounted cp	3256
+major swap participant	3257
+dividend option notification	3258
+eur annual swap rate bgcantor	3259
+prepaid premium type	3260
+option premium pre or post type	3261
+ffiec up prepay speed	3262
+repofunds rate italy ois compound	3263
+sgd semi annual swap rate tradition reference banks	3264
+cad libor bba bloomberg	3265
+conversion suspension action	3266
+rub mosprime reference banks	3267
+myr klibor reference banks	3268
+usd treasury rate	3269
+sek stibor side	3270
+pln wibor reference banks	3271
+discounted value	3272
+option time value	3273
+value in exchange	3274
+cnh hibor tma	3275
+cooperative bank	3276
+non cash securities delivery	3277
+financial markets regulation	3278
+minimum margin	3279
+inr bmk	3280
+allocate ratings	3281
+gbp libor reference banks	3282
+distributing share class	3283
+security issuance certificate	3284
+pretrade quotes	3285
+japanese yen libor	3286
+redemption in inverse order	3287
+unconditional right	3288
+month	3289
+notional step percentage amount	3290
+ron annual swap rate bgcantor	3291
+liquidation event	3292
+negotiable security	3293
+inr mibor ois compound	3294
+treatment capability	3295
+dkk cibor bloomberg	3296
+commodity	3297
+scheduled trading day type	3298
+disposition right	3299
+swing price	3300
+auditor	3301
+unconditional obligation	3302
+time point value	3303
+payment or interest payment action	3304
+scheme	3305
+interest payment with principal	3306
+inr semi annual swap rate bgcantor	3307
+verbal contract	3308
+division	3309
+delivery obligation	3310
+management company	3311
+debt security quote price	3312
+canadian dollar offered rate	3313
+twd quarterly annual swap rate reference banks	3314
+trades reference data provision	3315
+statutory reporting entity	3316
+reporting entity	3317
+credit score category	3318
+iso standard	3319
+cad tbill reference banks	3320
+average hourly earnings	3321
+chief financial officer	3322
+full faith and credit bond	3323
+notional step period length	3324
+industrial bank	3325
+issuer corporate action announcer	3326
+green bond	3327
+credit score model type	3328
+sub fund manager	3329
+ils telbor reuters	3330
+market investment goal	3331
+sar srior suaa	3332
+zar prime average	3333
+secondary security offering distribution	3334
+securities custody	3335
+fx put option contract	3336
+cash abs pool	3337
+cash structured finance instrument pool	3338
+share action	3339
+advice of possible action	3340
+end of month	3341
+face amount certificate company	3342
+distribution method	3343
+usd cp reference dealers	3344
+securities trading	3345
+local firm	3346
+brokerage firm	3347
+credit institution or investment firm	3348
+loan early prepayment hard penalty terms	3349
+obligation conditional on some circumstance	3350
+quantitative amount	3351
+labor productivity gross output	3352
+securities issuance official statement	3353
+voluntary corporate event process	3354
+compulsion capacity	3355
+nil paid	3356
+metric weight measurement unit	3357
+when issued	3358
+primary market closing	3359
+corporate dated facts	3360
+dkk cita dkna compound	3361
+private company with limited liability	3362
+chf usd basis swaps icap	3363
+standardized futures option terms set	3364
+fhlmc pool	3365
+money market future	3366
+loan party	3367
+coupon stub start date	3368
+week	3369
+bond offer issue with warrant	3370
+share value decrease notification	3371
+share value decrease action	3372
+phase	3373
+price determination method	3374
+variable determination method	3375
+unique trade identifier	3376
+privately held company	3377
+lookback formula expression	3378
+special call	3379
+equities mixed basket	3380
+mixed basket	3381
+share buyback offer notification	3382
+usd libor reference banks	3383
+government sponsored loan	3384
+right to buy	3385
+grd athibor telerate	3386
+euro interbank offered rate	3387
+cash structured finance instrument price	3388
+jpy tona ois compound	3389
+gross of fee performance determination method	3390
+extraordinary general meeting	3391
+entitlement	3392
+amortization schedule	3393
+inr fbil mibor ois compound	3394
+voting no action	3395
+abscdo instrument	3396
+derivatives delivery squaring off	3397
+eur euribor annual bond swap icap	3398
+conversion response	3399
+income accumulation	3400
+aud aonia ois compound swap marker	3401
+inactive	3402
+mandatory put event	3403
+sicav	3404
+nzd bbr telerate	3405
+short term credit rating	3406
+capacity	3407
+sgd sibor telerate	3408
+territory	3409
+pass pool	3410
+time	3411
+share underwriter	3412
+mass	3413
+residential mbs	3414
+warrant holder	3415
+cad isda swap rate	3416
+standardized equity option terms set	3417
+actively trading	3418
+holder disclosure message	3419
+percentage cav	3420
+chf ois icap	3421
+eur eonia swap index	3422
+options exchange adjustment method	3423
+national bank	3424
+attachment notification message	3425
+gbp libor isda	3426
+standardized commodity future terms set	3427
+registered address site	3428
+credit inquiry type	3429
+try annual swap rate bgcantor	3430
+options clearing entity	3431
+ufficiale	3432
+low price	3433
+callable convertible bond	3434
+us dollar libor	3435
+international money market new zealand dollar trading date rule	3436
+bonus issue notification	3437
+cnh hibor reference banks	3438
+stake	3439
+nzd bbr isdc	3440
+topographical location	3441
+ability	3442
+futures commission merchant	3443
+fixed float cross currency interest rate swap	3444
+fixed float interest rate swap	3445
+sgd semi annual swap rate reference banks	3446
+overdraft facility purpose	3447
+usd ffcb disco	3448
+good	3449
+loan application at agreement stage	3450
+float float single currency interest rate swap	3451
+goods or services population	3452
+sgd sonar ois vwap compound	3453
+assimilation pari passu	3454
+open time	3455
+eur annual swap rate bloomberg	3456
+eur annual swap rate icap	3457
+tax expense	3458
+inr reference banks	3459
+total return swap contract	3460
+usd prime reference banks	3461
+special assessment bond	3462
+usd cms telerate	3463
+sovereign bond	3464
+advanced refunding	3465
+refunding purpose	3466
+hkd hibor hkab bloomberg	3467
+rights allocation ability	3468
+usd municipal swap libor ratio icap	3469
+usd cp	3470
+non cumulative preference share	3471
+spread curve	3472
+issue payment schedule	3473
+option premium variable	3474
+up	3475
+cooperative society	3476
+non european economic area branch	3477
+allocation details	3478
+acceleration	3479
+partnership incorporated through agreement	3480
+usd ois ny icap	3481
+eur annual swap rate swap marker	3482
+eur euribor basis swap icap	3483
+revenue bond	3484
+cad ba cdor bloomberg	3485
+central securities depository	3486
+equity release	3487
+social construct	3488
+post merger securities exchange notification	3489
+common share in fund	3490
+company secretary	3491
+dividend option	3492
+alienable right	3493
+cny semi annual swap rate reference banks	3494
+credit repository	3495
+market data	3496
+total owners equity	3497
+capital productivity value added	3498
+passport	3499
+operating expense	3500
+energy	3501
+exchange opening price	3502
+placement agreement	3503
+non statutory reporting obligation	3504
+zar quarterly swap rate tradition reference banks	3505
+automated system	3506
+income from operations	3507
+reverse mortgage	3508
+zar deposit safex	3509
+funds cash distribution	3510
+swap stream event	3511
+competitive sale method	3512
+shares premium dividend payment notification	3513
+gbp isda swap rate	3514
+gas commodity	3515
+energy commodity	3516
+close time	3517
+influence based de facto controlling party	3518
+nzd semi annual swap rate bgcantor	3519
+second home loan contract	3520
+federated sovereignty	3521
+holder event	3522
+jpy tsr reuters	3523
+uncommitted credit facility tranche	3524
+uncommitted credit facility	3525
+thb sor telerate	3526
+credit watch upgrade	3527
+myr klibor bnm	3528
+cap loan	3529
+calculated payout commitment	3530
+geographical feature	3531
+court decision subsequent meeting	3532
+equity security delivery	3533
+class action proposed settlement event	3534
+cny semi annual swap rate bgcantor	3535
+usd federal funds bloomberg	3536
+repofunds rate germany ois compound	3537
+idr sor telerate	3538
+deliverable underlier	3539
+fractional price quotation	3540
+eur euribor act bloomberg	3541
+postpaid premium type	3542
+ordinary general meeting	3543
+disclosure message	3544
+php semi annual swap rate bgcantor	3545
+aud bbr bbsy bid	3546
+sba pool	3547
+criminal law	3548
+fixed float single currency interest rate swap	3549
+bonus rights issue notification	3550
+financial market information	3551
+derivatives delivery cash	3552
+joint stock company	3553
+total assets	3554
+construction	3555
+cad ba reference banks	3556
+decimal price quotation	3557
+sole controlling party	3558
+assess pool suitablility for issuance	3559
+sgd sor vwap reference banks	3560
+ils telbor reference banks	3561
+non agency pool creation process	3562
+executive branch	3563
+effective duration	3564
+third party corporate action originator message	3565
+third party corporate action notification message	3566
+gbp usd basis swaps icap	3567
+payroll service	3568
+cash or nothing payout commitment	3569
+otc contract settlement terms	3570
+bonus share plan distribution notification	3571
+venue	3572
+risk mitigation requirement	3573
+primary market indications of interest	3574
+credit message type	3575
+sale method	3576
+usd cd reference dealers	3577
+original balance applicability	3578
+drawing	3579
+time weighted rate of return performance determination method	3580
+covariance leg terms	3581
+regulatory capacity	3582
+investment service	3583
+product requirement	3584
+eur libor bba	3585
+primary security offering distribution	3586
+usd index high grade	3587
+investment home loan	3588
+ipo preliminary prospectus	3589
+imperial weight measurement unit	3590
+gbp semi annual swap rate tradition	3591
+consumer finance company	3592
+insurance service	3593
+corporate action confirmation	3594
+temporal value	3595
+jpy usd basis swaps icap	3596
+coupon stub end date	3597
+annual reporting policy	3598
+pln polonia ois compound	3599
+aud libor bba	3600
+charge	3601
+status code value	3602
+obligation conditional on some event	3603
+zar jibar safex	3604
+prescriptive event	3605
+synthetic amortizing security	3606
+investment home loan contract	3607
+virtual location	3608
+usd tbill bloomberg	3609
+text value	3610
+single value	3611
+unsecured loan	3612
+motorhome loan purpose	3613
+corporate action status message	3614
+change in details notification	3615
+index future	3616
+usd isda swap rate	3617
+net sales income	3618
+margin account	3619
+municipal bond issue information	3620
+usd ois lon icap	3621
+offering statement	3622
+farm credit system institution	3623
+combination mortgage	3624
+first regular coupon date	3625
+chf annual swap rate icap	3626
+hkd quarterly quarterly swap rate icap	3627
+ron annual swap rate reference banks	3628
+scrip dividend notification	3629
+eur euribor act	3630
+usd tbill	3631
+balance sheet balance	3632
+balance sheet feature	3633
+danish borrower call	3634
+specialist mortgage issuer	3635
+sgd sibor reuters	3636
+eur eonia ois tradition	3637
+sgd sor vwap	3638
+usd ba	3639
+notional financial marketplace	3640
+eur euribor swap cme lch icap bloomberg	3641
+futures initial trading margin	3642
+inalienable right	3643
+statutory law	3644
+accounting transaction	3645
+emancipated minor	3646
+maturity extension notification	3647
+equity underwriting issuance process	3648
+otc master agreement agreements terms	3649
+potential non agency mbs issuer	3650
+gbp wmba sonia compound	3651
+third party warrant issuer	3652
+subfund supervisory authority	3653
+holders option call	3654
+club	3655
+legitimate organization	3656
+writedown	3657
+date determination convention	3658
+delivery method	3659
+twd quarterly annual swap rate bgcantor	3660
+interest bearing cp	3661
+eur isda libor swap rate	3662
+inr inbmk reuters	3663
+statistical swap contract	3664
+try annual swap rate reference banks	3665
+eur usd basis swaps icap	3666
+dkk cibor reference banks	3667
+special obligation bond	3668
+change to smallest negotiable unit	3669
+special tax bond	3670
+fund redemption restriction	3671
+eur annual swap rate month swap marker	3672
+new housing sector	3673
+fhlmc gold pool	3674
+cap determination	3675
+indenture	3676
+credit card	3677
+sgd sor reference banks	3678
+usd libor bba bloomberg	3679
+partly paid	3680
+market data provision	3681
+contractually specified date	3682
+distribution by payment	3683
+rub mosprime nfea	3684
+representation	3685
+cad libor bba swap marker	3686
+payment place specified either in master agreement or confirmation	3687
+inr mifor	3688
+cad libor reference banks	3689
+temporal measure determination	3690
+chf libor bba bloomberg	3691
+cny shibor reuters	3692
+gbp libor bba bloomberg	3693
+note fund unit	3694
+effective yield	3695
+county	3696
+third party corporate action issuer message	3697
+securities post trade position management	3698
+long term debt	3699
+usd sibor reference banks	3700
+redemption by lot	3701
+non agency po tranche	3702
+otc index option	3703
+equity announcement	3704
+constitutional law	3705
+canary exercise convention	3706
+renovation	3707
+loan fixed interest payment terms	3708
+aed ebor reuters	3709
+place of incorporation change	3710
+chief executive officer	3711
+executive board member	3712
+money market future standardized terms set	3713
+cop ibr ois compound	3714
+date determination agency	3715
+metropolitan statistical area	3716
+gbp sonia ois icap	3717
+nzd nziona ois compound	3718
+regular call	3719
+stock volatillity	3720
+usd tibor isdc	3721
+student borrower	3722
+allocation basis details	3723
+exchange business day type	3724
+twd reuters	3725
+call price	3726
+certificate of obligation	3727
+federal capital area	3728
+system requirement	3729
+loan application phase	3730
+cny repo compounding date	3731
+savings and loan association	3732
+gbp semi annual swap rate swap marker	3733
+physical item	3734
+blue sky law	3735
+roll back	3736
+sovereign wealth fund	3737
+factor calculation formula	3738
+gbp wmba ronia compound	3739
+cad libor bba	3740
+aud semi annual swap rate bgcantor	3741
+odd lot offer	3742
+benefit corporation	3743
+civil law	3744
+cad ba cdor	3745
+curtailment amount applicability	3746
+chf annual swap rate reference banks	3747
+huf bubor reuters	3748
+non wholly owned subsidiary	3749
+fund distribution policy	3750
+dividend reinvestment notification	3751
+equity linked bond	3752
+contract preamble	3753
+make securities availabe in market	3754
+jpy libor frasett	3755
+industrial products sector	3756
+joint borrower	3757
+internally determined price spread	3758
+debt price spread	3759
+jpy tibor ztibor	3760
+czk annual swap rate reference banks	3761
+asset maximum or minimum payout commitment	3762
+consumer protection law	3763
+private placement	3764
+xetra	3765
+pac tranche	3766
+scheduled calculation period start event	3767
+credit basket reference constituent	3768
+tax allocation bond	3769
+beneficial owner	3770
+electricity commodity	3771
+maturity equivalent psa	3772
+average monthly earnings	3773
+kassa	3774
+bond trading context	3775
+limited controlling party	3776
+isk reibor reuters	3777
+payment place specified in master agreement	3778
+limited tax general obligation bond	3779
+joint venture	3780
+grain commodity	3781
+remortgage on different terms	3782
+tool	3783
+birth certificate	3784
+eur euribor reference banks	3785
+sgd sibor reference banks	3786
+bond put redemption instruction	3787
+rea transaction obligation	3788
+right of credit record correction	3789
+credit reference agency requirements	3790
+total return leg	3791
+idr sor reference banks	3792
+charge category	3793
+bonus rights issue	3794
+energy transmission rights	3795
+currency conversion service	3796
+corporate change of status event	3797
+change of state event	3798
+limited de facto control	3799
+sar srior reference banks	3800
+convention determined date	3801
+nok nibor reference banks	3802
+reg	3803
+aud bbr bbsw bloomberg	3804
+bond exchange opening price	3805
+dkk cibor dkna bloomberg	3806
+commodity business day type	3807
+residential houseboat loan purpose	3808
+securities trade capture and validation	3809
+financial wellbeing	3810
+frn coupon	3811
+chf libor swap cme lch icap bloomberg	3812
+troy weight system of quantities	3813
+gnma pool	3814
+securitized debt interest	3815
+bond with warrant	3816
+thb thbfix reference banks	3817
+residual tranche	3818
+sector strategy	3819
+thb semi annual swap rate reference banks	3820
+interest rate adjustment notification	3821
+on watch outlook	3822
+usd cd	3823
+investment firm	3824
+when issued transaction	3825
+optional cash dividend event	3826
+cash dividend event	3827
+trading halted	3828
+international law	3829
+barrel	3830
+information product	3831
+filing details	3832
+international money market canadian dollar trading date rule	3833
+abstract cashflow construct	3834
+eurodollar deposit	3835
+accrued liability	3836
+liability	3837
+credit ok	3838
+listino	3839
+sgd sonar ois compound	3840
+mortgage loan appraiser	3841
+idr jibor reuters	3842
+partnership with only limited partners	3843
+subordinated voting right	3844
+individual unilateral commitment	3845
+grd athibor athibor	3846
+consent granted	3847
+direct expense	3848
+twd taibir	3849
+cny quarterly repo non deliverable swap rate tradition reference banks	3850
+debt guarantor	3851
+forward rate agreement	3852
+defined conditions payout commitment	3853
+usd ois tradition	3854
+krw cd ksda bloomberg	3855
+explicit interest amount calculation event	3856
+scheduled calculation period end event	3857
+bond continuous call type	3858
+call type	3859
+cbo deal	3860
+dispersion swap contract	3861
+krw quarterly annual swap rate icap	3862
+announcement message	3863
+jpy ois icap	3864
+hkd quarterly annual swap rate reference banks	3865
+region	3866
+cash disbursement response message	3867
+loan to value ratio	3868
+raw materials sector	3869
+usd prime	3870
+pound sterling libor	3871
+municipal note	3872
+redemption price	3873
+opton adjusted yield	3874
+ordinary loan purpose	3875
+convertible common share	3876
+electronic price determination method	3877
+scrip dividend	3878
+influence based de facto control	3879
+securities trade order routing	3880
+corporate bond	3881
+drip	3882
+cny cnrepofix cfxs reuters	3883
+inherent potential	3884
+drawing rights purpose	3885
+medium term note	3886
+cash securities delivery	3887
+form	3888
+zar prime average reference banks	3889
+negative pledge	3890
+debt instrument pool creation process	3891
+ratio system of quantities	3892
+eur euribor swap cme lch icap	3893
+regulatory report	3894
+aud bbr bbsw	3895
+market correlation risk party	3896
+retained earnings	3897
+floating point value	3898
+bond future	3899
+date termination terms	3900
+contractual transaction obligation	3901
+usd bma municipal swap index	3902
+attachment action	3903
+jpy stpr quoting banks	3904
+regulator	3905
+credit card pool creation process	3906
+euro libor	3907
+bridging loan purpose	3908
+chf saron ois compound	3909
+cad tbill isdd	3910
+conversion suspension notification	3911
+rights distribution notification	3912
+cad ba isdd	3913
+php phiref reference banks	3914
+skk bribor bloomberg	3915
+trade advertisements	3916
+corporate action securities delivery obligation	3917
+family office	3918
+eur basis swap eonia eur ibor swap rates icap	3919
+micropolitan statistical area	3920
+debt instrument pool analytic	3921
+current ltv	3922
+option daily settlement price	3923
+chooser option contract	3924
+knock out	3925
+business day type	3926
+lending goal	3927
+thb sor reference banks	3928
+lottery call	3929
+non depository trust company	3930
+debt auction process	3931
+non executive board member	3932
+listing details	3933
+troy ounces	3934
+osp	3935
+index or basket option entitlement	3936
+religious law	3937
+controlling interest option holder	3938
+capital reserves distribution	3939
+jpy mutancall tonar	3940
+frn date rule	3941
+capital reserves distribution notification	3942
+krw bond	3943
+voting no action message	3944
+loan or credit account	3945
+reputation	3946
+commitment at large	3947
+securities trade confirmation affirmation	3948
+build america bond	3949
+idr idrfix	3950
+cny shibor ois compounding	3951
+funds processing referent	3952
+securities trade execution	3953
+nzd semi annual swap rate bgcantor reference banks	3954
+securities issuance notice of sale	3955
+cad corra ois compound	3956
+interest only	3957
+regulatory operational requirement	3958
+cash out status	3959
+czk pribor prbo	3960
+financial intermediation service	3961
+investment mortgage	3962
+timed based surface	3963
+swapstream interest payment calculation relative date	3964
+annual general meeting	3965
+percentage par	3966
+abstention response	3967
+payment obligation as delivery	3968
+krw cd	3969
+commodity instrument	3970
+usd sifma municipal swap index	3971
+dkk dkkois ois compound	3972
+call premium	3973
+operational requirement	3974
+locally defined credit basket	3975
+arithmetic mean	3976
+chf libor bba	3977
+eur euribor reuters	3978
+security cash equivalent delivery	3979
+privilege	3980
+average daily earnings	3981
+principal strip	3982
+try tryibor reference banks	3983
+optional cash dividend notification	3984
+eur eonia ois compound	3985
+put price	3986
+controlled party	3987
+share register	3988
+trustee call	3989
+non specific address text	3990
+usd libor isda	3991
+jpy tibor tibm all banks bloomberg	3992
+duration determination in days	3993
+canon law system	3994
+military person	3995
+swap data repository	3996
+abstention response message	3997
+odd lot sale	3998
+corporate action narrative	3999
+fund capital gains distribution notification	4000
+futures daily settlement price	4001
+idr semi annual swap rate reference banks	4002
+consent granted message	4003
+purchase	4004
+dutch auction notification	4005
+mandatory cash dividend notification	4006
+mandatory cash dividend event	4007
+chf libor reference banks	4008
+odd lot offer message	4009
+rights exercise event	4010
+coco bondholder	4011
+software license	4012
+coherent derived unit	4013
+cdo reference obligation	4014
+nzd bbr reference banks	4015
+registration capacity	4016
+knock in	4017
+nzd bbr fra	4018
+debt claim	4019
+gbp libor swap cme lch icap	4020
+issuance process participant	4021
+usd ba reference dealers	4022
+equity basket	4023
+abscdo deal	4024
+litigation capacity	4025
+civilian	4026
+accreting	4027
+detachment action	4028
+hmda pre approval request	4029
+gbp libor swap eurex lch icap	4030
+eur libor bba bloomberg	4031
+pln wibor wibo	4032
+try semi annual swap rate tradition reference banks	4033
+registration statement document	4034
+last regular coupon date	4035
+standard deviation	4036
+custom product	4037
+securities trade date position reporting	4038
+roll forward	4039
+tranched mbs securitization process	4040
+usd treasury icap	4041
+usd tibor reference banks	4042
+gbp semi annual swap rate icap	4043
+sek annual swap rate	4044
+equity otc basket option transaction	4045
+twd reference dealers	4046
+zar jibar reference banks	4047
+labor productivity value added	4048
+hedge fund	4049
+partnership with general partners with limited liability	4050
+hkd hibor hibor bloomberg	4051
+stock dividend notification	4052
+negotiated sale method	4053
+add mortgage to pool	4054
+discount curve to use	4055
+restricted percentage	4056
+inr miois	4057
+introducing broker	4058
+gnma ii pool	4059
+ipo full prospectus	4060
+securities trade allocation	4061
+payment place specified in confirmation message	4062
+aud aonia ois compound	4063
+securities disbursement response message	4064
+process participant	4065
+huf bubor reference banks	4066
+super po tranche	4067
+fx volatility option	4068
+nzd swap rate icap reference banks	4069
+publicly held company	4070
+twd telerate	4071
+chf liborswap cme lch icap bloomberg	4072
+czk pribor reference banks	4073
+unlisted bond	4074
+chf basis swap libor icap	4075
+index future standardized terms set	4076
+abs securitization process	4077
+cad repo corra	4078
+usd federal funds ois compound	4079
+end of day price	4080
+riferimento	4081
+try annual swap rate tradition	4082
+grd athimid reference banks	4083
+ordinary voting right	4084
+sek stibor reference banks	4085
+grd athimid reuters	4086
+usd cof reuters	4087
+ron rbor reuters	4088
+short term debt	4089
+open outcry price determination method	4090
+chf tois ois compound	4091
+jpy ltpr tbc	4092
+futures transaction	4093
+single stock option	4094
+sampling variance	4095
+repofunds rate france ois compound	4096
+sales finance company	4097
+network address	4098
+cash response	4099
+contingent transaction party	4100
+announce securities issue	4101
+service contract	4102
+instant in time	4103
+time point	4104
+international wire transfer	4105
+sole owner	4106
+sole trader	4107
+EEA branch	4108
+swap stream terms	4109
+adjustable rate	4110
+trust instrument	4111
+trust deed	4112
+trust document	4113
+legal address	4114
+national identity number	4115
+commercial off-the-shelf product	4116
+commercially available off-the-shelf product	4117
+basis rate swap	4118
+fixed payment stream terms	4119
+time stamp	4120
+driving licence	4121
+KLEMS multifactor productivity	4122
+public interest	4123
+delegated legislation	4124
+byelaws	4125
+parent company	4126
+corporate law	4127
+commercial credit company	4128
+articles of association	4129
+purchaser	4130
+organization sub-unit identifier	4131
+bilateral contract	4132
+non-profit corporation	4133
+unit investment company	4134
+make whole provision	4135
+grantor	4136
+settlor	4137
+regulatory authority	4138
+regulatory body	4139
+floating interest rate swap stream terms	4140
+financial intermediary	4141
+closed corporation	4142
+privately held corporation	4143
+account manager	4144
+nonprofit objective	4145
+fixed-float cross-currency interest rate swap	4146
+non-EEA branch	4147
+corporate secretary	4148
+wire transfer service	4149
+bearer	4150
+non-profit organization	4151
+direct loan company	4152
+small loan company	4153
+back end ratio	4154
+statutory agent	4155
+resident agent	4156
+juristic person	4157
+juridical entity	4158
+artificial person	4159
+organization part	4160
+certificate of live birth	4161
+corporate bylaw	4162
+body corporate	4163
+local government	4164
+articles of partnership	4165
+derivative contract	4166
+call provision	4167
+payroll employment	4168
+put provision	4169
+vanilla interest rate swap	4170
+inside director	4171
+outside director	4172
+profit motive	4173
+for profit objective	4174
+actual owner	4175
+bond interest	4176
+bespoke product	4177
+custom-made product	4178
+made to order product	4179
+identity card	4180
+OTC Bond	4181
+fixed interest rate swap stream terms	4182
+acceptance company	4183
+fund investor type	4184
+ratings agency	4185
+?concept	4186
+?object	4187
+number	4188
+bankruptcy	4189
+text	4190
+allocation	4191
+distribution	4192
+redemption	4193
+bill of exchange	4194
+creditworthiness	4195
+custodian	4196
