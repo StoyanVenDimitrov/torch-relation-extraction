@@ -11,16 +11,16 @@ def readFromTSV(read_line):
 
       ent1 = re.findall(r'([A-Z]{2,}(?=[A-Z]|$)|[A-Z][a-z]*)', ent1)
       print (ent1)
-      ent1 = ' '.join(ent1)
+      ent1 = ' '.join(ent1).lower()
    m = re.search('#(.+?)>', rel)
    if m:
       rel = 'rel:' + m.group(1)
    e2 = re.search('vocabulary#(.+?)>', ent2)
    if e2:
       ent2 = e2.group(1)
-      ent2 = re.findall(r'([A-Z]{2,}(?=[A-Z]|$)|[A-Z][a-z]*)', ent2)
+      ent2 = re.findall(r'[A-Z]{2,}(?![a-z])|[A-Z][a-z]+', ent2)
       ent2 = ' '.join(ent2).lower()
-   triple = '\t'.join((ent1,rel,ent2))
+   triple = '\t'.join((ent1, ent2, rel , '1'))
    vocabulary_entity = ent1
    return triple,vocabulary_entity
 
