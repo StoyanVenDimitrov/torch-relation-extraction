@@ -3,24 +3,27 @@
 import sys, getopt, re, string
 
 def readFromTSV(read_line):
-   formatted=[]
+   
    ent1,rel,ent2 = read_line.split('\t')
    e1 = re.search('vocabulary#(.+?)>', ent1)
    if e1:
       ent1 = e1.group(1)
 
-      ent1 = re.findall(r'([A-Z]{2,}(?=[A-Z]|$)|[A-Z][a-z]*)', ent1)
-      print (ent1)
+      ent1 = re.findall(r'[A-Z]{2,}(?![a-z])|[A-Z][a-z]+', ent1)
       ent1 = ' '.join(ent1).lower()
    m = re.search('#(.+?)>', rel)
+   print (ent1)
    if m:
       rel = 'rel:' + m.group(1)
+   print (rel)
+   ent2=ent2.strip()
    e2 = re.search('vocabulary#(.+?)>', ent2)
    if e2:
       ent2 = e2.group(1)
       ent2 = re.findall(r'[A-Z]{2,}(?![a-z])|[A-Z][a-z]+', ent2)
       ent2 = ' '.join(ent2).lower()
-   triple = '\t'.join((ent1, ent2, rel , '1'))
+   print (ent2)
+   triple = '\t'.join((ent1,ent2,rel,'1'))+'\n'
    vocabulary_entity = ent1
    return triple,vocabulary_entity
 
@@ -50,9 +53,10 @@ def main(argv):
    vocab=[]
    triples=[]
    for line in open(inputfile, 'r'):
-      t,v=readFromTSV(line)
-      triples.append(t)
-      vocab.append(v)
+      if not "#prefLabel" in line:
+         t,v=readFromTSV(line)
+         triples.append(t)
+         vocab.append(v)
    vocab=list(set(vocab))
 
    print ('Creating vocabulary to ' + vocabfile )
