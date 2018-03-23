@@ -1,0 +1,5 @@
+currency	rel:hasCurrency	country	doc	29	30	12	13	In particular, in Table, series which have the new euro area country as a geographical counterparty become mandatory, while, in Table 4, series originally denominated in the national currency of the new euro area country cease to be reported.
+currency	rel:sellsTo	country	doc	29	30	12	13	In particular, in Table, series which have the new euro area country as a geographical counterparty become mandatory, while, in Table 4, series originally denominated in the national currency of the new euro area country cease to be reported.
+currency	rel:appoints	country	doc	29	30	12	13	In particular, in Table, series which have the new euro area country as a geographical counterparty become mandatory, while, in Table 4, series originally denominated in the national currency of the new euro area country cease to be reported.
+currency	rel:hasLeg	country	doc	29	30	12	13	In particular, in Table, series which have the new euro area country as a geographical counterparty become mandatory, while, in Table 4, series originally denominated in the national currency of the new euro area country cease to be reported.
+

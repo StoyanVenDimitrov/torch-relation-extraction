@@ -1,0 +1,597 @@
+business	account	$ARG2 of the $ARG1	1	
+balance	business	$ARG2 and, in their $ARG1	1	
+group	funds	$ARG1 money market $ARG2	1	
+group	undertaking	$ARG2 and other MFIs. The last $ARG1	1	
+account	funds	$ARG1 Deposits or other repayable $ARG2	1	
+liquidity	liability	$ARG1 of the $ARG2	1	
+principal	objective	$ARG2 of maintaining the $ARG1	1	
+value	fund	$ARG1 of the $ARG2	1	
+interest	market	$ARG1 rates on money $ARG2	1	
+portfolio	valuation	$ARG2 of the $ARG1	1	
+number	regulation	$ARG2 presents a $ARG1	1	
+claim	value	$ARG2 as represented by a $ARG1	1	
+interest	territory	$ARG1 in the economic $ARG2	1	
+balance	real estate	$ARG2 is not used in MFI $ARG1	1	
+balance	scheme	$ARG2 for MFI $ARG1	1	
+purpose	allocation	$ARG1 of the geographic $ARG2	1	
+balance	requirement	$ARG2 (the use of MFI $ARG1	1	
+charge	payment	$ARG1 or for a $ARG2	1	
+total	mutual agreement	$ARG2 may affect the $ARG1	1	
+balance	regulation	$ARG1 sheet statistics. Under $ARG2	1	
+report	revaluation	$ARG1 to the ECB these $ARG2	1	
+balance	instrument	$ARG2 category, the MFI $ARG1	1	
+balance	issued	$ARG2 For the purposes of MFI $ARG1	1	
+holding	liability	$ARG1 and the $ARG2	1	
+balance	valuation	$ARG2 and treatment of other $ARG1	1	
+difference	price	$ARG1 between selling $ARG2	1	
+financial asset	liability	$ARG1 and a financial $ARG2	1	
+asset	liability	$ARG1 and settle the $ARG2	1	
+preference	valuation	$ARG1 for market $ARG2	1	
+market price	requirement	$ARG1 which is the general $ARG2	1	
+interest	instrument	$ARG1 shows as a transaction in the $ARG2	1	
+regulation	income	$ARG2 in the non-financial accounts. $ARG1	1	
+regulation	rule	$ARG1 contains no $ARG2	1	
+interest	issued	$ARG1 on securities $ARG2	1	
+balance	price	$ARG2 as reported on the MFI $ARG1	1	
+market	price	$ARG2 quoted in the $ARG1	1	
+reference	balance	$ARG1 day for $ARG2	1	
+balance	position	$ARG1 of payments and international investment $ARG2	1	
+reference	country	$ARG2 as the $ARG1	1	
+time	payment	$ARG1 when the $ARG2	1	
+exchange	payment	$ARG2 (e.g. an $ARG1	1	
+borrower	payment	$ARG2 is made to the $ARG1	1	
+security	cash	$ARG1 in exchange for $ARG2	1	
+security	payment	$ARG2 occurs, not when the $ARG1	1	
+asset	settlement	$ARG1 (IFRS 9.B3.1.5), while the $ARG2	1	
+asset	date	$ARG2 on which an $ARG1	1	
+reference	month	$ARG1 exchange rates of the $ARG2	1	
+month	exchange	$ARG2 rates of the $ARG1	1	
+service	claim	$ARG1 is provided giving rise to a $ARG2	1	
+trade	settlement	$ARG1 date and the $ARG2	1	
+settlement	date	$ARG2 and the $ARG1	1	
+date	payment	$ARG1 while the corresponding $ARG2	1	
+instrument	payment	$ARG1 is the $ARG2	1	
+settlement	date	$ARG2 when delivery is made 18 (i.e. the $ARG1	1	
+date	payment	$ARG2 and IFRS, as the settlement $ARG1	1	
+time	relation	$ARG2 to the $ARG1	1	
+record	ownership	$ARG1 transactions “when economic $ARG2	1	
+balance	option	$ARG2 of this manual for MFI $ARG1	1	
+country	regulation	$ARG1 concerned. Nor does the $ARG2	1	
+application	regulation	$ARG2 ECB/2003/9 on the $ARG1	1	
+reference	regulation	$ARG1 to the first variant, $ARG2	1	
+group	regulation	$ARG2 ECB/2003/9, as the $ARG1	1	
+group	base	$ARG2 in aggregate for the $ARG1	1	
+balance	regulation	$ARG1 sheet statistics is $ARG2	1	
+down	convention	$ARG2 is legally binding and is laid $ARG1	1	
+law	credit institution	$ARG2 under EU $ARG1	1	
+debt	up	$ARG1 securities of $ARG2	1	
+maturity	capital	$ARG1 and with a nominal $ARG2	1	
+balance	revaluation	$ARG1 sheet stocks data, $ARG2	1	
+difference	measure	$ARG1 between the $ARG2	1	
+regulation	measure	$ARG2 contained in $ARG1	1	
+balance	valuation	$ARG1 sheets, the $ARG2	1	
+balance	market price	$ARG2 in MFI $ARG1	1	
+asset	market	$ARG2 value, while on the $ARG1	1	
+principal	debtor	$ARG1 that the $ARG2	1	
+debt	market	$ARG1 securities (AF.33), at $ARG2	1	
+debt	issued	$ARG1 securities are $ARG2	1	
+price	redemption	$ARG1 and the $ARG2	1	
+instrument	market price	$ARG2 is quoted, the $ARG1	1	
+price	exchange	$ARG1 on the stock $ARG2	1	
+liquidity	business	$ARG1 the nature of the $ARG2	1	
+reference	value	$ARG1 to own funds or nominal $ARG2	1	
+value	funds	$ARG2 or nominal $ARG1	1	
+value	fund	$ARG1 if they are redeemable by the $ARG2	1	
+exchange rate	balance	$ARG1 on the $ARG2	1	
+balance	instrument	$ARG1 sheet with $ARG2	1	
+currency	liability	$ARG1 in circulation (a $ARG2	1	
+market	issued	$ARG2 including money $ARG1	1	
+notice	maturity	$ARG2 and deposits redeemable at $ARG1	1	
+interest	maturity	$ARG1 on assets. A $ARG2	1	
+year	maturity	$ARG2 breakdown at one $ARG1	1	
+interest	exchange	$ARG1 rates, foreign $ARG2	1	
+market	value	$ARG2 or can be offset in the $ARG1	1	
+balance	value	$ARG2 that is recorded in the MFI $ARG1	1	
+asset	contract	$ARG2 Whether it is recorded as an $ARG1	1	
+value	liability	$ARG2 depends on the market $ARG1	1	
+contract	liability	$ARG2 over the life of the $ARG1	1	
+asset	liability	$ARG1 or a $ARG2	1	
+contract	instrument	$ARG2 on which the $ARG1	1	
+maturity	issued	$ARG1 and holdings of securities $ARG2	1	
+year	maturity	$ARG2 at one $ARG1	1	
+debt	government	$ARG2 and their holdings of $ARG1	1	
+issued	government	$ARG1 by central $ARG2	1	
+information	maturity	$ARG1 on original $ARG2	1	
+number	account	$ARG1 of working days is defined taking into $ARG2	1	
+balance	collection	$ARG2 framework for MFI $ARG1	1	
+down	government	$ARG2 are broken $ARG1	1	
+security	government	$ARG2 and social $ARG1	1	
+government	funds	$ARG1 and social security $ARG2	1	
+year	schedule	$ARG2 for the following $ARG1	1	
+information	frequency	$ARG1 at annual $ARG2	1	
+report	number	$ARG1 (i) the $ARG2	1	
+report	information	$ARG1 to the ECB an additional set of $ARG2	1	
+reference	month	$ARG2 following the end of the $ARG1	1	
+report	frequency	$ARG1 to the ECB at annual $ARG2	1	
+time	market	$ARG2 at the $ARG1	1	
+reference	balance	$ARG2 sheet outstandings over a $ARG1	1	
+report	balance	$ARG2 sheet method. When MFIs $ARG1	1	
+report	value	$ARG1 transactions at transaction $ARG2	1	
+purchase	month	$ARG1 during the $ARG2	1	
+balance	market	$ARG1 sheets at current $ARG2	1	
+purchase	security	$ARG1 of a $ARG2	1	
+record	balance	$ARG2 sheet approach does not $ARG1	1	
+value	date	$ARG2 recorded at the $ARG1	1	
+balance	security	$ARG1 sheet. If a $ARG2	1	
+total	market	$ARG1 net transactions measured at $ARG2	1	
+value	comparison	$ARG1 but it complicates the $ARG2	1	
+value	valuation	$ARG2 rules to $ARG1	1	
+length	balance	$ARG2 sheet method. The $ARG1	1	
+reference	impact	$ARG1 period has a similar $ARG2	1	
+market	valuation	$ARG1 prices and the $ARG2	1	
+balance	role	$ARG1 sheet also play a $ARG2	1	
+record	balance	$ARG2 sheet method will $ARG1	1	
+position	account	$ARG1 “capital and reserves” via the profit-and loss $ARG2	1	
+report	revaluation	$ARG1 these to NCBs, NCBs derive $ARG2	1	
+balance	security	$ARG2 holdings, while the $ARG1	1	
+report	balance	$ARG2 sheet. MFIs $ARG1	1	
+down	equity	$ARG2 (totals, and broken $ARG1	1	
+balance	valuation	$ARG2 effects on MFI $ARG1	1	
+balance	liability	$ARG2 side of the $ARG1	1	
+liability	valuation	$ARG1 side of the balance sheet. However, if $ARG2	1	
+purchase price	reference	$ARG2 period minus the $ARG1	1	
+method	exchange	$ARG2 rates. This $ARG1	1	
+application	method	$ARG1 of the transaction $ARG2	1	
+method	exchange	$ARG2 rates. This $ARG1	1	
+balance	application	$ARG2 of the $ARG1	1	
+application	method	$ARG1 of the balance sheet $ARG2	1	
+balance	value	$ARG2 securities on its $ARG1	1	
+balance	market	$ARG2 prices on the $ARG1	1	
+market	date	$ARG1 prices on the balance sheet $ARG2	1	
+balance	impact	$ARG2 on the $ARG1	1	
+relation	market price	$ARG2 stands in $ARG1	1	
+balance	number	$ARG2 of securities carried on the $ARG1	1	
+number	valuation	$ARG2 to the $ARG1	1	
+interest	payment	$ARG2 (as opposed to the accrual) of $ARG1	1	
+value	issued	$ARG1 of their shares/units $ARG2	1	
+reference	exchange rate	$ARG1 to the treatment of $ARG2	1	
+exchange rate	allocation	$ARG2 of the $ARG1	1	
+information	issued	$ARG1 on securities $ARG2	1	
+security	value	$ARG1 its carrying $ARG2	1	
+security	information	$ARG2 reported includes, for each $ARG1	1	
+balance	value	$ARG2 on the $ARG1	1	
+impact	writedown	$ARG2 of loans has an $ARG1	1	
+exchange rate	allocation	$ARG2 of the $ARG1	1	
+impact	business	$ARG1 of a transfer of a $ARG2	1	
+liability	impact	$ARG2 on the asset and $ARG1	1	
+asset	ownership	$ARG2 Accounting for these $ARG1	1	
+bank	establishment	$ARG2 of a new $ARG1	1	
+territory	subsidiary	$ARG1 and when a foreign MFI $ARG2	1	
+unit	form	$ARG2 an entirely new $ARG1	1	
+balance	government	$ARG1 of payments and $ARG2	1	
+restructuring	impact	$ARG1 across national boundaries, this approach will $ARG2	1	
+debt	capital	$ARG1 assumption is treated as a $ARG2	1	
+debt	bank	$ARG1 represented by $ARG2	1	
+down	portfolio	$ARG1 the asset $ARG2	1	
+policy	fund	$ARG1 of an investment $ARG2	1	
+balance	time	$ARG1 sheets statistics reflect the actual composition of the euro area at the $ARG2	1	
+report	country	$ARG2 are required to $ARG1	1	
+balance	regulation	$ARG2 ECB/2008/32. The NCB then compiles the national aggregated MFI $ARG1	1	
+currency	time	$ARG2 series according to the naming conventions for euro area countries, the NCB must add positions in national $ARG1	1	
+report	country	$ARG1 both as a euro area $ARG2	1	
+country	time	$ARG2 these data allow transactions relating to the new euro area $ARG1	1	
+country	time	$ARG2 of enlargement to be correctly derived. Accordingly, the new euro area $ARG1	1	
+report	time	$ARG2 series in the monthly reporting scheme, the NCBs are also required to $ARG1	1	
+time	scheme	$ARG1 series in the monthly reporting $ARG2	1	
+scheme	request	$ARG1 the NCBs are also required to report, upon $ARG2	1	
+currency	country	$ARG2 both in euro and in the joiner’s national $ARG1	1	
+country	time	$ARG1 both in euro and in the joiner’s national currency, so that $ARG2	1	
+report	time	$ARG2 In particular, each of the joiners should $ARG1	1	
+report	time	$ARG2 of enlargement, each of the joiners should $ARG1	1	
+scheme	impact	$ARG2 on the structure of Tables 3 and 4 of the reporting $ARG1	1	
+currency	country	$ARG1 of the new euro area $ARG2	1	
+currency	country	$ARG1 of the new euro area $ARG2	1	
+currency	value	$ARG2 of foreign $ARG1	1	
+currency	price	$ARG2 adjustments in respect of foreign $ARG1	1	
+balance	exchange	$ARG1 sheet exclude $ARG2	1	
+currency	information	$ARG2 is available (e.g. the foreign $ARG1	1	
+currency	balance	$ARG1 changes on the current $ARG2	1	
+market price	date	$ARG1 on that $ARG2	1	
+bond	balance	$ARG1 D is kept on $ARG2	1	
+market price	date	$ARG1 on that $ARG2	1	
+bond	value	$ARG1 A and one bond B, each at a $ARG2	1	
+bond	balance	$ARG2 sheet one $ARG1	1	
+record	balance	$ARG1 securities on the $ARG2	1	
+market price	date	$ARG1 of each of the securities on that $ARG2	1	
+purchase	bond	$ARG2 C (a $ARG1	1	
+balance	market	$ARG1 sheet at $ARG2	1	
+bond	valuation	$ARG2 of the individual transactions would then be 99 for the sale of $ARG1	1	
+bond	balance	$ARG1 D (because this is the $ARG2	1	
+value	method	$ARG1 on 28 February). The $ARG2	1	
+record	bond	$ARG1 an outflow of 99 related to the disposal of $ARG2	1	
+bond	valuation	$ARG2 of the individual transactions would then be 98 for the sale of $ARG1	1	
+bond	balance	$ARG1 D (because this is the $ARG2	1	
+value	method	$ARG1 on 28 February). The $ARG2	1	
+record	bond	$ARG1 an outflow of 98 related to the disposal of $ARG2	1	
+difference	balance	$ARG2 sheet at market value (Case 1); the $ARG1	1	
+balance	market	$ARG1 sheet at $ARG2	1	
+balance	price	$ARG1 sheet at acquisition $ARG2	1	
+reference	difference	$ARG2 in stocks over the $ARG1	1	
+balance	method	$ARG2 or the $ARG1	1	
+time	price	$ARG2 revaluation adjustments Rt+1 at $ARG1	1	
+record	method	$ARG2 used to $ARG1	1	
+time	number	$ARG1 t+1 minus cost, multiplied by the $ARG2	1	
+reference	security	$ARG2 holdings during the $ARG1	1	
+balance	valuation	$ARG1 sheet are all that matters for the $ARG2	1	
+income	valuation	$ARG1 statement, as the $ARG2	1	
+value	exchange	$ARG1 quoted securities (i.e. securities listed on a stock $ARG2	1	
+balance	market price	$ARG2 for MFI $ARG1	1	
+balance	market	$ARG1 sheet at $ARG2	1	
+revaluation	method	$ARG2 the imputed $ARG1	1	
+balance	revaluation	$ARG1 sheet method, the imputed $ARG2	1	
+revaluation	method	$ARG2 the imputed $ARG1	1	
+balance	price	$ARG1 sheet at acquisition $ARG2	1	
+revaluation	method	$ARG2 the imputed $ARG1	1	
+balance	revaluation	$ARG1 sheet method, the imputed $ARG2	1	
+revaluation	method	$ARG2 the imputed $ARG1	1	
+report	option	$ARG2 is to $ARG1	1	
+time	portfolio	$ARG2 amounts to 100 at $ARG1	1	
+time	portfolio	$ARG2 amounts to 100 at $ARG1	1	
+time	portfolio	$ARG2 amounts to 100 at $ARG1	1	
+revaluation	writedown	$ARG1 adjustment of -3, which equals (with opposite sign) the $ARG2	1	
+balance	institutional unit	$ARG1 sheet of one $ARG2	1	
+balance	group	$ARG2 Suppose that their $ARG1	1	
+total	exchange	$ARG1 amount of 10); in $ARG2	1	
+balance	claim	$ARG2 on the MFI for the corresponding amount. After the operation takes place, the $ARG1	1	
+balance	capital	$ARG2 of the subsidiary MFI appears under “Holdings of shares” on the $ARG1	1	
+capital	subsidiary	$ARG1 of the $ARG2	1	
+holding	capital	$ARG1 of shares 10 $ARG2	1	
+total	liability	$ARG1 amount of 20); in exchange for the securities, the $ARG2	1	
+liability	exchange	$ARG2 for the securities, the $ARG1	1	
+exchange	subsidiary	$ARG2 (for a total amount of 20); in $ARG1	1	
+balance	subsidiary	$ARG2 had to the parent MFI is cancelled. After the operation takes place, the $ARG1	1	
+consequence	subsidiary	$ARG1 B becomes a $ARG2	1	
+capital	institutional unit	$ARG2 This is reflected in an increase in the $ARG1	1	
+claim	cash	$ARG2 (10) and the cancellation of the loan $ARG1	1	
+purchase	capital	$ARG2 increase by A and the consequent $ARG1	1	
+purchase	capital	$ARG2 by 20 and the corresponding $ARG1	1	
+unit	balance	$ARG2 sheet of the $ARG1	1	
+capital	corporation	$ARG1 by 20), $ARG2	1	
+down	business	$ARG1 and absorb its $ARG2	1	
+balance	cash	$ARG2 (20) and the shares (30) owned by B will move to the $ARG1	1	
+purchase	down	$ARG2 of B (the increase in the capital of A and the $ARG1	1	
+down	capital	$ARG1 of B (the increase in the $ARG2	1	
+asset	down	$ARG1 transfers taking place before B is wound $ARG2	1	
+capital	corporation	$ARG2 A, which is exchanging the new $ARG1	1	
+purchase	down	$ARG2 Taking into account the increase in the capital of A and A’s $ARG1	1	
+down	capital	$ARG1 Taking into account the increase in the $ARG2	1	
+capital	account	$ARG2 the increase in the $ARG1	1	
+down	account	$ARG1 Taking into $ARG2	1	
+purchase	capital	$ARG2 of A and A’s $ARG1	1	
+balance	corporation	$ARG2 taking over the $ARG1	1	
+form	corporation	$ARG1 an entirely new $ARG2	1	
+asset	down	$ARG1 transfers taking place before A and B are wound $ARG2	1	
+balance	down	$ARG2 and their assets and liabilities are moved to the $ARG1	1	
+balance	exchange	$ARG1 sheet of C in $ARG2	1	
+instrument	regulation	$ARG2 ECB/2008/32 lists $ARG1	1	
+instrument	comparison	$ARG2 The order of $ARG1	1	
+time	date	$ARG1 between the $ARG2	1	
+instrument	date	$ARG1 and the $ARG2	1	
+regulation	maturity	$ARG1 concern original $ARG2	1	
+bond	instrument	$ARG2 Thus, for example, a $ARG1	1	
+year	maturity	$ARG1 left to run is recorded in the $ARG2	1	
+information	maturity	$ARG1 on original $ARG2	1	
+instrument	date	$ARG1 on the reporting $ARG2	1	
+currency	balance	$ARG1 breakdown of $ARG2	1	
+claim	allocation	$ARG2 key amount, the NCB records a $ARG1	1	
+allocation	liability	$ARG1 key amount, it records a $ARG2	1	
+central bank	liability	$ARG2 of the $ARG1	1	
+liability	issued	$ARG1 equal to the amount $ARG2	1	
+claim	government	$ARG1 on central $ARG2	1	
+currency	cash	$ARG2 (assets) or under $ARG1	1	
+value	issued	$ARG2 at face $ARG1	1	
+currency	report	$ARG2 holdings of their own $ARG1	1	
+exchange rate	time	$ARG1 at the $ARG2	1	
+time	market	$ARG2 exchange rate at the $ARG1	1	
+balance	account	$ARG1 sheet dates must be taken into $ARG2	1	
+currency	market	$ARG1 are converted into euro at $ARG2	1	
+country	status	$ARG2 (in the $ARG1	1	
+purpose	balance	$ARG1 of MFI $ARG2	1	
+price	issued	$ARG2 at a $ARG1	1	
+value	price	$ARG2 above their face $ARG1	1	
+convention	regulation	$ARG2 explains that, by $ARG1	1	
+convention	consequence	$ARG2 of this $ARG1	1	
+notice	maturity	$ARG2 or a period of $ARG1	1	
+redemption	maturity	$ARG2 which permit early $ARG1	1	
+notice	up	$ARG2 to three months’ $ARG1	1	
+balance	liability	$ARG1 sheet. In this case, a balancing $ARG2	1	
+notice	maturity	$ARG1 or agreed $ARG2	1	
+redemption	maturity	$ARG2 which allow early $ARG1	1	
+form	liability	$ARG2 in the $ARG1	1	
+cash	exchange	$ARG1 received in $ARG2	1	
+cash	exchange	$ARG1 deposited with an MFI in $ARG2	1	
+collateral	cash	$ARG1 other than $ARG2	1	
+balance	information	$ARG1 sheet at all – for further $ARG2	1	
+market	impact	$ARG1 via central counterparties and the $ARG2	1	
+balance	security	$ARG2 or other instrument involved, which remains on the $ARG1	1	
+security	instrument	$ARG1 or other $ARG2	1	
+asset	cash	$ARG2 (the corresponding $ARG1	1	
+security	collateral	$ARG2 of the $ARG1	1	
+collateral	instrument	$ARG1 of the security or other $ARG2	1	
+instrument	funds	$ARG2 against the collateral of the security or other $ARG1	1	
+currency	form	$ARG2 of foreign $ARG1	1	
+form	cash	$ARG2 usually in the $ARG1	1	
+record	balance	$ARG1 a negative holding on its $ARG2	1	
+balance	security	$ARG2 or other instrument sells it, it should record a negative holding on its $ARG1	1	
+security	holding	$ARG1 or other instrument sells it, it should record a negative $ARG2	1	
+holding	instrument	$ARG2 sells it, it should record a negative $ARG1	1	
+balance	instrument	$ARG2 on their $ARG1	1	
+purchase	agreement	$ARG1 of securities combined with a binding $ARG2	1	
+market	issued	$ARG1 Non-negotiable instruments $ARG2	1	
+margin	funds	$ARG2 Where part of the $ARG1	1	
+balance	collateral	$ARG2 – nothing should be entered on the $ARG1	1	
+collateral	instrument	$ARG2 or there may be no $ARG1	1	
+balance	agreement	$ARG1 sheet if there is a binding $ARG2	1	
+agreement	cash	$ARG1 to reverse the operation. Since no $ARG2	1	
+balance	position	$ARG1 sheet of the temporary acquirer as a negative $ARG2	1	
+agreement	cash	$ARG2 with a binding $ARG1	1	
+balance	form	$ARG2 of bonds. As noted elsewhere, the bonds remain on the $ARG1	1	
+form	collateral	$ARG2 in the $ARG1	1	
+borrower	interest	$ARG2 accruing on them). When the repo matures, the $ARG1	1	
+interest	cash	$ARG1 accruing on them). When the repo matures, the borrower of $ARG2	1	
+interest	cash	$ARG1 for the use of the $ARG2	1	
+interest	balance	$ARG1 should be accrued under “remaining liabilities” on the $ARG2	1	
+balance	contract	$ARG2 This interest should be accrued under “remaining liabilities” on the $ARG1	1	
+borrower	balance	$ARG1 and under “remaining assets” on the $ARG2	1	
+balance	cash	$ARG2 borrower and under “remaining assets” on the $ARG1	1	
+cash	lender	$ARG1 borrower and under “remaining assets” on the balance sheet of the cash $ARG2	1	
+security	price	$ARG1 but expects its $ARG2	1	
+price	trader	$ARG2 in securities who does not own a particular security but expects its $ARG1	1	
+security	seller	$ARG2 must deliver the $ARG1	1	
+seller	buyer	$ARG1 must deliver the security to the $ARG2	1	
+balance	security	$ARG2 probably through a reverse repo. Since the security will remain on the $ARG1	1	
+balance	owner	$ARG2 and appear on the $ARG1	1	
+owner	seller	$ARG1 and appear on the balance sheet of the new owner, the short $ARG2	1	
+record	holding	$ARG1 a negative $ARG2	1	
+regulation	capital	$ARG2 and reserves (12) (see $ARG1	1	
+notice	maturity	$ARG2 or period of $ARG1	1	
+balance	trustee	$ARG1 sheet of the MFI acting as a $ARG2	1	
+account	funds	$ARG1 and the $ARG2	1	
+value	creditor	$ARG2 (7.46). The $ARG1	1	
+interest	mean	$ARG2 that the accrual of $ARG1	1	
+holding	debtor	$ARG1 of deposits (and the $ARG2	1	
+asset	interest	$ARG2 to the relevant $ARG1	1	
+exchange rate	balance	$ARG1 on the $ARG2	1	
+interest	account	$ARG1 not yet credited to the $ARG2	1	
+trustee	funds	$ARG2 as a $ARG1	1	
+report	balance	$ARG1 them as a deposit on its own $ARG2	1	
+beneficiary	information	$ARG2 about the $ARG1	1	
+currency	cash	$ARG2 (usually foreign $ARG1	1	
+future	price	$ARG2 and on a specific $ARG1	1	
+price	date	$ARG1 and on a specific future $ARG2	1	
+asset	liability	$ARG1 with a matching $ARG2	1	
+cash	exchange	$ARG1 is received in $ARG2	1	
+collateral	cash	$ARG1 In these cases, no $ARG2	1	
+swap	balance	$ARG1 or loan is not recorded on the $ARG2	1	
+position	seller	$ARG2 as a negative $ARG1	1	
+up	maturity	$ARG2 are (1) $ARG1	1	
+year	up	$ARG1 (2) over one year and $ARG2	1	
+maturity	issued	$ARG2 within this $ARG1	1	
+redemption	capital	$ARG2 uncertainty at $ARG1	1	
+form	income	$ARG2 in the $ARG1	1	
+debt	security	$ARG1 issued by MFIs in $ARG2	1	
+security	issued	$ARG2 by MFIs in $ARG1	1	
+debt	form	$ARG2 is classified as $ARG1	1	
+form	issued	$ARG1 is classified as debt securities $ARG2	1	
+debt	security	$ARG1 is in $ARG2	1	
+reference	price	$ARG1 asset, asset $ARG2	1	
+record	holding	$ARG1 a negative $ARG2	1	
+balance	market	$ARG2 prices on the $ARG1	1	
+market	date	$ARG1 prices on the balance sheet $ARG2	1	
+price	redemption	$ARG1 and the $ARG2	1	
+interest	instrument	$ARG1 promptly reinvested it in the $ARG2	1	
+interest	preference	$ARG2 for imputing accrued $ARG1	1	
+debt	mean	$ARG1 securities would $ARG2	1	
+asset	allocation	$ARG2 to specific $ARG1	1	
+interest	value	$ARG2 of accrued $ARG1	1	
+currency	debt	$ARG2 securities denominated in foreign $ARG1	1	
+interest	issued	$ARG1 while short-term securities $ARG2	1	
+balance	issued	$ARG2 in MFI $ARG1	1	
+down	regulation	$ARG2 shall be those laid $ARG1	1	
+regulation	rule	$ARG1 ECB/2008/32 contains no $ARG2	1	
+debt	market	$ARG2 prices, and $ARG1	1	
+market	price	$ARG1 and acquisition $ARG2	1	
+value	preference	$ARG1 The ECB’s $ARG2	1	
+balance	present	$ARG1 sheet reporting MFIs should $ARG2	1	
+asset	market	$ARG1 and liability positions at current $ARG2	1	
+market	liability	$ARG2 positions at current $ARG1	1	
+debt	value	$ARG1 securities issued at nominal $ARG2	1	
+value	issued	$ARG2 at nominal $ARG1	1	
+total	revaluation	$ARG1 amount of $ARG2	1	
+bank	issued	$ARG2 by a $ARG1	1	
+security	exchange	$ARG1 on his local stock $ARG2	1	
+purpose	balance	$ARG1 of MFI $ARG2	1	
+asset	holding	$ARG1 as a $ARG2	1	
+security	claim	$ARG1 and not as a $ARG2	1	
+claim	issuer	$ARG1 on the $ARG2	1	
+balance	issued	$ARG2 from its $ARG1	1	
+year	maturity	$ARG2 categories over one $ARG1	1	
+year	maturity	$ARG2 of a $ARG1	1	
+interest rate	year	$ARG1 may be reset within a $ARG2	1	
+information	real estate	$ARG1 on loans collateralised by $ARG2	1	
+debt	credit card	$ARG2 credit. Credit card $ARG1	1	
+interest	date	$ARG2 on which $ARG1	1	
+owner	good	$ARG1 of a durable $ARG2	1	
+credit institution	obligor	$ARG1 considers that the $ARG2	1	
+credit institution	undertaking	$ARG1 the parent $ARG2	1	
+claim	issuer	$ARG1 on the $ARG2	1	
+interest	preference	$ARG2 for imputing accrued $ARG1	1	
+balance	valuation	$ARG2 of loans on the $ARG1	1	
+interest	account	$ARG1 in the financial $ARG2	1	
+exchange rate	balance	$ARG1 on the $ARG2	1	
+principal	debtor	$ARG1 that a $ARG2	1	
+balance	instrument	$ARG2 category “loans”, MFI $ARG1	1	
+interest	instrument	$ARG1 to be recorded in the $ARG2	1	
+balance	collateral	$ARG2 in the MFI $ARG1	1	
+real estate	regulation	$ARG1 collateral, the $ARG2	1	
+collateral	value	$ARG2 of the real estate $ARG1	1	
+value	real estate	$ARG1 of the $ARG2	1	
+collateral	value	$ARG2 of the $ARG1	1	
+ratio	information	$ARG1 based on the most recent $ARG2	1	
+reference	collateral	$ARG1 to its $ARG2	1	
+real estate	regulation	$ARG1 collateral, the $ARG2	1	
+maturity	debtor	$ARG2 to this effect, the new agreed $ARG1	1	
+amount of money	future	$ARG1 at a $ARG2	1	
+future	payee	$ARG1 date to the $ARG2	1	
+payee	date	$ARG2 to the $ARG1	1	
+future	payee	$ARG2 (and all $ARG1	1	
+claim	trade	$ARG1 on previous holders. $ARG2	1	
+restriction	ratio	$ARG1 in loan/collateral $ARG2	1	
+claim	bill of exchange	$ARG2 as a $ARG1	1	
+bank	exchange	$ARG2 as is the case with $ARG1	1	
+beneficiary	instrument	$ARG1 of the $ARG2	1	
+value	price	$ARG2 which is lower than the face $ARG1	1	
+length	debt	$ARG1 of the trade $ARG2	1	
+interest	client	$ARG1 charges to the factoring $ARG2	1	
+client	trade	$ARG1 who receives the full amount of the $ARG2	1	
+asset	equity	$ARG1 category shares and other $ARG2	1	
+market price	rule	$ARG1 (7.53). The general $ARG2	1	
+market	equity	$ARG2 though by definition no $ARG1	1	
+business	branch	$ARG1 and its $ARG2	1	
+balance	equity	$ARG2 in MFI $ARG1	1	
+service	risk	$ARG1 provided and $ARG2	1	
+issued	funds	$ARG1 by other mutual (or investment) $ARG2	1	
+market	issued	$ARG1 valuation to shares/units $ARG2	1	
+issued	valuation	$ARG2 to shares/units $ARG1	1	
+issued	valuation	$ARG2 purposes, shares/units $ARG1	1	
+interest	payment	$ARG2 (as opposed to the accrual) of $ARG1	1	
+interest	regulation	$ARG1 With the introduction of $ARG2	1	
+credit risk	exposure	$ARG2 to market and $ARG1	1	
+entitlement	share	$ARG1 to a $ARG2	1	
+capital	share	$ARG1 raised. It therefore includes the $ARG2	1	
+balance	date	$ARG2 to which the $ARG1	1	
+claim	contract	$ARG2 values the $ARG1	1	
+asset	value	$ARG2 may switch from positive (an $ARG1	1	
+currency	interest rate	$ARG2 swaps and $ARG1	1	
+interest rate	future	$ARG1 swaps are derivative contracts that commit two parties to a $ARG2	1	
+currency	interest	$ARG2 rates in the same $ARG1	1	
+interest	payment	$ARG2 streams related to fixed or floating $ARG1	1	
+currency	interest rate	$ARG1 swaps (sometimes called cross-currency $ARG2	1	
+interest rate	time	$ARG2 Currency swaps (sometimes called cross-currency $ARG1	1	
+interest	payment	$ARG2 streams relate to fixed or floating $ARG1	1	
+swap	contract	$ARG1 The swap $ARG2	1	
+contract	exchange	$ARG1 may (but typically does not) involve an $ARG2	1	
+interest rate	balance	$ARG2 sheets should include at market value those $ARG1	1	
+balance	market	$ARG1 sheets should include at $ARG2	1	
+market price	present	$ARG1 which reflects the net $ARG2	1	
+value	cash	$ARG2 flows. Such net present $ARG1	1	
+cash	present	$ARG1 flows. Such net $ARG2	1	
+principal	future	$ARG2 exchange of payment streams or $ARG1	1	
+payment	commitment	$ARG2 to a future exchange of $ARG1	1	
+balance	value	$ARG1 sheet statistics, calculate the net $ARG2	1	
+balance	present	$ARG2 suspense items on the $ARG1	1	
+future	exchange	$ARG1 settlement of foreign $ARG2	1	
+exchange	settlement	$ARG2 of foreign $ARG1	1	
+balance	contract	$ARG1 sheet on the $ARG2	1	
+right	payment	$ARG1 to receive a $ARG2	1	
+liability	fund	$ARG2 (meaning its $ARG1	1	
+liability	funds	$ARG2 are recorded as a $ARG1	1	
+asset	issued	$ARG1 counterpart to coins $ARG2	1	
+allocation	liability	$ARG2 counterpart to the $ARG1	1	
+currency	cash	$ARG2 (1) or $ARG1	1	
+report	issued	$ARG2 by the IMF. MFIs also $ARG1	1	
+balance	creditor	$ARG1 sheet of both $ARG2	1	
+rule	valuation	$ARG1 of market $ARG2	1	
+liquidity	debtor	$ARG1 ready availability for use, and credit standing of the $ARG2	1	
+asset	position	$ARG2 called reserve $ARG1	1	
+asset	country	$ARG1 position a member $ARG2	1	
+country	position	$ARG2 a member $ARG1	1	
+position	fund	$ARG1 a member country holds vis-à-vis the $ARG2	1	
+currency	country	$ARG1 holdings (including SDRs) that a member $ARG2	1	
+debt	agreement	$ARG1 of the IMF (under a loan $ARG2	1	
+agreement	notice	$ARG2 (b) any debt of the IMF (under a loan $ARG1	1	
+notice	account	$ARG1 (b) any debt of the IMF (under a loan agreement) in the General Resource $ARG2	1	
+facility	position	$ARG1 (formerly ESAF). (a) and (b) correspond to the reserve $ARG2	1	
+balance	position	$ARG1 of payments and international investment $ARG2	1	
+balance	market price	$ARG2 on the $ARG1	1	
+market price	date	$ARG1 on the balance sheet $ARG2	1	
+balance	rate	$ARG2 published by the IMF on the $ARG1	1	
+central bank	financial asset	$ARG1 is normally classified as monetary gold, and is a $ARG2	1	
+asset	commodity	$ARG2 and thus as a non-financial $ARG1	1	
+report	regulation	$ARG2 ECB/2008/32 requires MFIs to $ARG1	1	
+report	equity	$ARG1 holdings of shares and other $ARG2	1	
+information	valuation	$ARG2 much of the $ARG1	1	
+interest	balance	$ARG1 introduces inconsistency into $ARG2	1	
+fund	corporation	$ARG1 and financial vehicle $ARG2	1	
+balance	regulation	$ARG1 sheet reporting under $ARG2	1	
+information	collection	$ARG2 of the statistical $ARG1	1	
+regulation	funds	$ARG2 statistics based on $ARG1	1	
+revaluation	account	$ARG2 These should be included by the NCB in the $ARG1	1	
+balance	value	$ARG2 on the $ARG1	1	
+interest	information	$ARG1 The only $ARG2	1	
+information	issued	$ARG2 The NCB runs this $ARG1	1	
+balance	security	$ARG2 relevant to MFI $ARG1	1	
+borrower	claim	$ARG2 on the $ARG1	1	
+creditor	credit risk	$ARG1 but the $ARG2	1	
+collateral	pool	$ARG2 of assets. This $ARG1	1	
+portfolio	exposure	$ARG2 to the reference $ARG1	1	
+asset	impact	$ARG1 disposal of any kind). The $ARG2	1	
+cash	undertaking	$ARG2 the securitisation receives $ARG1	1	
+pool	subsidiary	$ARG1 of loans to a $ARG2	1	
+balance	impact	$ARG2 on the MFI’s $ARG1	1	
+report	regulation	$ARG2 ECB/2008/32, MFIs must $ARG1	1	
+share	corporation	$ARG1 in a syndicated loan to (domestic) non-financial $ARG2	1	
+total	balance	$ARG1 amount of 20). A foreign MFI buys the share from the domestic MFI. The initial $ARG2	1	
+balance	share	$ARG2 from the domestic MFI. The initial $ARG1	1	
+cash	share	$ARG2 in the loan for 20 in $ARG1	1	
+balance	impact	$ARG2 on the $ARG1	1	
+credit institution	issued	$ARG2 by a $ARG1	1	
+balance	issuer	$ARG1 sheet of the $ARG2	1	
+claim	pool	$ARG1 on the cover $ARG2	1	
+objective	credit risk	$ARG2 – which is a common $ARG1	1	
+risk	customer	$ARG1 of default by the $ARG2	1	
+client	customer	$ARG1 liable if a $ARG2	1	
+balance	client	$ARG2 of 800, matched on the $ARG1	1	
+client	fund	$ARG1 would arise for the amount in excess of the reserve $ARG2	1	
+value	payment	$ARG2 of 80% of face $ARG1	1	
+collateral	fund	$ARG2 held as $ARG1	1	
+client	cash	$ARG2 advanced to $ARG1	1	
+risk	customer	$ARG1 of default by the $ARG2	1	
+interest	trade	$ARG2 credit. Fees and $ARG1	1	
+trade	customer	$ARG2 for an amount equal to the $ARG1	1	
+balance	value	$ARG2 loans recorded on its $ARG1	1	
+senior	cash	$ARG2 and 50 in the $ARG1	1	
+cash	issued	$ARG1 and 50 in the senior tranches of the securities $ARG2	1	
+junior	portfolio	$ARG2 are (for example) 15 and the FVC’s $ARG1	1	
+junior	portfolio	$ARG2 are deemed to have been transferred through the $ARG1	1	
+reference	balance	$ARG2 sheet in the $ARG1	1	
+balance	month	$ARG1 sheet in the reference $ARG2	1	
+service	report	$ARG1 the loans, it will $ARG2	1	
+interest	client	$ARG2 less fees and $ARG1	1	
+client	fund	$ARG2 paid to $ARG1	1	
+interest	cash	$ARG2 proceeds retained by the factoring company (fees and $ARG1	1	
+balance	portfolio	$ARG2 cannot be derecognised from the MFI $ARG1	1	
+time	cash	$ARG2 and 50 in securities issued by the FVC, but this $ARG1	1	
+cash	issued	$ARG1 and 50 in securities $ARG2	1	
+service	report	$ARG1 the loans, it will $ARG2	1	
+regulation	up	$ARG1 NCBs gross $ARG2	1	
+total	balance	$ARG1 aggregated MFI $ARG2	1	
+report	year	$ARG1 their total assets only once a $ARG2	1	
+year	total assets	$ARG2 only once a $ARG1	1	
+report	value	$ARG1 “0” (and not a missing $ARG2	1	
+report	value	$ARG1 an observation status $ARG2	1	
+minor	up	$ARG2 or to $ARG1	1	
+information	present	$ARG2 the most up-to-date $ARG1	1	
+balance	drawing	$ARG2 rights”). The two aggregated $ARG1	1	
+asset	commodity	$ARG2 and thus as a non-financial $ARG1	1	
+debt	issued	$ARG2 by MMFs and $ARG1	1	
+security	government	$ARG1 funds. Central $ARG2	1	
+debt	up	$ARG1 securities issued by MFIs with a maturity of $ARG2	1	
+maturity	issued	$ARG2 by MFIs with a $ARG1	1	
+maturity	issued	$ARG2 by MFIs with an original $ARG1	1	
+maturity	issued	$ARG1 of up to two years $ARG2	1	
+business	issued	$ARG1 the asset counterpart to coins $ARG2	1	
+balance	position	$ARG2 also includes a notional entry to $ARG1	1	
+future	account	$ARG2 to meet $ARG1	1	
+liability	requirement	$ARG2 that SDRs are assets without a $ARG1	1	
+balance	information	$ARG1 sheets, including $ARG2	1	

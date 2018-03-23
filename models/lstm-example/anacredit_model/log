@@ -1,0 +1,438 @@
+accuracyTest : 	
+aggregationType : 	
+batchSize : 128	
+beta1 : 0.9	
+beta2 : 0.999	
+bi : 	
+clipGrads : 0	
+colClamp : false	
+colDim : 50	
+colEncoder : lstm	
+colNorm : 0	
+colsOnly : false	
+compositional : false	
+convWidth : 3	
+criterion : bpr	
+distanceType : dot	
+dropout : 0	
+epsilon : 1e-08	
+evalArgs : 	
+evalCutoff : 0	
+evalLog : 	
+evaluateFrequency : 3	
+fb15kDir : 	
+filterSingleRelations : false	
+freezeCol : 0	
+freezeRow : 0	
+gpuid : -1	
+hiddenDropout : 0	
+initializeRange : 0.1	
+k : 3	
+l2Reg : 0	
+layerDropout : 0	
+layers : 1	
+learningRate : 0.0001	
+loadColEmbeddings : 	
+loadColEncoder : 	
+loadModel : 	
+loadRowEmbeddings : 	
+loadRowEncoder : 	
+lookupWrapper : false	
+lrDecay : 0	
+margin : 1	
+maxDecreaseEpochs : 5	
+maxKbIndex : 237	
+maxSeq : 20	
+mean : false	
+modelType : entity-pair	
+momentum : 0	
+negSamples : 1	
+noCloneSave : false	
+noWordUpdate : false	
+nonLinearLayer : 	
+numEpochs : 50	
+optimMethod : adam	
+p : 2	
+padIdx : 2	
+patternDropout : 0	
+poolLayer : last	
+relationPool : 	
+resultDir : /home/stoyan/uschema//models/lstm-example/2018-03-23_09:42/	
+rnnCell : false	
+rowClamp : false	
+rowDim : 50	
+rowEncoder : lookup-table	
+rowNorm : 0	
+saveModel : true	
+sharedVocab : false	
+shuffle : true	
+tacYear : 	
+test : /home/stoyan/uschema//data/anacredit_test/	
+textWeight : 1	
+tieColViews : false	
+tieEncoders : false	
+tokenDim : 100	
+train : /home/stoyan/uschema//data//train.torch	
+typeSampleFile : 	
+vocab : 	
+wordDropout : 0	
+Using CPU	
+nn.Sequential {
+  [input -> (1) -> (2) -> output]
+  (1): nn.ParallelTable {
+    input
+      |`-> (1): nn.Sequential {
+      |      [input -> (1) -> output]
+      |      (1): nn.LookupTableMaskPad
+      |    }
+      |`-> (2): nn.Sequential {
+      |      [input -> (1) -> (2) -> (3) -> (4) -> output]
+      |      (1): nn.LookupTableMaskPad
+      |      (2): nn.SplitTable
+      |      (3): nn.Sequential {
+      |        [input -> (1) -> output]
+      |        (1): nn.Sequencer @ nn.FastLSTMNoBias(100 -> 50)
+      |      }
+      |      (4): nn.SelectTable(-1)
+      |    }
+       `-> (3): nn.Sequential {
+             [input -> (1) -> output]
+             (1): nn.LookupTableMaskPad
+           }
+       ... -> output
+  }
+  (2): nn.ConcatTable {
+    input
+      |`-> (1): nn.Sequential {
+      |      [input -> (1) -> (2) -> (3) -> output]
+      |      (1): nn.NarrowTable
+      |      (2): nn.CMulTable
+      |      (3): nn.Sum
+      |    }
+       `-> (2): nn.Sequential {
+             [input -> (1) -> (2) -> (3) -> output]
+             (1): nn.NarrowTable
+             (2): nn.CMulTable
+             (3): nn.Sum
+           }
+       ... -> output
+  }
+}
+
+Generating batches ... Starting epoch 1 of 50
+15.15 percent complete	speed = 2680.31 examples/sec	error = 0.692930.30 percent complete	speed = 3209.86 examples/sec	error = 0.692945.45 percent complete	speed = 3550.55 examples/sec	error = 0.692960.61 percent complete	speed = 3754.77 examples/sec	error = 0.692975.76 percent complete	speed = 3807.79 examples/sec	error = 0.692990.91 percent complete	speed = 3729.92 examples/sec	error = 0.6929
+Epoch error = 114.329748
+	
+
+Generating batches ... Starting epoch 2 of 50
+15.15 percent complete	speed = 3179.24 examples/sec	error = 0.692830.30 percent complete	speed = 3663.00 examples/sec	error = 0.692845.45 percent complete	speed = 3858.15 examples/sec	error = 0.692860.61 percent complete	speed = 3338.79 examples/sec	error = 0.692875.76 percent complete	speed = 3463.06 examples/sec	error = 0.692890.91 percent complete	speed = 3641.23 examples/sec	error = 0.6927
+Epoch error = 114.301483
+	
+
+Generating batches ... Starting epoch 3 of 50
+15.15 percent complete	speed = 3764.78 examples/sec	error = 0.692630.30 percent complete	speed = 3968.10 examples/sec	error = 0.692545.45 percent complete	speed = 4100.11 examples/sec	error = 0.692560.61 percent complete	speed = 4251.55 examples/sec	error = 0.692575.76 percent complete	speed = 4287.85 examples/sec	error = 0.692590.91 percent complete	speed = 4312.81 examples/sec	error = 0.6925
+Epoch error = 114.255354
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 4 of 50
+15.15 percent complete	speed = 3871.61 examples/sec	error = 0.692130.30 percent complete	speed = 4270.90 examples/sec	error = 0.692045.45 percent complete	speed = 4413.36 examples/sec	error = 0.692060.61 percent complete	speed = 4342.25 examples/sec	error = 0.691975.76 percent complete	speed = 4266.20 examples/sec	error = 0.691890.91 percent complete	speed = 4232.56 examples/sec	error = 0.6918
+Epoch error = 114.135069
+	
+
+Generating batches ... Starting epoch 5 of 50
+15.15 percent complete	speed = 3761.90 examples/sec	error = 0.690530.30 percent complete	speed = 4103.63 examples/sec	error = 0.690245.45 percent complete	speed = 4408.26 examples/sec	error = 0.689960.61 percent complete	speed = 4433.61 examples/sec	error = 0.689675.76 percent complete	speed = 4376.97 examples/sec	error = 0.689390.91 percent complete	speed = 4340.67 examples/sec	error = 0.6888
+Epoch error = 113.613702
+	
+
+Generating batches ... Starting epoch 6 of 50
+15.15 percent complete	speed = 3674.27 examples/sec	error = 0.682930.30 percent complete	speed = 3841.94 examples/sec	error = 0.681245.45 percent complete	speed = 3966.61 examples/sec	error = 0.679260.61 percent complete	speed = 4109.60 examples/sec	error = 0.677075.76 percent complete	speed = 4265.44 examples/sec	error = 0.675490.91 percent complete	speed = 4329.56 examples/sec	error = 0.6727
+Epoch error = 110.529463
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 7 of 50
+15.15 percent complete	speed = 3496.63 examples/sec	error = 0.639930.30 percent complete	speed = 3759.77 examples/sec	error = 0.630645.45 percent complete	speed = 3954.85 examples/sec	error = 0.630460.61 percent complete	speed = 4118.93 examples/sec	error = 0.630575.76 percent complete	speed = 4313.63 examples/sec	error = 0.634090.91 percent complete	speed = 4364.58 examples/sec	error = 0.6306
+Epoch error = 103.743249
+	
+
+Generating batches ... Starting epoch 8 of 50
+15.15 percent complete	speed = 3894.47 examples/sec	error = 0.612230.30 percent complete	speed = 3893.47 examples/sec	error = 0.601245.45 percent complete	speed = 4005.24 examples/sec	error = 0.599960.61 percent complete	speed = 4058.53 examples/sec	error = 0.601675.76 percent complete	speed = 4140.01 examples/sec	error = 0.601990.91 percent complete	speed = 4131.15 examples/sec	error = 0.6021
+Epoch error = 99.534890
+	
+
+Generating batches ... Starting epoch 9 of 50
+15.15 percent complete	speed = 3519.10 examples/sec	error = 0.581730.30 percent complete	speed = 3765.57 examples/sec	error = 0.581045.45 percent complete	speed = 3943.72 examples/sec	error = 0.580160.61 percent complete	speed = 4056.42 examples/sec	error = 0.580375.76 percent complete	speed = 4183.90 examples/sec	error = 0.583490.91 percent complete	speed = 4112.02 examples/sec	error = 0.5805
+Epoch error = 95.638230
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 10 of 50
+15.15 percent complete	speed = 3866.20 examples/sec	error = 0.570130.30 percent complete	speed = 4097.86 examples/sec	error = 0.569345.45 percent complete	speed = 4360.08 examples/sec	error = 0.573760.61 percent complete	speed = 4288.67 examples/sec	error = 0.564975.76 percent complete	speed = 4371.74 examples/sec	error = 0.567390.91 percent complete	speed = 4233.34 examples/sec	error = 0.5634
+Epoch error = 92.854138
+	
+
+Generating batches ... Starting epoch 11 of 50
+15.15 percent complete	speed = 3745.12 examples/sec	error = 0.530830.30 percent complete	speed = 4228.93 examples/sec	error = 0.548545.45 percent complete	speed = 4322.85 examples/sec	error = 0.553860.61 percent complete	speed = 4213.19 examples/sec	error = 0.552675.76 percent complete	speed = 4267.02 examples/sec	error = 0.558190.91 percent complete	speed = 4296.30 examples/sec	error = 0.5546
+Epoch error = 91.070906
+	
+
+Generating batches ... Starting epoch 12 of 50
+15.15 percent complete	speed = 4181.21 examples/sec	error = 0.548430.30 percent complete	speed = 4014.81 examples/sec	error = 0.530745.45 percent complete	speed = 4259.08 examples/sec	error = 0.541160.61 percent complete	speed = 4415.20 examples/sec	error = 0.541475.76 percent complete	speed = 4456.88 examples/sec	error = 0.542790.91 percent complete	speed = 4435.83 examples/sec	error = 0.5372
+Epoch error = 88.674910
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 13 of 50
+15.15 percent complete	speed = 3167.66 examples/sec	error = 0.525330.30 percent complete	speed = 3678.47 examples/sec	error = 0.525345.45 percent complete	speed = 3961.66 examples/sec	error = 0.532060.61 percent complete	speed = 3498.25 examples/sec	error = 0.530575.76 percent complete	speed = 3583.15 examples/sec	error = 0.537990.91 percent complete	speed = 3639.45 examples/sec	error = 0.5317
+Epoch error = 87.911312
+	
+
+Generating batches ... Starting epoch 14 of 50
+15.15 percent complete	speed = 3659.85 examples/sec	error = 0.509730.30 percent complete	speed = 3932.66 examples/sec	error = 0.509145.45 percent complete	speed = 4089.24 examples/sec	error = 0.521260.61 percent complete	speed = 4225.07 examples/sec	error = 0.522475.76 percent complete	speed = 4019.70 examples/sec	error = 0.528190.91 percent complete	speed = 3537.17 examples/sec	error = 0.5237
+Epoch error = 86.308041
+	
+
+Generating batches ... Starting epoch 15 of 50
+15.15 percent complete	speed = 1924.99 examples/sec	error = 0.501830.30 percent complete	speed = 2017.20 examples/sec	error = 0.505245.45 percent complete	speed = 2067.69 examples/sec	error = 0.504760.61 percent complete	speed = 2169.10 examples/sec	error = 0.515475.76 percent complete	speed = 2212.86 examples/sec	error = 0.517390.91 percent complete	speed = 2178.02 examples/sec	error = 0.5182
+Epoch error = 85.510397
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 16 of 50
+15.15 percent complete	speed = 1694.57 examples/sec	error = 0.529130.30 percent complete	speed = 1401.29 examples/sec	error = 0.517445.45 percent complete	speed = 1256.84 examples/sec	error = 0.505460.61 percent complete	speed = 1232.70 examples/sec	error = 0.507075.76 percent complete	speed = 1262.14 examples/sec	error = 0.507490.91 percent complete	speed = 1268.88 examples/sec	error = 0.5003
+Epoch error = 83.363194
+	
+
+Generating batches ... Starting epoch 17 of 50
+15.15 percent complete	speed = 3270.39 examples/sec	error = 0.510630.30 percent complete	speed = 3457.00 examples/sec	error = 0.491545.45 percent complete	speed = 3655.70 examples/sec	error = 0.496560.61 percent complete	speed = 3763.50 examples/sec	error = 0.497275.76 percent complete	speed = 3910.78 examples/sec	error = 0.502590.91 percent complete	speed = 4017.86 examples/sec	error = 0.5010
+Epoch error = 82.801243
+	
+
+Generating batches ... Starting epoch 18 of 50
+15.15 percent complete	speed = 4116.96 examples/sec	error = 0.512830.30 percent complete	speed = 3948.20 examples/sec	error = 0.477645.45 percent complete	speed = 4252.96 examples/sec	error = 0.487760.61 percent complete	speed = 4244.95 examples/sec	error = 0.490475.76 percent complete	speed = 4323.07 examples/sec	error = 0.493990.91 percent complete	speed = 4338.37 examples/sec	error = 0.4927
+Epoch error = 81.473861
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 19 of 50
+15.15 percent complete	speed = 3790.25 examples/sec	error = 0.506830.30 percent complete	speed = 4319.66 examples/sec	error = 0.499145.45 percent complete	speed = 4239.40 examples/sec	error = 0.496560.61 percent complete	speed = 4276.69 examples/sec	error = 0.486475.76 percent complete	speed = 4319.96 examples/sec	error = 0.489390.91 percent complete	speed = 4345.84 examples/sec	error = 0.4894
+Epoch error = 80.531258
+	
+
+Generating batches ... Starting epoch 20 of 50
+15.15 percent complete	speed = 4275.68 examples/sec	error = 0.489930.30 percent complete	speed = 4301.08 examples/sec	error = 0.484945.45 percent complete	speed = 4215.51 examples/sec	error = 0.479160.61 percent complete	speed = 4235.25 examples/sec	error = 0.479675.76 percent complete	speed = 4169.75 examples/sec	error = 0.478390.91 percent complete	speed = 4284.55 examples/sec	error = 0.4854
+Epoch error = 79.705584
+	
+
+Generating batches ... Starting epoch 21 of 50
+15.15 percent complete	speed = 3598.32 examples/sec	error = 0.460930.30 percent complete	speed = 3897.51 examples/sec	error = 0.476645.45 percent complete	speed = 4152.12 examples/sec	error = 0.472060.61 percent complete	speed = 4371.06 examples/sec	error = 0.475375.76 percent complete	speed = 4335.51 examples/sec	error = 0.474190.91 percent complete	speed = 4462.23 examples/sec	error = 0.4812
+Epoch error = 78.490697
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 22 of 50
+15.15 percent complete	speed = 3655.43 examples/sec	error = 0.477130.30 percent complete	speed = 4075.82 examples/sec	error = 0.476245.45 percent complete	speed = 4386.41 examples/sec	error = 0.479360.61 percent complete	speed = 4317.61 examples/sec	error = 0.476775.76 percent complete	speed = 4362.05 examples/sec	error = 0.472190.91 percent complete	speed = 4270.17 examples/sec	error = 0.4688
+Epoch error = 76.931107
+	
+
+Generating batches ... Starting epoch 23 of 50
+15.15 percent complete	speed = 3800.66 examples/sec	error = 0.461030.30 percent complete	speed = 4013.21 examples/sec	error = 0.458845.45 percent complete	speed = 4130.33 examples/sec	error = 0.462460.61 percent complete	speed = 4209.40 examples/sec	error = 0.464575.76 percent complete	speed = 4194.38 examples/sec	error = 0.465690.91 percent complete	speed = 4293.16 examples/sec	error = 0.4682
+Epoch error = 76.944953
+	
+
+Generating batches ... Starting epoch 24 of 50
+15.15 percent complete	speed = 3921.66 examples/sec	error = 0.459130.30 percent complete	speed = 4138.72 examples/sec	error = 0.457145.45 percent complete	speed = 4257.07 examples/sec	error = 0.455860.61 percent complete	speed = 4318.26 examples/sec	error = 0.451475.76 percent complete	speed = 4400.92 examples/sec	error = 0.449190.91 percent complete	speed = 4359.21 examples/sec	error = 0.4508
+Epoch error = 75.022181
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 25 of 50
+15.15 percent complete	speed = 3493.54 examples/sec	error = 0.454830.30 percent complete	speed = 4119.94 examples/sec	error = 0.457745.45 percent complete	speed = 4096.38 examples/sec	error = 0.448960.61 percent complete	speed = 4167.76 examples/sec	error = 0.451275.76 percent complete	speed = 4268.79 examples/sec	error = 0.454890.91 percent complete	speed = 4183.36 examples/sec	error = 0.4546
+Epoch error = 74.484781
+	
+
+Generating batches ... Starting epoch 26 of 50
+15.15 percent complete	speed = 3331.43 examples/sec	error = 0.408130.30 percent complete	speed = 4033.42 examples/sec	error = 0.430645.45 percent complete	speed = 4393.41 examples/sec	error = 0.440260.61 percent complete	speed = 4453.70 examples/sec	error = 0.441875.76 percent complete	speed = 4568.25 examples/sec	error = 0.446190.91 percent complete	speed = 4360.71 examples/sec	error = 0.4438
+Epoch error = 72.788725
+	
+
+Generating batches ... Starting epoch 27 of 50
+15.15 percent complete	speed = 3377.11 examples/sec	error = 0.437930.30 percent complete	speed = 3907.57 examples/sec	error = 0.448445.45 percent complete	speed = 4058.80 examples/sec	error = 0.433460.61 percent complete	speed = 4036.57 examples/sec	error = 0.434175.76 percent complete	speed = 4140.12 examples/sec	error = 0.437190.91 percent complete	speed = 4220.97 examples/sec	error = 0.4390
+Epoch error = 72.110931
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 28 of 50
+15.15 percent complete	speed = 3311.62 examples/sec	error = 0.440030.30 percent complete	speed = 4074.50 examples/sec	error = 0.448945.45 percent complete	speed = 3977.19 examples/sec	error = 0.433860.61 percent complete	speed = 4113.78 examples/sec	error = 0.441575.76 percent complete	speed = 4073.56 examples/sec	error = 0.433590.91 percent complete	speed = 4145.49 examples/sec	error = 0.4328
+Epoch error = 70.724831
+	
+
+Generating batches ... Starting epoch 29 of 50
+15.15 percent complete	speed = 3803.71 examples/sec	error = 0.418930.30 percent complete	speed = 4195.03 examples/sec	error = 0.424045.45 percent complete	speed = 4136.24 examples/sec	error = 0.414460.61 percent complete	speed = 4239.01 examples/sec	error = 0.417975.76 percent complete	speed = 4247.49 examples/sec	error = 0.416590.91 percent complete	speed = 4360.90 examples/sec	error = 0.4198
+Epoch error = 69.777830
+	
+
+Generating batches ... Starting epoch 30 of 50
+15.15 percent complete	speed = 3534.71 examples/sec	error = 0.412830.30 percent complete	speed = 3760.63 examples/sec	error = 0.413745.45 percent complete	speed = 4002.53 examples/sec	error = 0.412460.61 percent complete	speed = 4195.80 examples/sec	error = 0.417075.76 percent complete	speed = 4241.66 examples/sec	error = 0.414890.91 percent complete	speed = 4185.47 examples/sec	error = 0.4111
+Epoch error = 68.353374
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 31 of 50
+15.15 percent complete	speed = 3697.90 examples/sec	error = 0.418730.30 percent complete	speed = 3946.36 examples/sec	error = 0.419145.45 percent complete	speed = 4257.97 examples/sec	error = 0.421060.61 percent complete	speed = 4404.02 examples/sec	error = 0.416975.76 percent complete	speed = 4393.89 examples/sec	error = 0.414690.91 percent complete	speed = 4481.72 examples/sec	error = 0.4127
+Epoch error = 67.767115
+	
+
+Generating batches ... Starting epoch 32 of 50
+15.15 percent complete	speed = 4122.29 examples/sec	error = 0.421330.30 percent complete	speed = 4052.81 examples/sec	error = 0.398745.45 percent complete	speed = 4107.31 examples/sec	error = 0.401460.61 percent complete	speed = 4218.27 examples/sec	error = 0.407875.76 percent complete	speed = 4256.46 examples/sec	error = 0.411690.91 percent complete	speed = 4219.95 examples/sec	error = 0.4064
+Epoch error = 67.355027
+	
+
+Generating batches ... Starting epoch 33 of 50
+15.15 percent complete	speed = 3902.89 examples/sec	error = 0.401930.30 percent complete	speed = 3999.85 examples/sec	error = 0.400945.45 percent complete	speed = 3962.17 examples/sec	error = 0.400960.61 percent complete	speed = 4086.88 examples/sec	error = 0.399775.76 percent complete	speed = 4219.84 examples/sec	error = 0.401990.91 percent complete	speed = 4242.56 examples/sec	error = 0.4034
+Epoch error = 66.446290
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 34 of 50
+15.15 percent complete	speed = 3990.01 examples/sec	error = 0.414830.30 percent complete	speed = 4175.45 examples/sec	error = 0.401645.45 percent complete	speed = 4261.85 examples/sec	error = 0.402460.61 percent complete	speed = 4199.51 examples/sec	error = 0.400375.76 percent complete	speed = 4303.95 examples/sec	error = 0.398390.91 percent complete	speed = 4372.82 examples/sec	error = 0.3987
+Epoch error = 65.464035
+	
+
+Generating batches ... Starting epoch 35 of 50
+15.15 percent complete	speed = 4174.92 examples/sec	error = 0.391130.30 percent complete	speed = 4298.07 examples/sec	error = 0.395845.45 percent complete	speed = 4081.49 examples/sec	error = 0.388260.61 percent complete	speed = 4210.29 examples/sec	error = 0.393575.76 percent complete	speed = 4173.85 examples/sec	error = 0.393590.91 percent complete	speed = 4179.36 examples/sec	error = 0.3924
+Epoch error = 64.817280
+	
+
+Generating batches ... Starting epoch 36 of 50
+15.15 percent complete	speed = 4254.45 examples/sec	error = 0.400430.30 percent complete	speed = 4282.74 examples/sec	error = 0.385545.45 percent complete	speed = 4431.54 examples/sec	error = 0.393160.61 percent complete	speed = 4522.60 examples/sec	error = 0.392075.76 percent complete	speed = 4598.53 examples/sec	error = 0.393390.91 percent complete	speed = 4483.66 examples/sec	error = 0.3903
+Epoch error = 64.171931
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 37 of 50
+15.15 percent complete	speed = 3892.93 examples/sec	error = 0.403930.30 percent complete	speed = 3981.86 examples/sec	error = 0.385445.45 percent complete	speed = 4269.44 examples/sec	error = 0.395360.61 percent complete	speed = 4424.07 examples/sec	error = 0.399975.76 percent complete	speed = 4247.52 examples/sec	error = 0.393390.91 percent complete	speed = 4120.07 examples/sec	error = 0.3832
+Epoch error = 63.474624
+	
+
+Generating batches ... Starting epoch 38 of 50
+15.15 percent complete	speed = 3830.60 examples/sec	error = 0.369530.30 percent complete	speed = 4265.71 examples/sec	error = 0.385745.45 percent complete	speed = 4158.37 examples/sec	error = 0.385160.61 percent complete	speed = 4320.38 examples/sec	error = 0.385975.76 percent complete	speed = 4341.00 examples/sec	error = 0.381590.91 percent complete	speed = 4352.69 examples/sec	error = 0.3801
+Epoch error = 62.224245
+	
+
+Generating batches ... Starting epoch 39 of 50
+15.15 percent complete	speed = 4021.51 examples/sec	error = 0.369330.30 percent complete	speed = 4261.78 examples/sec	error = 0.366445.45 percent complete	speed = 4501.81 examples/sec	error = 0.379960.61 percent complete	speed = 4260.07 examples/sec	error = 0.371775.76 percent complete	speed = 4435.04 examples/sec	error = 0.378190.91 percent complete	speed = 4279.47 examples/sec	error = 0.3781
+Epoch error = 62.799972
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 40 of 50
+15.15 percent complete	speed = 3650.13 examples/sec	error = 0.365230.30 percent complete	speed = 3772.46 examples/sec	error = 0.374645.45 percent complete	speed = 3845.83 examples/sec	error = 0.379260.61 percent complete	speed = 3939.83 examples/sec	error = 0.378275.76 percent complete	speed = 4123.56 examples/sec	error = 0.380590.91 percent complete	speed = 4116.38 examples/sec	error = 0.3778
+Epoch error = 62.780822
+	
+
+Generating batches ... Starting epoch 41 of 50
+15.15 percent complete	speed = 4158.58 examples/sec	error = 0.373730.30 percent complete	speed = 4318.79 examples/sec	error = 0.371745.45 percent complete	speed = 4664.13 examples/sec	error = 0.374460.61 percent complete	speed = 4554.10 examples/sec	error = 0.371275.76 percent complete	speed = 4531.04 examples/sec	error = 0.370090.91 percent complete	speed = 4586.75 examples/sec	error = 0.3718
+Epoch error = 61.080196
+	
+
+Generating batches ... Starting epoch 42 of 50
+15.15 percent complete	speed = 4156.23 examples/sec	error = 0.369130.30 percent complete	speed = 4480.02 examples/sec	error = 0.372245.45 percent complete	speed = 4346.05 examples/sec	error = 0.373160.61 percent complete	speed = 4254.19 examples/sec	error = 0.368075.76 percent complete	speed = 4398.33 examples/sec	error = 0.371490.91 percent complete	speed = 4306.55 examples/sec	error = 0.3689
+Epoch error = 60.464422
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 43 of 50
+15.15 percent complete	speed = 3634.01 examples/sec	error = 0.365930.30 percent complete	speed = 3944.26 examples/sec	error = 0.357545.45 percent complete	speed = 4184.28 examples/sec	error = 0.359660.61 percent complete	speed = 4154.08 examples/sec	error = 0.364875.76 percent complete	speed = 4168.79 examples/sec	error = 0.365690.91 percent complete	speed = 4212.26 examples/sec	error = 0.3660
+Epoch error = 60.080664
+	
+
+Generating batches ... Starting epoch 44 of 50
+15.15 percent complete	speed = 3706.37 examples/sec	error = 0.356630.30 percent complete	speed = 4367.72 examples/sec	error = 0.371945.45 percent complete	speed = 4339.14 examples/sec	error = 0.367260.61 percent complete	speed = 4315.19 examples/sec	error = 0.365675.76 percent complete	speed = 4268.97 examples/sec	error = 0.366790.91 percent complete	speed = 4204.57 examples/sec	error = 0.3663
+Epoch error = 60.849080
+	
+
+Generating batches ... Starting epoch 45 of 50
+15.15 percent complete	speed = 3463.81 examples/sec	error = 0.367430.30 percent complete	speed = 3749.36 examples/sec	error = 0.363645.45 percent complete	speed = 3684.36 examples/sec	error = 0.355360.61 percent complete	speed = 3759.00 examples/sec	error = 0.359675.76 percent complete	speed = 3732.54 examples/sec	error = 0.361790.91 percent complete	speed = 3785.57 examples/sec	error = 0.3624
+Epoch error = 59.386305
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 46 of 50
+15.15 percent complete	speed = 2981.31 examples/sec	error = 0.355730.30 percent complete	speed = 3408.17 examples/sec	error = 0.361145.45 percent complete	speed = 3414.11 examples/sec	error = 0.351660.61 percent complete	speed = 3442.36 examples/sec	error = 0.357675.76 percent complete	speed = 3586.73 examples/sec	error = 0.363590.91 percent complete	speed = 3661.47 examples/sec	error = 0.3658
+Epoch error = 60.444055
+	
+
+Generating batches ... Starting epoch 47 of 50
+15.15 percent complete	speed = 3034.08 examples/sec	error = 0.334130.30 percent complete	speed = 3464.41 examples/sec	error = 0.348645.45 percent complete	speed = 3675.28 examples/sec	error = 0.356160.61 percent complete	speed = 3553.35 examples/sec	error = 0.352075.76 percent complete	speed = 3605.73 examples/sec	error = 0.353390.91 percent complete	speed = 3643.40 examples/sec	error = 0.3546
+Epoch error = 58.901870
+	
+
+Generating batches ... Starting epoch 48 of 50
+15.15 percent complete	speed = 3091.81 examples/sec	error = 0.356530.30 percent complete	speed = 3227.54 examples/sec	error = 0.349045.45 percent complete	speed = 3323.25 examples/sec	error = 0.348660.61 percent complete	speed = 3521.53 examples/sec	error = 0.358175.76 percent complete	speed = 3455.94 examples/sec	error = 0.358190.91 percent complete	speed = 3386.76 examples/sec	error = 0.3598
+Epoch error = 59.460101
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	
+
+Generating batches ... Starting epoch 49 of 50
+15.15 percent complete	speed = 3328.76 examples/sec	error = 0.362130.30 percent complete	speed = 3483.21 examples/sec	error = 0.353445.45 percent complete	speed = 3212.60 examples/sec	error = 0.346960.61 percent complete	speed = 3297.54 examples/sec	error = 0.347575.76 percent complete	speed = 3464.26 examples/sec	error = 0.352890.91 percent complete	speed = 3519.02 examples/sec	error = 0.3545
+Epoch error = 58.665089
+	
+
+Generating batches ... Starting epoch 50 of 50
+15.15 percent complete	speed = 3120.89 examples/sec	error = 0.352630.30 percent complete	speed = 3404.13 examples/sec	error = 0.356745.45 percent complete	speed = 3693.05 examples/sec	error = 0.366860.61 percent complete	speed = 3635.27 examples/sec	error = 0.362475.76 percent complete	speed = 3558.83 examples/sec	error = 0.363690.91 percent complete	speed = 3507.56 examples/sec	error = 0.3599
+Epoch error = 58.756939
+	
+Calculating MAP	
+current map : 100.000 	 last ap : 100.000	test.torch
+MAP : 100.000
+	

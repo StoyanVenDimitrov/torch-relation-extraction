@@ -1,0 +1,7 @@
+currency	rel:hasCurrency	country	doc	29	30	12	13	0.0113497842
+currency	rel:hasStatus	country	doc	29	30	12	13	1
+currency	rel:payer	country	doc	29	30	12	13	1
+currency	rel:isOwedTo	country	doc	29	30	12	13	0.0001240382
+currency	rel:hasInvestor	country	doc	29	30	12	13	0
+currency	rel:isBasedOn	country	doc	29	30	12	13	0.025119424
+country	rel:has	currency	doc	12	13	29	30	0.0225324613
