@@ -1,0 +1,32 @@
+Riedel fails on unseen patterns and unseen entities, where predictions are made for KB relations and text patterns. Toutanova ovecomes the unseen relations with a NN encoder, but uses it only to train better entity and KB relation vectors at training time. Reasoning is then performed with the learned fix embeddings of KB rel and entities. But only known entity pairs. 
+Verga first try to overcome this by classifing a text pattern between unseen pair as a KB relation (see the Multilingual.... paper). A text relation is encoded and then compared with KB relation. The model is trained to predict compability of pairs and relations, but used to predict compability of relations and relations. More than that, it can take only a single textual relations in consideration. 
+Thus, Row-less uschema build an aggregation of the relations and are then used to a query - be compared with KB relation. The strenght is in the Attention way of buildung this aggregation. It is query-specific and not simply a centriod of all observed text relations. At the end, this is a relation-only Uschema.
+Instead of checking cos similarity of relations, we return to predicting compability of relation and ent pair.
+
+
+
+
+
+to score relations given sentences:
+
+ScoreCandidateFile.lua loads a model. The scorers, e.g. CosineSentenceScorer, score that data as in AbstractSentenceScorer that they inherite, with actual score functions score_tac_relation implemented in ScoringFunctions.lua, creating in ScoreCandidateFile a Scorer object and executing run() from AbstractSentenceScorer to produce the actual scores for a senttence expressing the given entity.
+AbstractSentenceScorer takes files of candidates and process each line. process_line turns every element of the line to tensor. Then score_data. pattern_tensor is the text from the sentence and tac_tensor is the relation from the candidate. 
+
+
+
+
+
+
+Issue is the lack of enough text data, due especially the vocabulary with FIBO enities only. 
+
+Dataset:
+
+	Relations	Entities	Triples in Train / Validation / Test
+FB15k-237:
+KB 	237 		14,541 		272,115/ 17,535 / 20, 466
+Text 	2,740k 		13,937 		3,978k / 0 / 0
+
+FIBO + Anacredit:
+KB	1718		4161		17,278/
+Text	2,285		275(allFIBO)	2,670/
+	
