@@ -24,7 +24,9 @@ function UniversalSchemaEncoder:__init(params, row_table, row_encoder, col_table
         momentum = self.params.momentum, learningRateDecay = self.params.decay
     }
     self.opt_state = {}
-    self.train_data = self:load_train_data(params.train, use_entities)
+    self.train_data = self:load_train_data(params.train, use_entities)[46]
+    print(self.train_data)
+ 
     self.label_size = self.train_data.num_labels or 41 -- todo get from data
 
     -- cosine distance network for evaluation
@@ -47,6 +49,8 @@ function UniversalSchemaEncoder:__init(params, row_table, row_encoder, col_table
     end
     self.row_table = row_table
     self.col_table = col_table
+    print("col_encoder >>>>>>>>")
+    print(col_encoder)
     self.col_encoder = col_encoder
     self.row_encoder = row_encoder
 
@@ -132,6 +136,7 @@ function UniversalSchemaEncoder:train(num_epochs)
         for i = 1, #batches
         do
             local batch = self.params.shuffle and batches[shuffle[i]] or batches[i]
+	    
             local example = batch.data
             local label = batch.label
             epoch_error = epoch_error + self:optim_update(self.net, self.crit,
@@ -175,6 +180,69 @@ function UniversalSchemaEncoder:optim_update(net, criterion, x, y, parameters, g
         if parameters ~= parameters then parameters:copy(parameters) end
         net:zeroGradParameters()
         local pred = net:forward(x)
+	--print("select eps ")
+	--print(self.net.modules[1].modules[1].modules[1].modules[1].modules[1].modules[1].output)
+	--print("unsqeeze eps ")
+	--print(self.net.modules[1].modules[1].modules[1].modules[1].modules[1].modules[2].output)
+	--print("select neg ")
+	--print(self.net.modules[1].modules[1].modules[1].modules[1].modules[2].modules[1].output)
+
+	--print("reshape neg ")
+	--print(self.net.modules[1].modules[1].modules[1].modules[1].modules[2].modules[2].output)
+	--print("join pos+neg")
+	--print(self.net.modules[1].modules[1].modules[1].modules[2].output)
+
+	--print("select rel ")
+	--print(self.net.modules[1].modules[1].modules[2].modules[1].output)	
+	--print(self.net.modules[1].modules[1].modules[2].output)	
+	--print("rel + pos+neg ")
+	--print(self.net.modules[1].modules[1].output)	
+	--print("encoding rel")
+	--print(self.net.modules[2].modules[1].modules[1].modules[2].output)
+	--print("encoding rel and take the mean")
+	--print(self.net.modules[2].modules[1].modules[1].modules[3].output)
+	--print("relpicate rel encodings")
+	--print(self.net.modules[2].modules[1].output)
+	--print("encode rows")
+	--print(self.net.modules[2].modules[2].output)
+
+	--print("mutliply rels and rows elementwise")
+	--print(self.net.modules[3].modules[1].output)	
+	--print("sum rels and rows")
+	--print(self.net.modules[3].modules[2].output)
+	--print("sigmoid")
+	--print(self.net.modules[3].modules[3].output)
+
+	-- Attention part
+
+	print("rel + pos+neg ")
+	print(self.net.modules[2].modules[1].modules[1].modules[1].output)
+	--print(self.net.modules[2].modules[1].modules[1].modules[1].output)	
+	print("rel + pos+neg encoding ")
+	print(self.net.modules[2].modules[1].modules[1].modules[2].output)	
+	--print(self.net.modules[2].modules[1].modules[1].modules[2].output)	
+	-- the stuff fot the relation weighting
+	print("row encs and transposed col encs  ")
+	print(self.net.modules[2].modules[1].modules[1].modules[3].modules[1].modules[1].modules[1].modules[1].output)	
+	print("dor product of row encs and transposed col encs  ")
+	print(self.net.modules[2].modules[1].modules[1].modules[3].modules[1].modules[1].modules[1].modules[2].output)
+	print(self.net.modules[2].modules[1].modules[1].modules[3].modules[1].modules[1].modules[1].modules[3].output)	
+	print("take the columns")
+	print(self.net.modules[2].modules[1].modules[1].modules[3].modules[1].modules[1].modules[2].output)	
+	print("apply softmax to get probs for eps per rel")
+		
+	print(self.net.modules[2].modules[1].modules[1].modules[3].modules[1].modules[1].modules[3].output)
+	print("transformthe probs for dot prod with rels")		
+	print(self.net.modules[2].modules[1].modules[1].modules[3].modules[1].modules[1].modules[4].output)
+	print("take the unchanged cols again")		
+	print(self.net.modules[2].modules[1].modules[1].modules[3].modules[1].modules[2].output)
+	print("dot product of probs and columns")		
+	print(self.net.modules[2].modules[1].modules[1].modules[3].modules[2].output)
+	print("take the row encodings again")		
+	print(self.net.modules[2].modules[2].output)
+	print("mutliply rels and rows elementwise, sum and sigmoid")		
+	print(self.net.modules[3].output)
+	print("+++++++++++++++++++")
         err = criterion:forward(pred, y)
         local df_do = criterion:backward(pred, y)
         net:backward(x, df_do)
@@ -611,11 +679,12 @@ function UniversalSchemaEncoder:load_train_data(data_file, entities)
     else
         -- old 4 col format
         if #train > 0 then
-            for i = 1, self.params.maxSeq do
+            for i = 1,self.params.maxSeq do
                 if train[i] and train[i].ep then train[i] = self:load_sub_data_four_col(train[i], entities) end
             end
         else  self:load_sub_data_four_col(train, entities) end
     end
+
     return train
 end
 

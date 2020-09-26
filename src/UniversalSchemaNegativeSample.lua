@@ -77,6 +77,7 @@ function UniversalSchemaNegativeSample:build_scorer()
         scorer = nn.Sequential()
             :add(nn.CMulTable())
             :add(nn.Sum(3))
+	    :add(nn.Sigmoid())
     end
     if self.params.criterion == 'bce' then scorer:add(nn.Sigmoid()) end
     if self.params.criterion == 'bpr' then scorer:add(nn.SplitTable(2)) end
